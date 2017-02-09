@@ -55,16 +55,6 @@ footer {
 /*    position: fixed;*/
 }
 
-@media(max-width:768px) {
-    section {
-        padding-top: 25px;
-        padding-bottom: 25px;
-    }
-
-    .section-heading {
-        font-size: 2em;
-    }
-}
 
 .centered{
     text-align: center;
