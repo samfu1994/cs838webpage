@@ -44,7 +44,7 @@ def main():
 							tmp = tmp.strip()
 							if tmp == "<p1" or tmp == "<p2":
 								label = 1	
-
+							origin_list = cur_list[1:-1]
 							cur_list = cur_list[1:-1]
 							for i in range(len(cur_list)):
 								cur_list[i] = cur_list[i].strip().lower()
@@ -63,11 +63,13 @@ def main():
 								if ele in state_set:
 									has_state_name = 1
 
-							if len(cur_list) == 1:
-								for i in range(len(cur_list[0])):
-									if cur_list[0][i] > 'Z' or cur_list[0][i] < 'A':
+							if len(origin_list) == 1:
+								for i in range(len(origin_list[0])):
+									if origin_list[0][i] > 'Z' or origin_list[0][i] < 'A':
 										all_capital = 0
 										break
+							else:
+								all_capital = 0
 
 							row = {'word':word, 'has_university' : has_university, 'has_state_name' : has_state_name, 'has_state_word' : has_state_word,\
 								 'length' : length, 'has_dash' : has_dash, 'all_capital' : all_capital, 'has_num' : has_num, 'label' : label}
