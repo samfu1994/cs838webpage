@@ -1,0 +1,3 @@
+We have marked up the documents by the fact whether the word belongs to a university or not. In average, each document contains 3 positive instances and 3 negative instances. University names are marked up with <p1 ... p1> or <p2 ... p2>, words that are not university names are marked up with <n ... n>. University names can be in full-abbreviation or partial-abbreviation or full name.
+
+
