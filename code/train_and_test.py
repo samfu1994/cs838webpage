@@ -8,6 +8,7 @@ from sklearn import tree
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegression
 from sklearn.linear_model import LinearRegression
+from sklearn.neural_network import MLPClassifier
 import itertools
 import sys
 import argparse
@@ -107,8 +108,11 @@ if __name__ == "__main__":
 		clf = RandomForestClassifier()
 	if model_name == 'logistic_regression':
 		clf = LogisticRegression()
-	if model_name == 'linear_regression':
-		clf = LinearRegression()
+	if model_name == 'linear_regression' or model_name == 'neural_net':
+		if model_name == 'linear_regression':
+			clf = LinearRegression()
+		elif model_name == 'neural_net':
+			clf = MLPClassifier(solver='lbfgs', alpha=1e-5, hidden_layer_sizes=(15,), random_state=1)
 		for instance in train_data:
 			for feature_idx in range(len(train_data[0])):
 				instance[feature_idx] = int(instance[feature_idx])
@@ -134,16 +138,17 @@ if __name__ == "__main__":
 	test_label = np.array(test_label)
 
 	clf.fit(train_set, train_label)
+
 	if model_name == "decision_tree":
 	#visualize the tree
 		university_feature_names = [
-								"has university",
-								"has state name",
-								"has state word",
-								"length",
-								"has dash",
-								"all_capital",
-								"has num"
+							"has university",
+							"has state name",
+							"has state word",
+							"length",
+							"has dash",
+							"all_capital",
+							"has num"
 							]
 		university_target_name = ["True", "False"]
 		dot_data = tree.export_graphviz(clf, out_file=None, 
@@ -155,11 +160,11 @@ if __name__ == "__main__":
         graph.write_jpg("tree.jpg")
 
 	#make prediction
-	if model_name == 'logistic_regression' or model_name == 'linear_regression':
+	if model_name == 'logistic_regression' or model_name == 'linear_regression' or model_name == 'neural_net':
 		test_set = test_set.astype(np.float)
 	predict_result = clf.predict(test_set)
 
-	if model_name == 'linear_regression':
+	if model_name == 'linear_regression' or model_name == 'neural_net':
 		accuracy_counter = 0
 		tp = 0
 		fn = 0
