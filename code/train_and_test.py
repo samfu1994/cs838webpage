@@ -1,3 +1,5 @@
+#author: hwang
+#version: 2.0,0
 import csv
 import numpy as np
 import random
@@ -9,6 +11,9 @@ from sklearn.linear_model import LinearRegression
 import itertools
 import sys
 import argparse
+import pydotplus
+from IPython.display import Image
+
 
 TRAIN_RATIO = 0.8
 TEST_RATIO = 0.2
@@ -92,7 +97,7 @@ if __name__ == "__main__":
 	test_data = test_data[1:]
 	for instance in test_data:
 		instance[3] = int(instance[3])
-#========================================================================
+
 	#start train with SVM
 	if model_name == 'SVM':
 		clf = svm.SVC()
@@ -123,14 +128,32 @@ if __name__ == "__main__":
 		test_set.append(test_row[0:-1])
 		test_label.append(test_row[-1])
 
-#	cv_classifier = k_fold(8, train_set, train_label)
-
 	train_set = np.array(train_set)
 	train_label = np.array(train_label)
 	test_set = np.array(test_set)
 	test_label = np.array(test_label)
 
 	clf.fit(train_set, train_label)
+	if model_name == "decision_tree":
+	#visualize the tree
+		university_feature_names = [
+								"has university",
+								"has state name",
+								"has state word",
+								"length",
+								"has dash",
+								"all_capital",
+								"has num"
+							]
+		university_target_name = ["True", "False"]
+		dot_data = tree.export_graphviz(clf, out_file=None, 
+                         feature_names=university_feature_names,  
+                         class_names=university_target_name,  
+                         filled=True, rounded=True,  
+                         special_characters=True)
+        graph = pydotplus.graph_from_dot_data(dot_data)
+        graph.write_jpg("tree.jpg")
+
 	#make prediction
 	if model_name == 'logistic_regression' or model_name == 'linear_regression':
 		test_set = test_set.astype(np.float)
@@ -160,7 +183,9 @@ if __name__ == "__main__":
 	 	accuracy = float(accuracy_counter) / len(test_label)
 	 	precision = float(tp) / (tp + fp)
 	 	recall = float(tp) / (tp + fn) 
-		print("Without CV\tTest set accuracy: %s\tPrecision: %s\tRecall: %s" % (str(accuracy), str(precision), str(recall)))		
+	 	F1_score = 2 * (precision*recall) / float(precision + recall)
+		print("Test set accuracy: %s\tPrecision: %s\tRecall: %s\tF_1: %s" % (str(accuracy), str(precision), str(recall),
+			str(F1_score)))		
 
 	#calc test set accuracy/ precision/ recall
 	#naive classifier only with training set
@@ -180,27 +205,7 @@ if __name__ == "__main__":
 				fp += 1
 	 	accuracy = float(accuracy_counter) / len(test_label)
 	 	precision = float(tp) / (tp + fp)
-	 	recall = float(tp) / (tp + fn) 
-		print("Test set accuracy: %s\tPrecision: %s\tRecall: %s" % (str(accuracy), str(precision), str(recall)))
-
-	'''
-	#classifier with k-fold cross validation
-	cv_predict_result = cv_classifier.predict(test_set)
-	cv_accuracy_counter = 0
-	cv_tp = 0
-	cv_fn = 0
-	cv_fp = 0
-	for idx in range(len(cv_predict_result)):
-		if test_label[idx] == cv_predict_result[idx]:
-			cv_accuracy_counter += 1
-		if cv_predict_result[idx] == '1' and test_label[idx] == '1':
-			cv_tp += 1
-		if cv_predict_result[idx] == '0' and test_label[idx] == '1':
-			cv_fn += 1
-		if cv_predict_result[idx] == '1' and test_label[idx] == '0':
-			cv_fp += 1
- 	cv_accuracy = float(cv_accuracy_counter) / len(test_label)
- 	cv_precision = float(cv_tp) / (cv_tp + cv_fp)
- 	cv_recall = float(cv_tp) / (cv_tp + cv_fn) 
-	print("With CV\tTest set accuray: %s\tPrecision: %s\tRecall: %s" % (str(cv_accuracy), str(cv_precision), str(cv_recall)))
-	'''
+	 	recall = float(tp) / (tp + fn)
+	 	F1_score = 2 * (precision*recall) / float(precision + recall)
+		print("Test set accuracy: %s\tPrecision: %s\tRecall: %s\tF_1: %s" % (str(accuracy), str(precision), str(recall),
+			str(F1_score)))	
