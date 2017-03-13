@@ -2,11 +2,11 @@ import re
 import csv
 from os import listdir
 from os.path import isfile, join
-
+from extra_neg import extra_negative_instances
 def hasNumbers(inputString):
     return any(char.isdigit() for char in inputString)
 def main():
-	mypath = "/Users/fuhao/Desktop/textFile/"
+	mypath = "/Users/fuhao/Development/cs838webpage/textFile/"
 	files = [f for f in listdir(mypath) if isfile(join(mypath, f)) and f[-4:] == ".txt"]
 	train_files = files[:200]
 	test_files = files[200:]
