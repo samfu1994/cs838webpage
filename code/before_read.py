@@ -73,8 +73,7 @@ def main():
 							# else:
 							# 	all_capital = 0
 
-							row = {'word':word, 'has_university' : has_university, 'has_state_name' : has_state_name, 'has_state_word' : has_state_word,\
-								 'length' : length, 'has_dash' : has_dash, 'all_capital' : all_capital, 'has_num' : has_num, 'label' : label}
+							row = {'word':word, 'has_university' : has_university, 'length' : length, 'has_dash' : has_dash,  'has_num' : has_num, 'label' : label}
 							csvWriter.writerow(row)
 
 
