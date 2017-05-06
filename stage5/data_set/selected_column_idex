@@ -1,0 +1,4 @@
+{1, 2, 3, 8, 10, 13, 14, 15, 16, 17, 19, 21, 23, 24, 26, 30, 33, 34, 36, 39, 40, 42, 43, 44, 45, 47, 48, 49} (74 in total)
+
+{MSSubClass, MSZoning, LotArea, LotConfig, Neighborhood, BldgType, HouseStyle, OverallQual, OverallCond, YearBuilt, RootStyle, Exterior1st, MasVnrType, MasVnrArea, Foundation,
+BsmtFinSF1, BsmUnfSF, TotalBsmtSF, HeatingQC, 1stFlrSF, 2ndFlrSF, GrLivArea, BsmtFullBath, BsmtHalfBath, FullBath, BedroomAbvGr, KitchenAbvGr, KichenQual} 

@@ -1,0 +1,1461 @@
+MSSubClass,MSZoning,LotArea,LotConfig,Neighborhood,BldgType,HouseStyle,OverallQual,OverallCond,YearBuilt,RoofStyle,Exterior1st,MasVnrType,MasVnrArea,Foundation,BsmtFinSF1,BsmtUnfSF,TotalBsmtSF,HeatingQC,1stFlrSF,2ndFlrSF,GrLivArea,BsmtFullBath,BsmtHalfBath,FullBath,BedroomAbvGr,KitchenAbvGr,KitchenQual,SalePrice
+60,RL,8450,Inside,CollgCr,1Fam,2Story,7,5,2003,Gable,VinylSd,BrkFace,196,PConc,706,150,856,Ex,856,854,1710,1,0,2,3,1,Gd,208500
+20,RL,9600,FR2,Veenker,1Fam,1Story,6,8,1976,Gable,MetalSd,None,0,CBlock,978,284,1262,Ex,1262,0,1262,0,1,2,3,1,TA,181500
+60,RL,11250,Inside,CollgCr,1Fam,2Story,7,5,2001,Gable,VinylSd,BrkFace,162,PConc,486,434,920,Ex,920,866,1786,1,0,2,3,1,Gd,223500
+70,RL,9550,Corner,Crawfor,1Fam,2Story,7,5,1915,Gable,Wd Sdng,None,0,BrkTil,216,540,756,Gd,961,756,1717,1,0,1,3,1,Gd,140000
+60,RL,14260,FR2,NoRidge,1Fam,2Story,8,5,2000,Gable,VinylSd,BrkFace,350,PConc,655,490,1145,Ex,1145,1053,2198,1,0,2,4,1,Gd,250000
+50,RL,14115,Inside,Mitchel,1Fam,1.5Fin,5,5,1993,Gable,VinylSd,None,0,Wood,732,64,796,Ex,796,566,1362,1,0,1,1,1,TA,143000
+20,RL,10084,Inside,Somerst,1Fam,1Story,8,5,2004,Gable,VinylSd,Stone,186,PConc,1369,317,1686,Ex,1694,0,1694,1,0,2,3,1,Gd,307000
+60,RL,10382,Corner,NWAmes,1Fam,2Story,7,6,1973,Gable,HdBoard,Stone,240,CBlock,859,216,1107,Ex,1107,983,2090,1,0,2,3,1,TA,200000
+50,RM,6120,Inside,OldTown,1Fam,1.5Fin,7,5,1931,Gable,BrkFace,None,0,BrkTil,0,952,952,Gd,1022,752,1774,0,0,2,2,2,TA,129900
+190,RL,7420,Corner,BrkSide,2fmCon,1.5Unf,5,6,1939,Gable,MetalSd,None,0,BrkTil,851,140,991,Ex,1077,0,1077,1,0,1,2,2,TA,118000
+20,RL,11200,Inside,Sawyer,1Fam,1Story,5,5,1965,Hip,HdBoard,None,0,CBlock,906,134,1040,Ex,1040,0,1040,1,0,1,3,1,TA,129500
+60,RL,11924,Inside,NridgHt,1Fam,2Story,9,5,2005,Hip,WdShing,Stone,286,PConc,998,177,1175,Ex,1182,1142,2324,1,0,3,4,1,Ex,345000
+20,RL,12968,Inside,Sawyer,1Fam,1Story,5,6,1962,Hip,HdBoard,None,0,CBlock,737,175,912,TA,912,0,912,1,0,1,2,1,TA,144000
+20,RL,10652,Inside,CollgCr,1Fam,1Story,7,5,2006,Gable,VinylSd,Stone,306,PConc,0,1494,1494,Ex,1494,0,1494,0,0,2,3,1,Gd,279500
+20,RL,10920,Corner,NAmes,1Fam,1Story,6,5,1960,Hip,MetalSd,BrkFace,212,CBlock,733,520,1253,TA,1253,0,1253,1,0,1,2,1,TA,157000
+45,RM,6120,Corner,BrkSide,1Fam,1.5Unf,7,8,1929,Gable,Wd Sdng,None,0,BrkTil,0,832,832,Ex,854,0,854,0,0,1,2,1,TA,132000
+20,RL,11241,CulDSac,NAmes,1Fam,1Story,6,7,1970,Gable,Wd Sdng,BrkFace,180,CBlock,578,426,1004,Ex,1004,0,1004,1,0,1,2,1,TA,149000
+90,RL,10791,Inside,Sawyer,Duplex,1Story,4,5,1967,Gable,MetalSd,None,0,Slab,0,0,0,TA,1296,0,1296,0,0,2,2,2,TA,90000
+20,RL,13695,Inside,SawyerW,1Fam,1Story,5,5,2004,Gable,VinylSd,None,0,PConc,646,468,1114,Ex,1114,0,1114,1,0,1,3,1,Gd,159000
+20,RL,7560,Inside,NAmes,1Fam,1Story,5,6,1958,Hip,BrkFace,None,0,CBlock,504,525,1029,TA,1339,0,1339,0,0,1,3,1,TA,139000
+60,RL,14215,Corner,NridgHt,1Fam,2Story,8,5,2005,Gable,VinylSd,BrkFace,380,PConc,0,1158,1158,Ex,1158,1218,2376,0,0,3,4,1,Gd,325300
+45,RM,7449,Inside,IDOTRR,1Fam,1.5Unf,7,7,1930,Gable,Wd Sdng,None,0,PConc,0,637,637,Ex,1108,0,1108,0,0,1,3,1,Gd,139400
+20,RL,9742,Inside,CollgCr,1Fam,1Story,8,5,2002,Hip,VinylSd,BrkFace,281,PConc,0,1777,1777,Ex,1795,0,1795,0,0,2,3,1,Gd,230000
+120,RM,4224,Inside,MeadowV,TwnhsE,1Story,5,7,1976,Gable,CemntBd,None,0,PConc,840,200,1040,TA,1060,0,1060,1,0,1,3,1,TA,129900
+20,RL,8246,Inside,Sawyer,1Fam,1Story,5,8,1968,Gable,Plywood,None,0,CBlock,188,204,1060,Ex,1060,0,1060,1,0,1,3,1,Gd,154000
+20,RL,14230,Corner,NridgHt,1Fam,1Story,8,5,2007,Gable,VinylSd,Stone,640,PConc,0,1566,1566,Ex,1600,0,1600,0,0,2,3,1,Gd,256300
+20,RL,7200,Corner,NAmes,1Fam,1Story,5,7,1951,Gable,Wd Sdng,None,0,CBlock,234,180,900,TA,900,0,900,0,1,1,3,1,Gd,134800
+20,RL,11478,Inside,NridgHt,1Fam,1Story,8,5,2007,Gable,VinylSd,Stone,200,PConc,1218,486,1704,Ex,1704,0,1704,1,0,2,3,1,Gd,306000
+20,RL,16321,CulDSac,NAmes,1Fam,1Story,5,6,1957,Gable,MetalSd,None,0,CBlock,1277,207,1484,TA,1600,0,1600,1,0,1,2,1,TA,207500
+30,RM,6324,Inside,BrkSide,1Fam,1Story,4,6,1927,Gable,MetalSd,None,0,BrkTil,0,520,520,Fa,520,0,520,0,0,1,1,1,Fa,68500
+70,C (all),8500,Inside,IDOTRR,1Fam,2Story,4,4,1920,Gambrel,BrkFace,None,0,BrkTil,0,649,649,TA,649,668,1317,0,0,1,3,1,TA,40000
+20,RL,8544,CulDSac,Sawyer,1Fam,1Story,5,6,1966,Gable,HdBoard,None,0,CBlock,0,1228,1228,Gd,1228,0,1228,0,0,1,3,1,Gd,149350
+20,RL,11049,Corner,CollgCr,1Fam,1Story,8,5,2007,Gable,VinylSd,None,0,PConc,0,1234,1234,Ex,1234,0,1234,0,0,2,3,1,Gd,179900
+20,RL,10552,Inside,NAmes,1Fam,1Story,5,5,1959,Hip,BrkFace,None,0,CBlock,1018,380,1398,Gd,1700,0,1700,0,1,1,4,1,Gd,165500
+120,RL,7313,Inside,NridgHt,TwnhsE,1Story,9,5,2005,Hip,MetalSd,BrkFace,246,PConc,1153,408,1561,Ex,1561,0,1561,1,0,2,2,1,Ex,277500
+60,RL,13418,Inside,NridgHt,1Fam,2Story,8,5,2004,Gable,VinylSd,Stone,132,PConc,0,1117,1117,Ex,1132,1320,2452,0,0,3,4,1,Gd,309000
+20,RL,10859,Corner,CollgCr,1Fam,1Story,5,5,1994,Gable,VinylSd,None,0,PConc,0,1097,1097,Ex,1097,0,1097,0,0,1,3,1,TA,145000
+20,RL,8532,Inside,NAmes,1Fam,1Story,5,6,1954,Hip,Wd Sdng,BrkFace,650,CBlock,1213,84,1297,Gd,1297,0,1297,0,1,1,3,1,TA,153000
+20,RL,7922,Inside,NAmes,1Fam,1Story,5,7,1953,Gable,VinylSd,None,0,CBlock,731,326,1057,TA,1057,0,1057,1,0,1,3,1,Gd,109000
+90,RL,6040,Inside,Edwards,Duplex,1Story,4,5,1955,Gable,AsbShng,None,0,PConc,0,0,0,TA,1152,0,1152,0,0,2,2,2,Fa,82000
+20,RL,8658,Inside,NAmes,1Fam,1Story,6,5,1965,Gable,Wd Sdng,BrkFace,101,CBlock,643,445,1088,Ex,1324,0,1324,0,0,2,3,1,TA,160000
+20,RL,16905,Inside,Timber,1Fam,1Story,5,6,1959,Gable,VinylSd,None,0,CBlock,967,383,1350,Gd,1328,0,1328,0,1,1,2,1,TA,170000
+85,RL,9180,CulDSac,SawyerW,1Fam,SFoyer,5,7,1983,Gable,HdBoard,None,0,CBlock,747,0,840,Gd,884,0,884,1,0,1,2,1,Gd,144000
+20,RL,9200,CulDSac,CollgCr,1Fam,1Story,5,6,1975,Hip,VinylSd,None,0,CBlock,280,167,938,TA,938,0,938,1,0,1,3,1,TA,130250
+20,RL,7945,Inside,NAmes,1Fam,1Story,5,6,1959,Gable,BrkFace,None,0,CBlock,179,465,1150,Ex,1150,0,1150,1,0,1,3,1,TA,141000
+120,RL,7658,Inside,NridgHt,TwnhsE,1Story,9,5,2005,Hip,MetalSd,BrkFace,412,PConc,456,1296,1752,Ex,1752,0,1752,1,0,2,2,1,Ex,319900
+50,RL,12822,CulDSac,Mitchel,1Fam,1.5Fin,7,5,2003,Gable,VinylSd,None,0,PConc,1351,83,1434,Ex,1518,631,2149,1,0,1,1,1,Gd,239686
+20,FV,11096,Inside,Somerst,1Fam,1Story,8,5,2006,Gable,VinylSd,None,0,PConc,24,1632,1656,Ex,1656,0,1656,0,0,2,3,1,Gd,249700
+190,RM,4456,Inside,OldTown,2fmCon,2Story,4,5,1920,Gable,MetalSd,None,0,BrkTil,0,736,736,Gd,736,716,1452,0,0,2,2,3,TA,113000
+20,RL,7742,Inside,Sawyer,1Fam,1Story,5,7,1966,Gable,HdBoard,None,0,CBlock,763,192,955,Ex,955,0,955,1,0,1,3,1,TA,127000
+60,RL,13869,Corner,Gilbert,1Fam,2Story,6,6,1997,Gable,VinylSd,None,0,PConc,182,612,794,Gd,794,676,1470,0,1,2,3,1,TA,177000
+50,RM,6240,Inside,BrkSide,1Fam,1.5Fin,6,6,1934,Gable,Wd Sdng,None,0,PConc,0,816,816,TA,816,0,1176,0,0,1,3,1,TA,114500
+90,RM,8472,Corner,IDOTRR,Duplex,1Story,5,5,1963,Gable,Wd Sdng,None,0,CBlock,104,0,816,TA,816,0,816,1,0,1,2,1,TA,110000
+20,RL,50271,Inside,Veenker,1Fam,1Story,9,5,1981,Gable,WdShing,None,0,CBlock,1810,32,1842,Gd,1842,0,1842,2,0,0,0,1,Gd,385000
+80,RL,7134,Inside,NAmes,1Fam,SLvl,5,5,1955,Gable,MetalSd,None,0,CBlock,384,0,384,TA,1360,0,1360,0,0,1,3,1,TA,130000
+20,RL,10175,Inside,NAmes,1Fam,1Story,6,5,1964,Gable,HdBoard,BrkFace,272,CBlock,490,935,1425,Gd,1425,0,1425,0,0,2,3,1,TA,180500
+160,FV,2645,Inside,Somerst,Twnhs,2Story,8,5,1999,Gable,MetalSd,BrkFace,456,PConc,649,321,970,Ex,983,756,1739,1,0,2,3,1,Gd,172500
+60,RL,11645,Corner,CollgCr,1Fam,2Story,7,5,2004,Gable,VinylSd,None,0,PConc,0,860,860,Ex,860,860,1720,0,0,2,3,1,Gd,196500
+60,RL,13682,CulDSac,StoneBr,1Fam,2Story,10,5,2006,Hip,VinylSd,BrkFace,1031,PConc,0,1410,1410,Ex,1426,1519,2945,0,0,3,3,1,Gd,438780
+20,RL,7200,Inside,CollgCr,1Fam,1Story,5,7,1972,Gable,HdBoard,None,0,CBlock,632,148,780,Ex,780,0,780,0,0,1,2,1,TA,124900
+20,RL,13072,Inside,SawyerW,1Fam,1Story,6,5,2004,Gable,VinylSd,None,0,PConc,941,217,1158,Ex,1158,0,1158,1,0,1,3,1,Gd,158000
+75,RM,7200,Inside,IDOTRR,1Fam,2.5Unf,5,7,1920,Gable,MetalSd,None,0,BrkTil,0,530,530,TA,581,530,1111,0,0,1,3,1,Fa,101000
+120,RL,6442,Inside,NridgHt,TwnhsE,1Story,8,5,2006,Gable,VinylSd,Stone,178,PConc,24,1346,1370,Ex,1370,0,1370,0,0,2,2,1,Gd,202500
+70,RM,10300,Inside,OldTown,1Fam,2Story,7,6,1921,Gable,Stucco,None,0,BrkTil,0,576,576,Gd,902,808,1710,0,0,2,3,1,TA,140000
+60,RL,9375,Inside,CollgCr,1Fam,2Story,7,5,1997,Gable,VinylSd,BrkFace,573,PConc,739,318,1057,Ex,1057,977,2034,1,0,2,3,1,Gd,219500
+60,RL,9591,Inside,NridgHt,1Fam,2Story,8,5,2004,Gable,VinylSd,BrkFace,344,PConc,0,1143,1143,Ex,1143,1330,2473,0,0,2,4,1,Gd,317000
+20,RL,19900,Inside,NAmes,1Fam,1Story,7,5,1970,Gable,Plywood,BrkFace,287,CBlock,912,1035,1947,TA,2207,0,2207,1,0,2,3,1,TA,180000
+20,RL,10665,Inside,CollgCr,1Fam,1Story,7,5,2003,Gable,VinylSd,BrkFace,167,PConc,1013,440,1453,Ex,1479,0,1479,1,0,2,3,1,Gd,226000
+30,RM,4608,Corner,OldTown,1Fam,1Story,4,6,1945,Gable,MetalSd,None,0,CBlock,0,747,747,TA,747,0,747,0,0,1,2,1,TA,80000
+50,RL,15593,Corner,ClearCr,1Fam,1.5Fin,7,4,1953,Gable,BrkFace,None,0,CBlock,603,701,1304,TA,1304,983,2287,0,0,2,3,1,TA,225000
+20,RL,13651,Inside,NAmes,1Fam,1Story,7,6,1973,Gable,Plywood,BrkFace,1115,CBlock,1880,343,2223,Ex,2223,0,2223,1,0,2,3,1,TA,244000
+20,RL,7599,Corner,Mitchel,1Fam,1Story,4,6,1982,Gable,HdBoard,None,0,CBlock,565,280,845,TA,845,0,845,1,0,1,2,1,TA,129500
+60,RL,10141,Corner,Gilbert,1Fam,2Story,7,5,1998,Gable,VinylSd,BrkFace,40,PConc,0,832,832,Gd,885,833,1718,0,0,2,3,1,TA,185000
+20,RL,10200,Inside,NAmes,1Fam,1Story,5,7,1954,Gable,Wd Sdng,BrkFace,104,CBlock,320,404,1086,Gd,1086,0,1086,1,0,1,3,1,TA,144900
+50,RM,5790,Corner,OldTown,1Fam,2Story,3,6,1915,Gambrel,VinylSd,None,0,CBlock,0,840,840,Gd,840,765,1605,0,0,2,3,2,TA,107400
+180,RM,1596,Inside,MeadowV,Twnhs,SLvl,4,5,1973,Gable,CemntBd,None,0,CBlock,462,0,462,TA,526,462,988,1,0,1,2,1,TA,91000
+20,RL,8475,Inside,NAmes,1Fam,1Story,4,7,1956,Gable,VinylSd,None,0,CBlock,228,724,952,Ex,952,0,952,0,0,1,2,1,TA,135750
+50,RM,8635,Inside,BrkSide,1Fam,1.5Fin,5,5,1948,Gable,Wd Sdng,None,0,CBlock,336,295,672,TA,1072,213,1285,1,0,1,2,1,TA,127000
+90,RL,10778,Inside,Sawyer,Duplex,1Story,4,5,1968,Hip,HdBoard,None,0,CBlock,0,1768,1768,TA,1768,0,1768,0,0,2,4,2,TA,136500
+50,RM,10440,Corner,OldTown,1Fam,2Story,5,6,1910,Gable,Wd Sdng,None,0,PConc,0,440,440,Gd,682,548,1230,0,0,1,2,1,TA,110000
+60,RL,13000,Corner,NAmes,1Fam,2Story,6,6,1968,Gable,VinylSd,BrkFace,576,CBlock,448,448,896,TA,1182,960,2142,0,0,2,4,1,Gd,193500
+120,RM,4500,FR2,Mitchel,TwnhsE,1Story,6,5,1998,Hip,VinylSd,BrkFace,443,PConc,1201,36,1237,Ex,1337,0,1337,1,0,2,2,1,TA,153500
+20,RL,10206,Inside,Somerst,1Fam,1Story,8,5,2007,Gable,VinylSd,Stone,468,PConc,33,1530,1563,Ex,1563,0,1563,0,0,2,3,1,Gd,245000
+20,RL,8892,Inside,NAmes,1Fam,1Story,5,5,1960,Gable,MetalSd,BrkCmn,66,CBlock,0,1065,1065,Gd,1065,0,1065,0,0,1,3,1,TA,126500
+80,RL,8530,Inside,Gilbert,1Fam,SLvl,7,5,1995,Gable,HdBoard,BrkFace,22,PConc,0,384,384,Gd,804,670,1474,0,0,2,3,1,TA,168500
+60,RL,16059,Corner,NoRidge,1Fam,2Story,8,5,1991,Hip,HdBoard,BrkFace,284,CBlock,0,1288,1288,Ex,1301,1116,2417,0,0,2,4,1,Gd,260000
+60,RL,11911,Inside,Gilbert,1Fam,2Story,6,5,2005,Gable,VinylSd,None,0,PConc,0,684,684,Ex,684,876,1560,0,0,2,3,1,Gd,174000
+160,FV,3951,Corner,Somerst,TwnhsE,2Story,6,5,2009,Gable,VinylSd,Stone,76,PConc,0,612,612,Ex,612,612,1224,0,0,2,2,1,Gd,164500
+50,C (all),8470,Corner,IDOTRR,1Fam,1.5Fin,3,2,1915,Hip,Plywood,None,0,CBlock,0,1013,1013,TA,1013,0,1526,0,0,1,2,1,Fa,85000
+20,RL,8070,Inside,CollgCr,1Fam,1Story,4,5,1994,Gable,VinylSd,None,0,PConc,588,402,990,Ex,990,0,990,1,0,1,3,1,TA,123600
+20,RL,7200,Inside,NAmes,1Fam,1Story,4,5,1950,Gable,BrkFace,None,0,Slab,0,0,0,TA,1040,0,1040,0,0,1,2,1,TA,109900
+20,RL,8500,Inside,NAmes,1Fam,1Story,5,3,1961,Hip,HdBoard,BrkCmn,203,CBlock,600,635,1235,TA,1235,0,1235,0,0,1,2,1,TA,98600
+30,RL,13360,Inside,Crawfor,1Fam,1Story,5,7,1921,Gable,Wd Sdng,None,0,BrkTil,713,163,876,Ex,964,0,964,1,0,1,2,1,TA,163500
+190,C (all),7200,Corner,OldTown,2fmCon,2.5Unf,6,6,1910,Hip,MetalSd,None,0,BrkTil,1046,168,1214,Ex,1260,1031,2291,0,1,2,4,2,TA,133900
+60,RL,9337,Inside,CollgCr,1Fam,2Story,6,5,1997,Gable,VinylSd,None,0,PConc,648,176,824,Ex,905,881,1786,1,0,2,3,1,Gd,204750
+60,RL,9765,Corner,Gilbert,1Fam,2Story,6,8,1993,Gable,VinylSd,BrkFace,68,PConc,310,370,680,Gd,680,790,1470,0,0,2,3,1,TA,185000
+20,RL,10264,Inside,CollgCr,1Fam,1Story,7,5,1999,Gable,VinylSd,BrkFace,183,PConc,1162,426,1588,Ex,1588,0,1588,0,0,2,3,1,Gd,214000
+20,RL,10921,Inside,Edwards,1Fam,1Story,4,5,1965,Hip,HdBoard,BrkFace,48,CBlock,520,440,960,TA,960,0,960,1,0,1,3,1,TA,94750
+30,RL,10625,Corner,Edwards,1Fam,1Story,5,5,1920,Gable,Wd Sdng,None,0,BrkTil,108,350,458,Fa,835,0,835,0,0,1,2,1,TA,83000
+20,RL,9320,Inside,NAmes,1Fam,1Story,4,5,1959,Gable,Plywood,None,0,CBlock,569,381,950,Fa,1225,0,1225,1,0,1,3,1,TA,128950
+20,RL,10603,Inside,NWAmes,1Fam,1Story,6,7,1977,Gable,Plywood,BrkFace,28,PConc,1200,410,1610,Gd,1610,0,1610,1,0,2,3,1,Gd,205000
+60,RL,9206,Inside,SawyerW,1Fam,2Story,6,5,1985,Gable,HdBoard,BrkFace,336,CBlock,0,741,741,TA,977,755,1732,0,0,2,3,1,Gd,178000
+90,RL,7018,Inside,SawyerW,Duplex,1Story,5,5,1979,Gable,HdBoard,None,0,Slab,0,0,0,TA,1535,0,1535,0,0,2,4,2,TA,118964
+20,RL,10402,Corner,CollgCr,1Fam,1Story,7,5,2009,Gable,VinylSd,None,0,PConc,0,1226,1226,Ex,1226,0,1226,0,0,2,3,1,Gd,198900
+50,RM,7758,Corner,IDOTRR,1Fam,1.5Fin,7,4,1931,Gable,Stucco,BrkFace,600,PConc,224,816,1040,Ex,1226,592,1818,0,0,1,4,1,TA,169500
+60,FV,9375,Inside,Somerst,1Fam,2Story,8,5,2003,Hip,VinylSd,BrkFace,768,PConc,0,1053,1053,Ex,1053,939,1992,0,0,2,3,1,Gd,250000
+30,RM,10800,Inside,OldTown,1Fam,1Story,4,7,1885,Mansard,VinylSd,None,0,BrkTil,0,641,641,Gd,1047,0,1047,0,0,1,2,1,TA,100000
+20,RM,6000,Inside,OldTown,1Fam,1Story,5,5,1948,Gable,VinylSd,None,0,CBlock,104,516,789,Ex,789,0,789,0,0,1,2,1,TA,115000
+50,RM,8500,Corner,IDOTRR,1Fam,1.5Fin,5,7,1919,Gable,CemntBd,None,0,CBlock,0,793,793,TA,997,520,1517,0,0,2,3,1,Fa,115000
+20,RL,11751,Inside,NWAmes,1Fam,1Story,6,6,1977,Hip,Plywood,BrkFace,480,CBlock,705,1139,1844,Ex,1844,0,1844,0,0,2,3,1,TA,190000
+50,RL,9525,Inside,Edwards,1Fam,1.5Fin,6,4,1954,Gable,Wd Sdng,None,0,CBlock,444,550,994,Gd,1216,639,1855,0,0,2,4,1,TA,136900
+80,RL,7750,Inside,Gilbert,1Fam,SLvl,7,5,2000,Gable,VinylSd,None,0,PConc,250,134,384,Ex,774,656,1430,0,0,2,3,1,TA,180000
+60,RL,9965,Inside,CollgCr,1Fam,2Story,7,5,2007,Gable,VinylSd,Stone,220,PConc,984,280,1264,Ex,1282,1414,2696,1,0,2,4,1,Ex,383970
+20,RL,21000,Corner,Crawfor,1Fam,1Story,6,5,1953,Hip,Wd Sdng,BrkFace,184,CBlock,35,905,1809,TA,2259,0,2259,1,0,2,3,1,Gd,217000
+70,RL,7259,Inside,Crawfor,1Fam,2Story,6,8,1945,Gambrel,Wd Sdng,None,0,CBlock,774,104,1028,Ex,1436,884,2320,1,0,2,3,1,Gd,259500
+160,FV,3230,Corner,Somerst,TwnhsE,2Story,6,5,1999,Gable,MetalSd,BrkFace,1129,PConc,419,310,729,Gd,729,729,1458,0,0,2,2,1,TA,176000
+20,RL,11616,Inside,Sawyer,1Fam,1Story,5,5,1962,Gable,Wd Sdng,BrkFace,116,CBlock,170,252,1092,TA,1092,0,1092,0,1,1,3,1,TA,139000
+20,RL,8536,Corner,Edwards,1Fam,1Story,5,5,2006,Gable,VinylSd,None,0,PConc,0,1125,1125,Gd,1125,0,1125,0,0,1,2,1,TA,155000
+60,RL,12376,Corner,SawyerW,1Fam,2Story,7,5,1990,Hip,Plywood,None,0,PConc,1470,203,1673,Gd,1699,1523,3222,1,0,3,5,1,Gd,320000
+60,RL,8461,Inside,CollgCr,1Fam,2Story,6,5,2005,Gable,VinylSd,None,0,PConc,0,728,728,Ex,728,728,1456,0,0,2,3,1,Gd,163990
+80,RL,21453,CulDSac,ClearCr,1Fam,SLvl,6,5,1969,Flat,Plywood,None,0,CBlock,938,0,938,Ex,988,0,988,1,0,1,1,1,TA,180000
+50,RM,6060,Inside,IDOTRR,1Fam,1.5Fin,4,5,1939,Gable,AsbShng,None,0,PConc,0,732,732,Gd,772,351,1123,0,0,1,3,1,TA,100000
+20,RL,9464,Corner,NAmes,1Fam,1Story,6,7,1958,Hip,MetalSd,BrkFace,135,CBlock,570,510,1080,Gd,1080,0,1080,0,0,1,3,1,TA,136000
+120,RL,7892,Inside,SawyerW,TwnhsE,1Story,6,5,1993,Gable,Plywood,None,0,PConc,300,899,1199,Ex,1199,0,1199,0,0,2,2,1,Gd,153900
+20,RL,17043,CulDSac,NWAmes,1Fam,1Story,6,5,1979,Gable,HdBoard,None,0,CBlock,0,1362,1362,TA,1586,0,1586,0,0,2,3,1,TA,181000
+190,RM,6780,Inside,IDOTRR,2fmCon,1.5Fin,6,8,1935,Gable,Wd Sdng,None,0,CBlock,490,30,520,Gd,520,0,754,1,0,1,2,1,TA,84500
+120,RL,4928,Inside,NPkVill,TwnhsE,1Story,6,5,1976,Gable,Plywood,None,0,CBlock,120,958,1078,TA,958,0,958,0,0,2,2,1,TA,128000
+45,RM,4388,Inside,OldTown,1Fam,1.5Unf,5,7,1930,Gable,WdShing,None,0,BrkTil,116,556,672,Ex,840,0,840,0,0,1,3,1,TA,87000
+60,RL,7590,Inside,NAmes,1Fam,2Story,6,5,1966,Gable,VinylSd,BrkFace,266,CBlock,512,148,660,TA,660,688,1348,0,0,1,3,1,TA,155000
+20,RL,8973,Inside,NAmes,1Fam,1Story,5,7,1958,Gable,Plywood,BrkFace,85,CBlock,567,413,1008,TA,1053,0,1053,0,1,1,3,1,Ex,150000
+60,RL,14200,Corner,NAmes,1Fam,2Story,7,6,1966,Gable,MetalSd,BrkFace,309,CBlock,445,479,924,Ex,1216,941,2157,0,0,2,4,1,Gd,226000
+60,RL,12224,Corner,Gilbert,1Fam,2Story,6,5,2000,Gable,VinylSd,BrkFace,40,PConc,695,297,992,Ex,1022,1032,2054,1,0,2,3,1,Gd,244000
+20,RL,7388,Corner,NAmes,1Fam,1Story,5,6,1959,Gable,MetalSd,None,0,CBlock,405,658,1063,Gd,1327,0,1327,1,0,1,3,1,Gd,150750
+20,RL,6853,Inside,Timber,1Fam,1Story,8,5,2001,Gable,VinylSd,BrkFace,136,PConc,1005,262,1267,Ex,1296,0,1296,1,0,2,2,1,Gd,220000
+20,RL,10335,Inside,Sawyer,1Fam,1Story,5,6,1968,Gable,Plywood,None,0,CBlock,570,891,1461,Gd,1721,0,1721,0,0,2,3,1,TA,180000
+20,RL,10400,Inside,NWAmes,1Fam,1Story,7,6,1970,Hip,Plywood,BrkFace,288,PConc,0,1304,1304,Gd,1682,0,1682,0,0,2,3,1,TA,174000
+20,RL,10355,Corner,NAmes,1Fam,1Story,5,5,1967,Gable,MetalSd,BrkFace,196,CBlock,695,519,1214,TA,1214,0,1214,0,0,2,3,1,TA,143000
+90,RL,11070,Inside,Mitchel,Duplex,1Story,7,5,1988,Gable,VinylSd,BrkFace,70,CBlock,0,1907,1907,Gd,1959,0,1959,0,0,3,5,2,TA,171000
+60,RL,9066,Inside,CollgCr,1Fam,2Story,8,5,1999,Gable,VinylSd,BrkFace,320,PConc,668,336,1004,Ex,1004,848,1852,0,0,2,3,1,Gd,230000
+60,RL,15426,Inside,CollgCr,1Fam,2Story,6,5,1997,Gable,VinylSd,None,0,PConc,821,107,928,Ex,928,836,1764,1,0,2,3,1,Gd,231500
+20,RL,10500,FR2,NAmes,1Fam,1Story,4,5,1971,Gable,HdBoard,None,0,CBlock,432,432,864,TA,864,0,864,0,0,1,3,1,TA,115000
+20,RL,11645,Inside,CollgCr,1Fam,1Story,7,5,2005,Gable,VinylSd,None,0,PConc,1300,434,1734,Ex,1734,0,1734,1,0,2,3,1,Gd,260000
+50,RL,8520,Corner,NAmes,1Fam,1.5Fin,5,4,1952,Gable,BrkFace,None,0,CBlock,507,403,910,Fa,910,475,1385,0,0,2,4,1,TA,166000
+20,RL,10335,Inside,CollgCr,1Fam,1Story,7,5,1999,Gable,VinylSd,BrkFace,183,PConc,679,811,1490,Ex,1501,0,1501,1,0,2,3,1,Gd,204000
+90,RM,9100,Inside,Sawyer,Duplex,1Story,5,5,1963,Gable,HdBoard,BrkFace,336,CBlock,1332,396,1728,TA,1728,0,1728,1,0,2,6,2,TA,125000
+160,RM,2522,Inside,Edwards,Twnhs,2Story,6,5,2004,Gable,VinylSd,Stone,50,PConc,0,970,970,Ex,970,739,1709,0,0,2,3,1,Gd,130000
+30,RM,6120,Corner,BrkSide,1Fam,1Story,5,7,1931,Gable,Wd Sdng,None,0,BrkTil,209,506,715,TA,875,0,875,1,0,1,2,1,TA,105000
+60,RL,9505,CulDSac,Gilbert,1Fam,2Story,7,5,2001,Gable,VinylSd,BrkFace,180,PConc,0,884,884,Ex,884,1151,2035,0,0,2,3,1,Gd,222500
+20,RL,7500,Inside,SawyerW,1Fam,1Story,7,5,2004,Gable,VinylSd,BrkFace,120,PConc,680,400,1080,Ex,1080,0,1080,1,0,1,3,1,Gd,141000
+50,RM,6240,Inside,BrkSide,1Fam,1.5Fin,5,4,1936,Gable,MetalSd,None,0,BrkTil,0,896,896,Gd,896,448,1344,0,0,1,3,1,TA,115000
+20,RL,10356,Corner,CollgCr,1Fam,1Story,5,6,1975,Gable,HdBoard,None,0,CBlock,716,253,969,TA,969,0,969,0,0,1,3,1,TA,122000
+20,RL,13891,Inside,NridgHt,1Fam,1Story,8,5,2007,Hip,VinylSd,Stone,436,PConc,1400,310,1710,Ex,1710,0,1710,1,0,2,2,1,Gd,372402
+60,RL,14803,CulDSac,NWAmes,1Fam,2Story,6,5,1971,Gable,HdBoard,BrkFace,252,CBlock,416,409,825,Gd,1097,896,1993,0,0,2,4,1,TA,190000
+20,RL,13500,Inside,ClearCr,1Fam,1Story,6,7,1960,Flat,BrkFace,None,0,CBlock,429,93,1602,Gd,1252,0,1252,1,0,1,1,1,TA,235000
+30,RM,11340,Corner,OldTown,1Fam,1Story,6,5,1923,Gable,Wd Sdng,None,0,BrkTil,0,1200,1200,TA,1200,0,1200,0,0,1,4,1,TA,125000
+50,RL,9600,Corner,Edwards,1Fam,1.5Fin,6,5,1924,Gable,Wd Sdng,None,0,BrkTil,0,572,572,Fa,572,524,1096,0,0,1,2,1,TA,79000
+20,RL,7200,Inside,NAmes,1Fam,1Story,5,7,1950,Hip,Wd Sdng,None,0,CBlock,0,0,0,TA,1040,0,1040,0,0,1,2,1,TA,109500
+60,RL,12003,Corner,Timber,1Fam,2Story,8,5,2009,Gable,VinylSd,BrkFace,84,PConc,0,774,774,Ex,774,1194,1968,0,0,2,4,1,Ex,269500
+60,FV,12552,Corner,Somerst,1Fam,2Story,7,5,2004,Gable,VinylSd,None,0,PConc,222,769,991,Ex,991,956,1947,0,0,2,3,1,Gd,254900
+60,RL,19378,Corner,Gilbert,1Fam,2Story,7,5,2005,Gable,VinylSd,BrkFace,456,PConc,57,1335,1392,Ex,1392,1070,2462,1,0,2,4,1,Gd,320000
+20,RL,11120,CulDSac,Veenker,1Fam,1Story,6,6,1984,Gable,Plywood,None,0,PConc,660,572,1232,TA,1232,0,1232,0,0,2,3,1,TA,162500
+60,RL,13688,Inside,NridgHt,1Fam,2Story,9,5,2003,Gable,VinylSd,BrkFace,664,PConc,1016,556,1572,Ex,1572,1096,2668,1,0,2,3,1,Ex,412500
+20,RL,12182,Corner,NridgHt,1Fam,1Story,7,5,2005,Gable,VinylSd,BrkFace,226,PConc,1201,340,1541,Ex,1541,0,1541,0,0,2,3,1,Gd,220000
+45,RL,5500,Inside,OldTown,1Fam,1.5Unf,4,6,1956,Gable,MetalSd,None,0,CBlock,0,882,882,Ex,882,0,882,0,0,1,1,1,TA,103200
+40,RM,5400,Corner,OldTown,1Fam,1Story,6,7,1926,Gable,MetalSd,None,0,BrkTil,370,779,1149,Gd,1149,467,1616,0,0,2,3,1,Gd,152000
+190,RL,10106,Inside,Edwards,2fmCon,1.5Fin,5,7,1940,Gable,Wd Sdng,None,0,BrkTil,351,112,644,Gd,808,547,1355,1,0,2,4,2,TA,127500
+20,RL,10708,Inside,ClearCr,1Fam,1Story,5,5,1955,Hip,Wd Sdng,None,0,CBlock,379,470,1617,Ex,1867,0,1867,1,0,1,2,1,TA,190000
+60,RL,10562,Inside,NridgHt,1Fam,2Story,8,5,2007,Gable,VinylSd,Stone,300,PConc,1288,294,1582,Ex,1610,551,2161,1,0,1,3,1,Ex,325624
+60,RL,8244,Inside,Gilbert,1Fam,2Story,7,5,2004,Gable,VinylSd,None,0,PConc,0,840,840,Ex,840,880,1720,0,0,2,3,1,Gd,183500
+20,RL,16669,Corner,Timber,1Fam,1Story,8,6,1981,Hip,Plywood,BrkFace,653,CBlock,0,1686,1686,TA,1707,0,1707,0,0,2,2,1,TA,228000
+50,RM,12358,Inside,OldTown,1Fam,1.5Fin,5,6,1941,Gable,MetalSd,None,0,CBlock,360,360,720,TA,854,0,1382,0,0,1,2,1,TA,128500
+20,RL,31770,Corner,NAmes,1Fam,1Story,6,5,1960,Hip,BrkFace,Stone,112,CBlock,639,441,1080,Fa,1656,0,1656,1,0,1,3,1,TA,215000
+160,RL,5306,Inside,StoneBr,TwnhsE,2Story,7,7,1987,Gable,HdBoard,None,0,PConc,495,354,1064,Gd,1064,703,1767,1,0,2,2,1,Gd,239000
+20,RL,10197,Inside,NAmes,1Fam,1Story,6,5,1961,Gable,WdShing,BrkCmn,491,CBlock,288,700,1362,TA,1362,0,1362,1,0,1,3,1,TA,163000
+20,RL,12416,Inside,Timber,1Fam,1Story,6,5,1986,Gable,VinylSd,Stone,132,CBlock,1398,0,1606,TA,1651,0,1651,1,0,2,3,1,TA,184000
+20,RL,12615,Corner,Edwards,1Fam,1Story,6,7,1950,Gable,WdShing,None,0,CBlock,477,725,1202,TA,2158,0,2158,1,0,2,4,1,Gd,243000
+60,RL,10029,Corner,ClearCr,1Fam,2Story,6,5,1988,Gable,Plywood,BrkFace,268,PConc,831,320,1151,TA,1164,896,2060,0,1,2,4,1,TA,211000
+50,RL,13650,Inside,Sawyer,1Fam,1.5Fin,5,5,1958,Gable,MetalSd,None,0,CBlock,57,554,1052,Ex,1252,668,1920,1,0,2,4,1,Gd,172500
+20,RL,17423,CulDSac,StoneBr,1Fam,1Story,9,5,2008,Hip,VinylSd,Stone,748,PConc,1904,312,2216,Ex,2234,0,2234,1,0,2,1,1,Ex,501837
+30,RM,8520,Inside,OldTown,1Fam,1Story,5,6,1923,Gable,Wd Sdng,None,0,CBlock,0,968,968,TA,968,0,968,0,0,1,2,1,TA,100000
+160,FV,2117,Inside,Somerst,Twnhs,2Story,6,5,2000,Gable,MetalSd,BrkFace,456,PConc,436,320,756,Ex,769,756,1525,0,0,2,3,1,Gd,177000
+70,RL,7588,Inside,Crawfor,1Fam,2Story,7,6,1920,Gable,Stucco,None,0,BrkTil,352,441,793,Gd,901,901,1802,0,0,1,4,1,TA,200100
+20,RL,9060,Inside,Edwards,1Fam,1Story,5,6,1957,Hip,Wd Sdng,BrkFace,98,PConc,0,0,0,Ex,1340,0,1340,0,0,1,3,1,TA,120000
+50,RM,11426,Inside,OldTown,1Fam,1.5Fin,7,5,2003,Gable,VinylSd,None,0,PConc,0,1362,1362,Ex,1362,720,2082,0,0,2,3,1,Gd,200000
+50,RL,7438,Inside,BrkSide,1Fam,1.5Fin,5,8,1908,Gable,AsbShng,None,0,PConc,0,504,504,Gd,936,316,1252,0,0,1,3,1,TA,127000
+75,RM,22950,Inside,OldTown,1Fam,2.5Fin,10,9,1892,Gable,Wd Sdng,None,0,BrkTil,0,1107,1107,Ex,1518,1518,3608,0,0,2,4,1,Ex,475000
+80,RL,9947,CulDSac,Mitchel,1Fam,SLvl,7,5,1990,Gable,HdBoard,None,0,PConc,611,577,1188,Ex,1217,0,1217,1,0,2,3,1,Gd,173000
+50,RL,10410,Inside,OldTown,1Fam,1.5Fin,5,7,1916,Gable,HdBoard,None,0,CBlock,0,660,660,Ex,808,704,1656,0,0,2,3,1,TA,135000
+90,RL,7018,Inside,SawyerW,Duplex,SFoyer,5,5,1979,Gable,Plywood,Stone,275,CBlock,1086,0,1086,TA,1224,0,1224,2,0,0,2,2,TA,153337
+120,RL,4923,Inside,StoneBr,TwnhsE,1Story,8,5,2001,Gable,CemntBd,None,0,PConc,1153,440,1593,Ex,1593,0,1593,1,0,1,0,1,Ex,286000
+70,RL,10570,Inside,Crawfor,1Fam,2Story,8,8,1932,Hip,BrkFace,None,0,CBlock,297,556,853,TA,1549,1178,2727,0,0,2,3,1,Gd,315000
+60,RL,7472,CulDSac,NAmes,1Fam,2Story,7,9,1972,Gable,HdBoard,BrkFace,138,CBlock,626,99,725,Gd,725,754,1479,1,0,1,4,1,Gd,184000
+20,RL,9017,Inside,CollgCr,1Fam,1Story,7,5,1999,Gable,VinylSd,None,0,PConc,560,871,1431,Ex,1431,0,1431,1,0,2,3,1,Gd,192000
+160,RM,2522,Inside,Edwards,Twnhs,2Story,7,5,2004,Gable,VinylSd,Stone,50,PConc,0,970,970,Ex,970,739,1709,0,0,2,3,1,Gd,130000
+20,RL,7180,Inside,CollgCr,1Fam,1Story,5,7,1972,Hip,HdBoard,None,0,CBlock,390,474,864,TA,864,0,864,0,0,1,3,1,TA,127000
+160,RL,2280,FR2,NPkVill,Twnhs,2Story,6,6,1976,Gable,Plywood,None,0,CBlock,566,289,855,TA,855,601,1456,0,0,2,3,1,TA,148500
+20,RL,9416,Inside,Somerst,1Fam,1Story,7,5,2007,Hip,CemntBd,Stone,205,PConc,1126,600,1726,Ex,1726,0,1726,1,0,2,3,1,Ex,311872
+75,RL,25419,Corner,NAmes,1Fam,2Story,8,4,1918,Gable,Stucco,None,0,PConc,1036,140,1360,Gd,1360,1360,3112,1,1,2,4,1,Gd,235000
+75,RM,5520,Corner,OldTown,1Fam,2.5Fin,6,6,1912,Gable,Wd Sdng,None,0,CBlock,0,755,755,Ex,929,929,2229,0,0,1,5,1,TA,104000
+20,RL,9591,Inside,NridgHt,1Fam,1Story,8,5,2004,Hip,VinylSd,BrkFace,262,PConc,1088,625,1713,Ex,1713,0,1713,1,0,2,3,1,Ex,274900
+20,RM,8546,Corner,Edwards,1Fam,1Story,4,5,2003,Gable,VinylSd,None,0,PConc,0,1121,1121,Ex,1121,0,1121,0,0,2,2,1,TA,140000
+20,RL,10125,Inside,Mitchel,1Fam,1Story,6,6,1977,Gable,Plywood,None,0,CBlock,641,276,1196,TA,1279,0,1279,0,1,2,3,1,TA,171500
+50,RL,7000,Corner,OldTown,1Fam,1.5Fin,6,6,1924,Gable,MetalSd,None,0,BrkTil,617,0,617,Gd,865,445,1310,0,0,2,2,1,TA,112000
+120,RM,4438,Inside,CollgCr,TwnhsE,1Story,6,5,2004,Gable,VinylSd,BrkFace,205,PConc,662,186,848,Ex,848,0,848,1,0,1,1,1,Gd,149000
+50,RM,3500,Inside,OldTown,1Fam,1.5Fin,5,7,1947,Gable,AsbShng,None,0,CBlock,312,408,720,TA,720,564,1284,0,0,1,2,1,TA,110000
+20,RL,11851,Corner,Gilbert,1Fam,1Story,7,5,1990,Gable,HdBoard,None,0,PConc,0,1424,1424,Ex,1442,0,1442,0,0,2,3,1,TA,180500
+20,RL,13673,CulDSac,Sawyer,1Fam,1Story,5,5,1962,Gable,HdBoard,None,0,CBlock,0,1140,1140,TA,1696,0,1696,0,0,1,3,1,TA,143900
+20,RL,12493,Inside,NAmes,1Fam,1Story,4,5,1960,Gable,Wd Sdng,None,0,PConc,419,375,1100,TA,1100,0,1100,1,0,1,3,1,TA,141000
+60,RL,14364,Inside,SawyerW,1Fam,2Story,7,5,1988,Gable,Plywood,BrkFace,128,CBlock,1065,92,1157,Ex,1180,882,2062,1,0,2,3,1,TA,277000
+20,RL,8250,Inside,NAmes,1Fam,1Story,6,7,1964,Hip,HdBoard,Stone,260,CBlock,787,305,1092,Ex,1092,0,1092,1,0,1,3,1,TA,145000
+30,RL,5604,Inside,Edwards,1Fam,1Story,5,6,1925,Gable,Stucco,None,0,CBlock,468,396,864,TA,864,0,864,1,0,1,2,1,TA,98000
+20,RL,10420,Corner,Edwards,1Fam,1Story,6,5,2009,Gable,VinylSd,None,0,PConc,36,1176,1212,Ex,1212,0,1212,0,0,2,3,1,Gd,186000
+60,FV,8640,Inside,Somerst,1Fam,2Story,7,5,2009,Gable,VinylSd,None,0,PConc,822,78,900,Ex,932,920,1852,1,0,2,3,1,Gd,252678
+20,RL,13568,CulDSac,CollgCr,1Fam,1Story,5,5,1995,Gable,VinylSd,None,0,PConc,716,274,990,Ex,990,0,990,0,1,1,3,1,TA,156000
+60,RL,10900,FR2,CollgCr,1Fam,2Story,6,7,1977,Gable,HdBoard,BrkFace,153,CBlock,378,311,689,Ex,689,703,1392,0,0,1,3,1,TA,161750
+20,RL,10011,Inside,NAmes,1Fam,1Story,5,6,1957,Gable,HdBoard,BrkFace,64,CBlock,360,710,1070,TA,1236,0,1236,0,1,1,2,1,Gd,134450
+20,RL,8450,Inside,CollgCr,1Fam,1Story,7,5,2004,Gable,VinylSd,BrkFace,266,PConc,946,490,1436,Ex,1436,0,1436,1,0,2,3,1,Gd,210000
+70,RM,9906,Inside,OldTown,1Fam,2Story,4,4,1925,Gable,MetalSd,None,0,CBlock,0,686,686,Fa,810,518,1328,0,0,1,3,1,TA,107000
+50,RL,15660,Corner,Crawfor,1Fam,1.5Fin,7,9,1939,Gable,VinylSd,BrkFace,312,CBlock,341,457,798,Ex,1137,817,1954,0,1,1,3,1,Gd,311500
+120,RL,3010,Inside,Blmngtn,TwnhsE,1Story,7,5,2005,Gable,VinylSd,BrkFace,16,PConc,16,1232,1248,Ex,1248,0,1248,0,0,2,2,1,Gd,167240
+20,RL,8990,Inside,CollgCr,1Fam,1Story,7,5,2006,Gable,VinylSd,None,0,PConc,0,1498,1498,Ex,1498,0,1498,0,0,2,2,1,Gd,204900
+60,RL,8068,Inside,Gilbert,1Fam,2Story,6,5,2002,Gable,VinylSd,None,0,PConc,0,1010,1010,Ex,1010,1257,2267,0,0,2,4,1,Gd,200000
+60,RL,11475,Inside,NWAmes,1Fam,2Story,6,6,1975,Gable,VinylSd,None,0,CBlock,550,163,713,TA,811,741,1552,1,0,2,3,1,TA,179900
+20,RL,10500,FR2,NAmes,1Fam,1Story,4,6,1971,Gable,HdBoard,None,0,CBlock,524,160,864,Gd,864,0,864,0,0,1,2,1,TA,97000
+20,RL,13472,Inside,NridgHt,1Fam,1Story,10,5,2003,Hip,VinylSd,BrkFace,922,PConc,56,2336,2392,Ex,2392,0,2392,0,0,2,3,1,Ex,386250
+160,RM,1680,Inside,BrDale,Twnhs,2Story,5,5,1971,Gable,HdBoard,BrkFace,142,CBlock,0,630,630,TA,630,672,1302,0,0,2,3,1,TA,112000
+60,RL,9950,Inside,NoRidge,1Fam,2Story,7,5,1995,Gable,VinylSd,BrkFace,290,PConc,565,638,1203,Ex,1214,1306,2520,0,0,2,4,1,Gd,290000
+160,RM,1869,Inside,BrDale,Twnhs,2Story,6,6,1970,Gable,HdBoard,BrkFace,127,CBlock,321,162,483,TA,483,504,987,0,0,1,2,1,TA,106000
+20,RL,8521,FR2,Sawyer,1Fam,1Story,5,5,1967,Gable,HdBoard,None,0,CBlock,842,70,912,TA,912,0,912,0,0,1,3,1,TA,125000
+120,RL,3182,Inside,Blmngtn,TwnhsE,1Story,7,5,2005,Gable,VinylSd,BrkFace,16,PConc,16,1357,1373,Ex,1555,0,1555,0,0,2,2,1,Gd,192500
+20,RL,8760,Inside,NAmes,1Fam,1Story,6,6,1959,Hip,MetalSd,BrkFace,220,CBlock,0,1194,1194,TA,1194,0,1194,1,0,1,3,1,TA,148000
+60,RL,15138,Inside,NoRidge,1Fam,2Story,8,5,1995,Gable,VinylSd,BrkFace,506,PConc,689,773,1462,Ex,1490,1304,2794,1,0,2,4,1,Ex,403000
+160,RM,1680,Inside,BrDale,Twnhs,2Story,6,5,1972,Gable,HdBoard,BrkFace,297,CBlock,0,483,483,TA,483,504,987,0,0,1,2,1,TA,94500
+20,RL,10650,Corner,CollgCr,1Fam,1Story,5,6,1976,Gable,HdBoard,None,0,CBlock,182,0,894,TA,894,0,894,1,0,1,3,1,TA,128200
+60,RL,7851,Inside,Gilbert,1Fam,2Story,6,5,2002,Gable,VinylSd,NA,NA,PConc,625,235,860,Ex,860,1100,1960,1,0,2,4,1,Gd,216500
+160,RM,1680,Inside,BrDale,TwnhsE,2Story,6,3,1971,Gable,HdBoard,BrkFace,604,CBlock,358,125,483,TA,483,504,987,0,0,1,2,1,TA,89500
+20,RL,8773,FR2,CollgCr,1Fam,1Story,7,5,2004,Gable,VinylSd,BrkFace,98,PConc,24,1390,1414,Ex,1414,0,1414,0,0,2,3,1,Gd,185500
+60,RL,9453,CulDSac,SawyerW,1Fam,2Story,7,7,1993,Gable,HdBoard,None,0,PConc,402,594,996,Ex,1014,730,1744,0,0,2,3,1,Gd,194500
+20,RL,12030,Inside,NridgHt,1Fam,1Story,8,5,2007,Hip,VinylSd,BrkFace,254,PConc,0,1694,1694,Ex,1694,0,1694,0,0,2,3,1,Gd,318000
+50,RL,8741,Inside,Edwards,1Fam,1.5Fin,6,4,1945,Gable,VinylSd,None,0,CBlock,94,641,735,TA,798,689,1487,0,0,1,3,1,TA,113000
+20,FV,9000,Inside,Somerst,1Fam,1Story,8,5,2008,Gable,VinylSd,Stone,36,PConc,1078,488,1566,Ex,1566,0,1566,1,0,2,3,1,Gd,262500
+30,RM,3880,Inside,OldTown,1Fam,1Story,5,9,1945,Gable,VinylSd,None,0,CBlock,329,357,686,Gd,866,0,866,0,0,1,2,1,Gd,110500
+50,RM,5000,Corner,OldTown,1Fam,1.5Fin,5,4,1900,Gable,Wd Sdng,None,0,BrkTil,0,540,540,Gd,889,551,1440,0,0,1,3,1,TA,79000
+160,RL,10762,Corner,SawyerW,TwnhsE,2Story,6,6,1980,Gable,Plywood,None,0,CBlock,0,626,626,TA,626,591,1217,0,0,1,3,1,TA,120000
+60,RL,8880,Inside,SawyerW,1Fam,2Story,7,5,1994,Gable,VinylSd,None,0,PConc,695,253,948,Ex,1222,888,2110,1,0,2,3,1,Gd,205000
+20,RL,10400,Inside,NWAmes,1Fam,1Story,7,5,1988,Gable,Wd Sdng,BrkFace,102,CBlock,929,916,1845,Gd,1872,0,1872,0,1,2,3,1,TA,241500
+190,RM,9142,Inside,OldTown,2fmCon,2Story,6,8,1910,Gable,AsbShng,None,0,Stone,0,1020,1020,Gd,908,1020,1928,0,0,2,4,2,Fa,137000
+20,RL,11310,Inside,NAmes,1Fam,1Story,6,5,1954,Hip,Wd Sdng,None,0,CBlock,0,1367,1367,Ex,1375,0,1375,0,0,1,2,1,TA,140000
+60,RL,11317,Inside,CollgCr,1Fam,2Story,7,5,2003,Gable,VinylSd,BrkFace,101,PConc,0,840,840,Ex,840,828,1668,0,0,2,3,1,Gd,180000
+50,RL,159000,CulDSac,ClearCr,1Fam,1.5Fin,6,7,1958,Gable,Wd Sdng,BrkCmn,472,CBlock,697,747,1444,Gd,1444,700,2144,0,1,2,4,1,Gd,277000
+30,RL,5350,Inside,BrkSide,1Fam,1Story,3,2,1940,Gable,Wd Sdng,None,0,CBlock,0,728,728,Ex,1306,0,1306,0,0,1,3,1,Fa,76500
+120,RM,4750,Inside,Crawfor,TwnhsE,1Story,8,5,2006,Hip,VinylSd,Stone,481,PConc,1573,0,1573,Ex,1625,0,1625,1,1,2,2,1,Gd,235000
+60,RL,8366,Inside,SawyerW,1Fam,2Story,6,5,2004,Gable,VinylSd,None,0,PConc,0,798,798,Ex,798,842,1640,0,0,2,3,1,Gd,173000
+80,RL,9350,Inside,NAmes,1Fam,SLvl,6,7,1964,Hip,HdBoard,BrkFace,108,CBlock,270,452,1302,Ex,1302,0,1302,0,1,2,3,1,Gd,158000
+20,RL,8400,Inside,NAmes,1Fam,1Story,5,6,1957,Gable,MetalSd,None,0,CBlock,922,392,1314,TA,1314,0,1314,1,0,1,3,1,TA,145000
+60,RL,8738,Inside,Gilbert,1Fam,2Story,7,5,1999,Gable,VinylSd,BrkFace,302,PConc,0,975,975,Ex,1005,1286,2291,0,0,2,4,1,Gd,230000
+60,FV,8791,Inside,Somerst,1Fam,2Story,6,5,2003,Gable,VinylSd,None,0,PConc,503,361,864,Ex,864,864,1728,0,0,2,3,1,Gd,207500
+20,RL,8814,Inside,CollgCr,1Fam,1Story,7,5,2006,Gable,VinylSd,Stone,180,PConc,1334,270,1604,Ex,1604,0,1604,1,0,2,3,1,Gd,220000
+60,RL,12435,Inside,CollgCr,1Fam,2Story,7,5,2001,Gable,VinylSd,BrkFace,172,PConc,361,602,963,Ex,963,829,1792,0,0,2,3,1,Gd,231500
+20,RM,12702,Inside,OldTown,1Fam,1Story,5,5,1956,Gable,BrkFace,None,0,PConc,0,0,0,Gd,882,0,882,0,0,1,2,1,TA,97000
+80,RL,19296,Corner,NAmes,1Fam,SLvl,6,5,1962,Gable,Wd Sdng,BrkFace,399,CBlock,672,0,1362,TA,1382,0,1382,1,0,1,3,1,TA,176000
+60,RL,9588,Inside,CollgCr,1Fam,2Story,8,5,2007,Gable,CemntBd,Stone,270,PConc,0,1482,1482,Ex,1482,1092,2574,0,0,2,3,1,Ex,276000
+80,RL,8471,Corner,Sawyer,1Fam,SLvl,6,7,1977,Gable,HdBoard,BrkFace,46,CBlock,506,0,506,TA,1212,0,1212,1,0,1,3,1,TA,151000
+50,RM,5500,Corner,OldTown,1Fam,1.5Fin,5,7,1929,Gable,Wd Sdng,None,0,BrkTil,234,0,926,TA,926,0,1316,1,0,1,3,1,TA,130000
+30,RM,5232,Inside,OldTown,1Fam,1Story,5,5,1925,Gable,Wd Sdng,None,0,BrkTil,0,680,680,Gd,764,0,764,0,0,1,2,1,TA,73000
+20,RL,12090,Inside,NWAmes,1Fam,1Story,6,6,1981,Gable,MetalSd,BrkFace,210,CBlock,588,606,1422,TA,1422,0,1422,0,0,2,3,1,Gd,175500
+60,RL,11207,FR2,Gilbert,1Fam,2Story,6,5,1997,Gable,VinylSd,None,0,PConc,714,88,802,Gd,802,709,1511,1,0,2,3,1,TA,185000
+75,RL,8400,Inside,SWISU,1Fam,2.5Fin,5,8,1939,Gable,Wd Sdng,None,0,PConc,378,342,720,Ex,1052,720,2192,0,0,2,4,1,Gd,179500
+30,RM,6900,Inside,IDOTRR,1Fam,1Story,5,6,1940,Gable,VinylSd,None,0,CBlock,403,212,740,Ex,778,0,778,0,0,1,2,1,TA,120500
+20,RL,7917,Corner,Edwards,1Fam,1Story,6,7,1976,Hip,HdBoard,BrkFace,174,CBlock,751,392,1143,TA,1113,0,1113,1,0,1,3,1,TA,148000
+60,FV,10728,Inside,Somerst,1Fam,2Story,8,5,2006,Gable,VinylSd,None,0,PConc,0,1095,1095,Gd,1095,844,1939,0,0,2,3,1,Gd,266000
+20,RL,39104,CulDSac,ClearCr,1Fam,1Story,7,7,1954,Flat,Plywood,None,0,CBlock,226,96,1385,Ex,1363,0,1363,1,0,1,2,1,TA,241500
+60,RL,11764,CulDSac,NoRidge,1Fam,2Story,8,7,1999,Gable,VinylSd,BrkFace,348,PConc,524,628,1152,Ex,1164,1106,2270,0,0,2,4,1,Gd,290000
+20,RL,9600,Inside,NAmes,1Fam,1Story,6,6,1958,Hip,Wd Sdng,BrkCmn,183,CBlock,620,0,1240,Gd,1632,0,1632,1,0,2,3,1,TA,139000
+20,RL,8314,Corner,Mitchel,1Fam,1Story,5,7,1982,Gable,HdBoard,None,0,CBlock,546,270,816,TA,816,0,816,0,0,1,2,1,TA,124500
+50,RL,7264,Inside,BrkSide,1Fam,1.5Fin,7,7,1925,Gable,Wd Sdng,None,0,BrkTil,0,952,952,Gd,952,596,1548,0,0,2,3,1,Ex,205000
+20,RL,9196,Inside,Mitchel,1Fam,1Story,7,5,2003,Gable,VinylSd,None,0,PConc,0,1560,1560,Ex,1560,0,1560,0,0,2,3,1,Gd,201000
+20,RL,19138,Corner,Gilbert,1Fam,1Story,4,5,1951,Gable,VinylSd,None,0,CBlock,120,744,864,Ex,864,0,864,0,0,1,2,1,TA,141000
+20,RL,14450,Inside,NridgHt,1Fam,1Story,9,5,2006,Gable,CemntBd,BrkFace,315,PConc,0,2121,2121,Ex,2121,0,2121,0,0,2,3,1,Ex,415298
+60,RL,10005,Inside,ClearCr,1Fam,2Story,7,5,1977,Hip,Plywood,BrkFace,299,CBlock,392,768,1160,Ex,1156,866,2022,0,0,2,4,1,TA,192000
+60,RL,11287,Inside,SawyerW,1Fam,2Story,7,6,1989,Gable,Plywood,BrkFace,340,CBlock,421,386,807,Gd,1175,807,1982,0,0,2,3,1,Gd,228500
+20,FV,7200,Inside,Somerst,1Fam,1Story,6,5,2006,Gable,VinylSd,Stone,68,PConc,905,357,1262,Gd,1262,0,1262,0,0,2,2,1,Gd,185000
+120,RL,5063,Inside,NridgHt,Twnhs,1Story,7,5,2007,Gable,VinylSd,Stone,166,PConc,904,410,1314,Ex,1314,0,1314,1,0,2,2,1,Gd,207500
+20,RL,9612,Inside,Somerst,1Fam,1Story,8,5,2008,Gable,VinylSd,Stone,72,PConc,0,1468,1468,Ex,1468,0,1468,0,0,2,3,1,Gd,244600
+120,RL,8012,Inside,SawyerW,TwnhsE,1Story,6,5,1992,Gable,Plywood,None,0,PConc,430,1145,1575,Gd,1575,0,1575,1,0,2,2,1,Gd,179200
+160,FV,4251,Inside,Somerst,TwnhsE,2Story,7,5,2006,Gable,MetalSd,None,0,PConc,0,625,625,Ex,625,625,1250,0,0,2,2,1,Gd,164700
+50,RL,9786,Inside,NAmes,1Fam,1.5Fin,6,7,1962,Gable,Wd Sdng,None,0,CBlock,600,312,912,TA,1085,649,1734,0,0,1,3,1,Gd,159000
+20,RL,8125,Corner,NAmes,1Fam,1Story,4,4,1971,Gable,HdBoard,None,0,CBlock,614,244,858,TA,858,0,858,0,0,1,3,1,TA,88000
+20,RL,9819,Inside,Sawyer,1Fam,1Story,5,5,1967,Gable,MetalSd,BrkFace,31,CBlock,450,432,882,TA,900,0,900,0,0,1,3,1,TA,122000
+70,RL,8730,Inside,BrkSide,1Fam,2Story,6,7,1915,Gable,Wd Sdng,None,0,BrkTil,0,698,698,Ex,698,698,1396,0,0,1,3,1,TA,153575
+60,RL,15611,Inside,CollgCr,1Fam,2Story,8,5,2006,Gable,VinylSd,None,0,PConc,0,1079,1079,Ex,1079,840,1919,0,0,2,3,1,Gd,233230
+190,RL,5687,Inside,SWISU,2fmCon,2Story,5,6,1912,Gable,VinylSd,None,0,PConc,210,570,780,Ex,936,780,1716,1,0,2,6,1,Fa,135900
+50,RL,11409,Inside,Edwards,1Fam,1.5Fin,5,4,1949,Gable,Wd Sdng,None,0,CBlock,292,476,768,Gd,1148,568,1716,0,0,1,3,1,TA,131000
+60,RL,16659,Corner,NWAmes,1Fam,2Story,7,7,1977,Gable,Plywood,BrkFace,34,CBlock,795,0,795,Fa,1468,795,2263,1,0,2,3,1,Gd,235000
+20,RL,9600,Inside,NAmes,1Fam,1Story,6,5,1953,Hip,HdBoard,Stone,238,CBlock,1285,131,1416,TA,1644,0,1644,1,0,1,3,1,TA,167000
+80,RL,7937,CulDSac,Mitchel,1Fam,SLvl,6,6,1984,Gable,HdBoard,None,0,CBlock,819,184,1003,TA,1003,0,1003,1,0,1,3,1,TA,142500
+50,RM,13710,Inside,IDOTRR,1Fam,1.5Fin,5,5,1950,Gable,Wd Sdng,None,0,CBlock,420,490,910,TA,910,648,1558,0,0,1,4,1,TA,152000
+60,FV,7399,Inside,Somerst,1Fam,2Story,7,5,1997,Hip,VinylSd,BrkFace,1600,PConc,649,326,975,Ex,975,975,1950,0,0,2,3,1,Gd,239000
+60,RL,11700,Inside,NWAmes,1Fam,2Story,6,6,1968,Mansard,HdBoard,BrkFace,365,CBlock,384,143,702,Gd,1041,702,1743,0,1,1,3,1,TA,175000
+20,RL,14000,Inside,Crawfor,1Fam,1Story,6,8,1950,Gable,HdBoard,None,0,CBlock,0,1092,1092,Ex,1152,0,1152,0,1,1,3,1,Gd,158500
+190,RL,15750,Corner,Crawfor,2fmCon,1Story,5,5,1953,Hip,MetalSd,BrkFace,56,CBlock,841,324,1165,TA,1336,0,1336,1,0,1,2,1,TA,157000
+60,RL,16226,Inside,CollgCr,1Fam,2Story,8,5,1998,Gable,VinylSd,None,0,PConc,281,747,1028,Ex,1210,1242,2452,0,0,2,4,1,Gd,267000
+20,RL,13704,Corner,CollgCr,1Fam,1Story,7,5,2001,Gable,VinylSd,BrkFace,150,PConc,0,1541,1541,Ex,1541,0,1541,0,0,2,3,1,Gd,205000
+20,RL,9800,Corner,CollgCr,1Fam,1Story,5,7,1972,Gable,VinylSd,None,0,PConc,894,0,894,TA,894,0,894,1,0,1,3,1,TA,149900
+75,RM,18386,Inside,OldTown,1Fam,2.5Fin,7,9,1880,Gable,CemntBd,None,0,BrkTil,0,1470,1470,Ex,1675,1818,3493,0,0,3,3,1,Gd,295000
+20,RL,10386,Inside,CollgCr,1Fam,1Story,8,5,2004,Gable,CemntBd,Stone,246,PConc,1464,536,2000,Ex,2000,0,2000,1,0,2,3,1,Gd,305900
+60,RL,13474,Inside,SawyerW,1Fam,2Story,7,5,1990,Gable,HdBoard,BrkFace,246,CBlock,700,0,700,Gd,1122,1121,2243,1,0,2,4,1,Gd,225000
+50,RM,7920,Inside,IDOTRR,1Fam,1.5Fin,6,7,1920,Gable,MetalSd,None,0,CBlock,0,319,319,TA,1035,371,1406,0,0,1,3,1,Fa,89500
+30,RL,12342,Inside,Edwards,1Fam,1Story,4,5,1940,Gable,VinylSd,None,0,CBlock,262,599,861,Ex,861,0,861,0,0,1,1,1,TA,82500
+20,RL,12378,Inside,NridgHt,1Fam,1Story,9,5,2003,Gable,VinylSd,None,0,PConc,1274,622,1896,Ex,1944,0,1944,1,0,2,3,1,Ex,360000
+60,RL,7685,Inside,Gilbert,1Fam,2Story,6,5,1993,Gable,HdBoard,BrkFace,112,PConc,518,179,697,Gd,697,804,1501,0,0,2,3,1,Gd,165600
+20,RL,8000,Inside,NAmes,1Fam,1Story,6,6,1948,Gable,VinylSd,None,0,CBlock,680,292,972,Ex,972,0,972,1,0,1,2,1,TA,132000
+190,RM,7800,Inside,OldTown,2fmCon,1.5Fin,5,7,1939,Gable,MetalSd,None,0,CBlock,507,286,793,TA,793,325,1118,1,0,1,3,1,TA,119900
+20,RL,215245,Inside,Timber,1Fam,1Story,7,5,1965,Hip,BrkFace,None,0,CBlock,1236,80,2136,TA,2036,0,2036,2,0,2,3,1,TA,375000
+70,RM,9600,Inside,OldTown,1Fam,2Story,7,7,1925,Gable,Wd Sdng,None,0,BrkTil,16,712,728,Ex,832,809,1641,0,1,1,3,1,Ex,178000
+60,RL,7795,Inside,Gilbert,1Fam,2Story,7,5,2004,Gable,VinylSd,None,0,PConc,425,291,716,Ex,716,716,1432,1,0,2,3,1,Gd,188500
+60,RL,13005,Corner,NWAmes,1Fam,2Story,7,7,1980,Gable,CemntBd,BrkFace,278,CBlock,692,153,845,TA,1153,1200,2353,1,0,2,4,1,Ex,260000
+60,FV,9000,Inside,Somerst,1Fam,2Story,8,5,2006,Gable,VinylSd,None,0,PConc,0,1088,1088,Ex,1088,871,1959,0,0,2,3,1,Gd,270000
+60,RL,9900,Inside,NoRidge,1Fam,2Story,7,5,1993,Gable,HdBoard,BrkFace,256,PConc,987,360,1347,Ex,1372,1274,2646,1,0,2,4,1,Gd,260000
+80,RL,14115,Inside,NWAmes,1Fam,SLvl,7,5,1980,Gable,Plywood,BrkFace,225,CBlock,1036,336,1372,TA,1472,0,1472,1,0,2,3,1,TA,187500
+60,RL,16259,Corner,NridgHt,1Fam,2Story,9,5,2006,Gable,VinylSd,Stone,370,PConc,0,1249,1249,Ex,1249,1347,2596,0,0,3,4,1,Gd,342643
+60,RL,12099,Inside,NridgHt,1Fam,2Story,8,5,2004,Gable,VinylSd,BrkFace,388,PConc,970,166,1136,Ex,1136,1332,2468,1,0,2,4,1,Gd,354000
+60,RL,10380,Inside,SawyerW,1Fam,2Story,7,5,1986,Gable,Plywood,BrkFace,172,CBlock,28,0,1502,Ex,1553,1177,2730,1,0,2,4,1,Gd,301000
+20,RM,5820,Inside,OldTown,1Fam,1Story,3,8,1955,Gable,VinylSd,None,0,CBlock,256,906,1162,Ex,1163,0,1163,1,0,1,3,1,TA,126175
+80,RL,11275,Corner,NAmes,1Fam,SLvl,7,7,1967,Mansard,Wd Sdng,BrkFace,300,CBlock,0,710,710,Ex,1898,1080,2978,0,0,2,5,1,Gd,242000
+45,RM,5000,Inside,IDOTRR,1Fam,1.5Unf,5,6,1941,Gable,MetalSd,None,0,CBlock,116,604,720,Po,803,0,803,0,0,1,2,1,TA,87000
+120,RL,10846,CulDSac,Veenker,TwnhsE,1Story,8,5,1993,Gable,BrkFace,None,0,PConc,1619,100,1719,Ex,1719,0,1719,2,0,1,1,1,Gd,324000
+20,RL,11600,Inside,NAmes,1Fam,1Story,6,5,1960,Hip,Wd Sdng,BrkFace,175,CBlock,565,818,1383,TA,1383,0,1383,0,0,1,3,1,TA,145250
+75,RL,11888,Inside,BrkSide,1Fam,2.5Unf,6,6,1916,Gable,Wd Sdng,None,0,BrkTil,0,844,844,Gd,1445,689,2134,0,0,2,5,1,Gd,214500
+70,RM,6402,Corner,IDOTRR,1Fam,2Story,5,5,1920,Gable,Wd Sdng,None,0,PConc,0,596,596,TA,596,596,1192,0,0,1,3,1,TA,78000
+90,RL,10624,Inside,NAmes,Duplex,1Story,5,4,1964,Gable,HdBoard,BrkFace,84,CBlock,40,1424,1728,TA,1728,0,1728,0,1,2,6,2,TA,119000
+20,RL,8176,Inside,NAmes,1Fam,1Story,5,6,1958,Gable,Wd Sdng,None,0,CBlock,846,210,1056,Fa,1056,0,1056,1,0,1,3,1,TA,139000
+20,RL,10655,Inside,NridgHt,1Fam,1Story,8,5,2003,Gable,VinylSd,BrkFace,296,PConc,1124,1603,3206,Ex,1629,0,1629,1,0,2,3,1,Gd,284000
+120,RM,8198,FR3,NridgHt,TwnhsE,1Story,7,5,2004,Gable,VinylSd,Stone,146,PConc,720,638,1358,Ex,1358,0,1358,1,0,2,2,1,Gd,207000
+60,RL,9042,Inside,Gilbert,1Fam,2Story,6,5,1998,Gable,VinylSd,None,0,PConc,828,115,943,Gd,943,695,1638,1,0,2,3,1,TA,192000
+190,RL,164660,Corner,Timber,2fmCon,1.5Fin,5,6,1965,Gable,Plywood,None,0,CBlock,1249,103,1499,Ex,1619,167,1786,2,0,2,3,1,TA,228950
+20,RL,14157,Corner,StoneBr,1Fam,1Story,9,5,2005,Hip,VinylSd,Stone,200,PConc,1249,673,1922,Ex,1922,0,1922,1,0,2,3,1,Gd,377426
+20,RL,9135,Inside,CollgCr,1Fam,1Story,7,5,2002,Gable,VinylSd,BrkFace,113,PConc,810,726,1536,Ex,1536,0,1536,1,0,2,3,1,Gd,214000
+20,RL,14145,Corner,NWAmes,1Fam,1Story,7,7,1984,Gable,Wd Sdng,None,0,CBlock,213,995,1208,Ex,1621,0,1621,1,0,2,3,1,Gd,202500
+20,RL,12400,Inside,NAmes,1Fam,1Story,6,7,1958,Hip,Wd Sdng,BrkFace,176,CBlock,585,630,1215,TA,1215,0,1215,0,0,1,3,1,TA,155000
+60,RL,14191,Inside,Timber,1Fam,2Story,8,5,2002,Gable,VinylSd,None,0,PConc,0,967,967,Ex,993,915,1908,0,0,2,4,1,Gd,202900
+20,RH,8400,Inside,SawyerW,1Fam,1Story,4,4,1950,Gable,Wd Sdng,None,0,CBlock,0,721,721,Gd,841,0,841,0,0,1,2,1,TA,82000
+90,RL,8544,Inside,NAmes,Duplex,1Story,3,4,1949,Gable,Stucco,BrkFace,340,Slab,0,0,0,Fa,1040,0,1040,0,0,2,2,2,TA,87500
+120,RL,8849,Inside,NridgHt,TwnhsE,1Story,9,5,2005,Hip,MetalSd,BrkFace,616,PConc,28,1656,1684,Ex,1684,0,1684,0,0,2,2,1,Ex,266000
+160,RM,2592,Inside,MeadowV,TwnhsE,2Story,5,3,1976,Gable,CemntBd,None,0,CBlock,129,175,536,TA,536,576,1112,0,0,1,3,1,TA,85000
+50,RL,6435,Inside,BrkSide,1Fam,1.5Fin,6,5,1939,Gable,MetalSd,None,0,BrkTil,0,972,972,Gd,972,605,1577,0,0,1,3,1,Fa,140200
+20,RL,12772,CulDSac,NAmes,1Fam,1Story,6,8,1960,Hip,MetalSd,None,0,CBlock,498,460,958,TA,958,0,958,0,0,1,2,1,TA,151500
+20,RL,17600,Inside,NAmes,1Fam,1Story,6,5,1960,Gable,Wd Sdng,BrkFace,30,CBlock,1270,208,1478,Ex,1478,0,1478,1,0,2,3,1,TA,157500
+160,RL,2448,Inside,NridgHt,Twnhs,2Story,7,5,2003,Gable,VinylSd,Stone,106,PConc,573,191,764,Ex,764,862,1626,1,0,2,2,1,Gd,154000
+60,RL,20431,Inside,NridgHt,1Fam,2Story,9,5,2005,Hip,CemntBd,BrkFace,870,PConc,1410,438,1848,Ex,1848,880,2728,1,0,2,4,1,Ex,437154
+120,RL,7820,Inside,NridgHt,TwnhsE,1Story,9,5,2007,Hip,MetalSd,BrkFace,362,PConc,0,1869,1869,Ex,1869,0,1869,0,0,2,2,1,Ex,318061
+120,RL,5271,Inside,ClearCr,1Fam,1Story,7,5,1986,Gable,Wd Sdng,None,0,PConc,1082,371,1453,Gd,1453,0,1453,1,0,1,2,1,Gd,190000
+50,RL,9084,Inside,Edwards,1Fam,1.5Fin,5,6,1941,Gable,VinylSd,None,0,CBlock,236,0,616,TA,616,495,1111,0,1,1,3,1,TA,95000
+30,RM,8520,Inside,OldTown,1Fam,1Story,6,8,1928,Gable,VinylSd,None,0,BrkTil,0,624,624,Gd,720,0,720,0,0,1,2,1,TA,105900
+50,RL,8400,Inside,SWISU,1Fam,1.5Fin,6,5,1940,Gable,Wd Sdng,None,0,CBlock,388,552,940,Ex,1192,403,1595,0,0,1,2,1,TA,140000
+20,RL,11249,Inside,CollgCr,1Fam,1Story,6,5,1995,Gable,VinylSd,None,0,PConc,334,322,1200,Ex,1200,0,1200,1,0,2,3,1,Gd,177500
+20,RL,9248,Inside,Gilbert,1Fam,1Story,6,6,1992,Gable,HdBoard,BrkFace,106,PConc,560,598,1158,Gd,1167,0,1167,1,0,2,3,1,Gd,173000
+120,RM,4224,Inside,MeadowV,TwnhsE,1Story,5,5,1976,Gable,CemntBd,None,0,PConc,874,268,1142,TA,1142,0,1142,1,0,1,3,1,TA,134000
+80,RL,6930,Inside,ClearCr,1Fam,SLvl,5,4,1958,Hip,Wd Sdng,BrkFace,120,CBlock,300,468,1062,Ex,1352,0,1352,0,1,1,3,1,Gd,130000
+60,RL,12011,CulDSac,NoRidge,1Fam,2Story,8,5,1998,Gable,VinylSd,BrkFace,530,PConc,956,130,1086,Ex,1086,838,1924,1,0,2,3,1,Gd,280000
+85,RL,7540,CulDSac,Mitchel,1Fam,SFoyer,6,6,1978,Gable,VinylSd,None,0,CBlock,773,115,888,Ex,912,0,912,1,0,1,2,1,TA,156000
+50,RL,9144,Inside,BrkSide,1Fam,1.5Fin,5,5,1940,Gable,MetalSd,None,0,CBlock,399,484,883,Gd,988,517,1505,1,0,1,3,1,TA,145000
+85,RL,7301,Corner,Edwards,1Fam,SFoyer,7,5,2003,Gable,HdBoard,BrkFace,500,Slab,0,0,0,Ex,495,1427,1922,0,0,3,4,1,Gd,198500
+160,RM,1680,Inside,BrDale,Twnhs,2Story,6,8,1972,Gable,HdBoard,BrkFace,510,CBlock,162,321,483,Gd,483,504,987,0,0,1,2,1,Gd,118000
+60,RL,18800,FR2,NWAmes,1Fam,2Story,6,5,1976,Gable,HdBoard,BrkFace,120,PConc,712,84,796,TA,790,784,1574,1,0,2,3,1,TA,190000
+70,RM,10690,Inside,IDOTRR,1Fam,2Story,5,7,1920,Hip,VinylSd,None,0,CBlock,456,216,672,Gd,672,672,1344,0,0,1,3,1,TA,147000
+20,RL,9500,Inside,NAmes,1Fam,1Story,6,5,1963,Gable,Plywood,BrkFace,247,CBlock,609,785,1394,Gd,1394,0,1394,1,0,1,3,1,TA,159000
+80,RL,9150,Corner,NAmes,1Fam,SLvl,6,5,1962,Gable,Plywood,BrkFace,305,CBlock,371,728,1099,Gd,1431,0,1431,0,1,1,3,1,TA,165000
+20,RL,7800,Inside,NAmes,1Fam,1Story,5,6,1954,Gable,HdBoard,BrkFace,200,PConc,540,728,1268,Gd,1268,0,1268,0,0,1,2,1,TA,132000
+20,RL,9830,Corner,NAmes,1Fam,1Story,5,7,1959,Gable,Wd Sdng,None,0,CBlock,72,733,1063,Ex,1287,0,1287,1,0,1,3,1,Gd,162000
+60,RL,8121,Inside,Gilbert,1Fam,2Story,6,5,2000,Gable,VinylSd,None,0,PConc,0,953,953,Ex,953,711,1664,0,0,2,3,1,TA,172400
+50,RL,17120,Inside,ClearCr,1Fam,1.5Fin,4,4,1959,Gable,WdShing,None,0,CBlock,0,0,0,TA,1120,468,1588,0,0,2,4,1,TA,134432
+120,RL,7175,Inside,SawyerW,TwnhsE,1Story,6,5,1984,Gable,Plywood,None,0,CBlock,623,0,744,TA,752,0,752,1,0,1,2,1,TA,125000
+20,RL,10634,Inside,NAmes,1Fam,1Story,5,6,1953,Gable,MetalSd,None,0,PConc,428,0,608,TA,1319,0,1319,1,0,1,3,1,TA,123000
+60,RL,8200,Inside,CollgCr,1Fam,2Story,7,5,2003,Gable,VinylSd,None,0,PConc,0,847,847,Ex,847,1081,1928,0,0,2,4,1,Gd,219500
+30,RL,10020,Inside,Edwards,1Fam,1Story,1,1,1922,Gable,Wd Sdng,None,0,BrkTil,350,333,683,Gd,904,0,904,1,0,0,1,1,Fa,61000
+85,RL,8846,CulDSac,CollgCr,1Fam,SFoyer,5,5,1996,Gable,VinylSd,None,0,PConc,298,572,870,Ex,914,0,914,0,0,1,2,1,TA,148000
+60,FV,11143,Corner,Somerst,1Fam,2Story,8,5,2004,Gable,CemntBd,None,0,PConc,0,1580,1580,Ex,1580,886,2466,0,0,3,4,1,Gd,340000
+20,RL,11394,Corner,StoneBr,1Fam,1Story,9,2,2010,Hip,VinylSd,Stone,350,PConc,1445,411,1856,Ex,1856,0,1856,1,0,1,1,1,Ex,394432
+60,RL,8123,Inside,Gilbert,1Fam,2Story,6,5,2000,Gable,VinylSd,BrkFace,16,PConc,0,982,982,Ex,1007,793,1800,0,0,2,3,1,TA,179000
+50,RL,5000,Inside,SWISU,1Fam,1.5Fin,5,6,1924,Gable,BrkFace,None,0,BrkTil,218,808,1026,TA,1026,665,1691,0,0,2,3,1,Gd,127000
+20,FV,7200,Inside,Somerst,1Fam,1Story,7,5,2006,Gable,VinylSd,None,0,PConc,0,1293,1293,Ex,1301,0,1301,1,0,2,2,1,Gd,187750
+60,RL,9245,Inside,CollgCr,1Fam,2Story,7,5,2006,Gable,VinylSd,None,0,PConc,0,939,939,Ex,939,858,1797,0,0,2,3,1,Gd,213500
+45,RH,9000,Corner,SawyerW,1Fam,1.5Unf,6,3,1928,Gable,Wd Sdng,None,0,BrkTil,0,784,784,TA,784,0,784,0,0,1,2,1,TA,76000
+60,RL,53107,Corner,ClearCr,1Fam,2Story,6,5,1992,Gable,HdBoard,None,0,PConc,985,595,1580,Ex,1079,874,1953,1,0,2,3,1,Gd,240000
+120,RL,3182,Inside,Blmngtn,TwnhsE,1Story,8,5,2004,Gable,VinylSd,BrkFace,16,PConc,24,1232,1256,Ex,1269,0,1269,0,0,2,2,1,Gd,192000
+50,RL,8410,FR2,Edwards,1Fam,1.5Fin,5,3,1910,Gambrel,Wd Sdng,None,0,PConc,0,658,658,TA,658,526,1184,0,0,1,5,1,TA,81000
+80,RL,7200,Inside,Edwards,1Fam,SLvl,6,6,1976,Hip,MetalSd,BrkFace,255,CBlock,631,410,1041,Ex,1125,0,1125,1,0,1,3,1,TA,125000
+20,RL,9382,CulDSac,CollgCr,1Fam,1Story,7,5,1999,Gable,VinylSd,BrkFace,125,PConc,0,1468,1468,Ex,1479,0,1479,0,0,2,3,1,Gd,191000
+60,RL,12474,Inside,NridgHt,1Fam,2Story,10,5,2007,Gable,VinylSd,Stone,272,PConc,1280,402,1682,Ex,1742,590,2332,1,0,2,3,1,Ex,426000
+50,RL,8405,Inside,Edwards,1Fam,1.5Fin,5,8,1900,Gable,MetalSd,None,0,BrkTil,241,229,861,Ex,961,406,1367,1,0,1,4,1,TA,119000
+60,RL,12209,CulDSac,Mitchel,1Fam,2Story,6,5,2001,Gable,VinylSd,None,0,PConc,690,114,804,Ex,804,1157,1961,1,0,2,3,1,Gd,215000
+20,RL,8339,Inside,NAmes,1Fam,1Story,5,7,1959,Gable,MetalSd,None,0,Slab,0,0,0,TA,882,0,882,0,0,1,3,1,TA,106500
+30,RL,7446,Corner,BrkSide,1Fam,1Story,4,5,1941,Gable,WdShing,None,0,CBlock,266,522,788,TA,788,0,788,0,0,1,2,1,TA,100000
+50,RL,10134,Inside,OldTown,1Fam,1.5Fin,5,6,1940,Gable,MetalSd,None,0,CBlock,0,735,735,Gd,735,299,1034,0,0,1,2,1,TA,109000
+20,RL,9571,Inside,Edwards,1Fam,1Story,5,6,1956,Gable,Wd Sdng,None,0,CBlock,739,405,1144,TA,1144,0,1144,1,0,1,3,1,TA,129000
+20,RL,7200,Inside,CollgCr,1Fam,1Story,5,5,1972,Hip,MetalSd,None,0,CBlock,777,117,894,TA,894,0,894,0,0,1,2,1,TA,123000
+60,RL,7590,Inside,NAmes,1Fam,2Story,5,5,1962,Gable,VinylSd,BrkFace,288,CBlock,540,324,864,TA,876,936,1812,0,0,2,4,1,TA,169500
+30,RM,8967,Corner,IDOTRR,1Fam,1Story,5,2,1920,Gable,MetalSd,None,0,BrkTil,0,961,961,Gd,1077,0,1077,0,0,1,2,1,TA,67000
+60,FV,8125,Inside,Somerst,1Fam,2Story,7,5,2006,Gable,CemntBd,Stone,100,PConc,812,280,1092,Ex,1112,438,1550,1,0,2,2,1,Gd,241000
+120,RL,14963,Inside,Veenker,TwnhsE,1Story,8,5,1996,Gable,BrkFace,None,0,PConc,786,474,1260,Ex,1288,0,1288,1,0,1,1,1,Ex,245500
+20,RL,8767,Inside,CollgCr,1Fam,1Story,7,5,2005,Gable,VinylSd,None,0,PConc,24,1286,1310,Ex,1310,0,1310,0,0,2,3,1,Gd,164990
+30,RL,10200,Inside,Sawyer,1Fam,1Story,5,8,1940,Gable,Wd Sdng,None,0,PConc,0,672,672,Ex,672,0,672,0,0,1,2,1,TA,108000
+60,RL,12090,Corner,NoRidge,1Fam,2Story,8,5,1998,Hip,VinylSd,BrkFace,650,PConc,0,1141,1141,Gd,1165,1098,2263,0,0,2,4,1,Gd,258000
+60,RL,10364,Inside,Gilbert,1Fam,2Story,6,5,1995,Gable,MetalSd,None,0,PConc,0,806,806,Gd,806,766,1572,0,0,2,3,1,TA,168000
+20,RL,9991,Corner,Sawyer,1Fam,1Story,4,4,1976,Gable,Plywood,None,0,CBlock,1116,165,1281,Ex,1620,0,1620,1,0,2,3,1,TA,150000
+50,RL,10480,Inside,SWISU,1Fam,1.5Fin,6,5,1936,Gable,MetalSd,None,0,BrkTil,0,1064,1064,Ex,1166,0,1639,0,0,1,3,1,TA,115000
+70,RL,15576,Inside,Crawfor,1Fam,2Story,6,7,1915,Gable,Wd Sdng,None,0,BrkTil,0,840,840,Ex,840,840,1680,0,0,2,4,1,TA,177000
+60,RL,14154,Corner,NridgHt,1Fam,2Story,7,5,2006,Gable,VinylSd,BrkFace,350,PConc,0,1063,1063,Ex,1071,1101,2172,0,0,2,3,1,Gd,280000
+60,FV,10800,Inside,Somerst,1Fam,2Story,8,5,2007,Gable,VinylSd,Stone,100,PConc,789,245,1034,Ex,1050,1028,2078,1,0,2,3,1,Ex,339750
+20,RL,9571,Inside,Edwards,1Fam,1Story,5,3,1958,Gable,BrkComm,None,0,CBlock,0,1276,1276,TA,1276,0,1276,0,0,1,3,1,TA,60000
+190,RL,34650,Inside,Gilbert,2fmCon,1Story,5,5,1955,Hip,Wd Sdng,None,0,CBlock,1056,0,1056,TA,1056,0,1056,1,0,1,3,1,TA,145000
+20,FV,4403,Inside,Somerst,1Fam,1Story,7,5,2009,Gable,MetalSd,Stone,432,PConc,578,892,1470,Ex,1478,0,1478,1,0,2,2,1,Gd,222000
+30,RM,8960,Inside,OldTown,1Fam,1Story,5,6,1927,Gable,WdShing,None,0,CBlock,0,1008,1008,Gd,1028,0,1028,0,0,1,2,1,TA,115000
+60,RL,11228,CulDSac,SawyerW,1Fam,2Story,7,5,1993,Gable,VinylSd,None,0,PConc,50,499,1080,Ex,1080,1017,2097,0,1,2,3,1,Gd,228000
+20,RL,8899,Inside,Gilbert,1Fam,1Story,7,5,2007,Gable,VinylSd,None,0,PConc,24,1316,1340,Ex,1340,0,1340,0,0,2,3,1,Gd,181134
+60,RL,7844,Inside,Sawyer,1Fam,2Story,6,7,1978,Hip,HdBoard,BrkFace,203,CBlock,209,463,672,TA,672,728,1400,0,0,1,3,1,TA,149500
+70,RL,22420,Inside,Crawfor,1Fam,2Story,6,6,1918,Hip,Wd Sdng,None,0,BrkTil,1128,242,1370,TA,1370,1254,2624,1,0,2,4,1,TA,239000
+50,RL,8160,Inside,Edwards,1Fam,1.5Fin,5,6,1940,Gable,MetalSd,None,0,BrkTil,312,444,756,Fa,756,378,1134,1,0,1,3,1,TA,126000
+20,RL,8450,Inside,NAmes,1Fam,1Story,5,6,1968,Gable,VinylSd,None,0,CBlock,775,281,1056,Ex,1056,0,1056,1,0,1,3,1,TA,142000
+90,RM,7060,Inside,Mitchel,Duplex,SFoyer,7,5,1997,Gable,VinylSd,BrkFace,200,PConc,1309,35,1344,Ex,1344,0,1344,2,0,2,2,2,TA,206300
+20,RL,16635,FR2,NWAmes,1Fam,1Story,6,7,1977,Gable,CemntBd,Stone,126,CBlock,1246,356,1602,Gd,1602,0,1602,0,1,2,3,1,Gd,215000
+20,RL,21750,Inside,Mitchel,1Fam,1Story,5,5,1954,Hip,HdBoard,None,0,CBlock,0,988,988,Ex,988,0,988,0,0,1,2,1,TA,113000
+60,RL,9200,Inside,NoRidge,1Fam,2Story,8,5,1998,Gable,VinylSd,BrkFace,473,PConc,986,484,1470,Gd,1470,1160,2630,1,0,2,4,1,Gd,315000
+20,RL,9000,Inside,NAmes,1Fam,1Story,6,5,1956,Gable,Wd Sdng,BrkFace,74,CBlock,616,580,1196,Gd,1196,0,1196,1,0,1,2,1,TA,139000
+60,RM,3378,Inside,OldTown,1Fam,2Story,7,8,1946,Gable,HdBoard,None,0,CBlock,0,651,651,Gd,707,682,1389,0,0,1,3,1,TA,135000
+80,RL,12800,Inside,SawyerW,1Fam,SLvl,7,5,1989,Gable,Wd Sdng,BrkFace,145,PConc,1518,0,1518,Gd,1644,0,1644,1,1,2,2,1,Gd,275000
+20,RL,8593,Inside,NAmes,1Fam,1Story,4,6,1957,Hip,MetalSd,None,0,CBlock,288,619,907,Ex,907,0,907,0,0,1,3,1,TA,109008
+20,RL,6762,Inside,CollgCr,1Fam,1Story,7,5,2007,Gable,VinylSd,BrkFace,108,PConc,664,544,1208,Ex,1208,0,1208,1,0,2,2,1,Gd,195400
+20,RL,11457,Corner,Timber,1Fam,1Story,6,5,1988,Gable,HdBoard,None,0,CBlock,1005,387,1392,TA,1412,0,1412,1,0,2,3,1,Gd,175000
+160,RM,1680,Inside,BrDale,Twnhs,2Story,6,5,1971,Gable,HdBoard,BrkFace,232,CBlock,387,96,483,TA,483,504,987,0,0,1,2,1,TA,85400
+50,RM,5586,Inside,OldTown,1Fam,1.5Fin,6,7,1920,Gable,MetalSd,None,0,BrkTil,0,901,901,Gd,1088,110,1198,0,0,1,4,1,TA,79900
+160,RM,1920,Inside,BrDale,TwnhsE,2Story,5,5,1971,Gable,HdBoard,BrkFace,376,CBlock,471,294,765,Ex,765,600,1365,1,0,1,2,1,TA,122500
+60,RL,10839,Corner,Gilbert,1Fam,2Story,6,5,1997,Gable,VinylSd,None,0,PConc,0,926,926,Ex,926,678,1604,0,0,2,3,1,TA,181000
+180,RM,1890,Inside,MeadowV,Twnhs,SFoyer,4,7,1972,Gable,CemntBd,None,0,CBlock,495,135,630,Gd,630,0,630,1,0,1,1,1,TA,81000
+60,RL,10667,CulDSac,CollgCr,1Fam,2Story,7,6,1996,Gable,VinylSd,None,0,PConc,385,70,799,Ex,827,834,1661,1,0,2,3,1,Gd,212000
+50,RM,4400,Inside,OldTown,1Fam,1.5Fin,6,8,1920,Gable,Stucco,None,0,BrkTil,0,648,648,TA,734,384,1118,0,0,1,2,1,TA,116000
+45,RM,6000,Inside,BrkSide,1Fam,1.5Unf,6,7,1926,Gable,Wd Sdng,None,0,PConc,0,884,884,Gd,904,0,904,0,0,1,2,1,TA,119000
+30,RL,4280,Inside,Crawfor,1Fam,1Story,5,6,1913,Gable,WdShing,None,0,PConc,365,75,440,TA,694,0,694,0,0,1,2,1,Gd,90350
+50,RL,12354,Corner,Edwards,1Fam,1.5Fin,6,8,1920,Gable,Wd Sdng,None,0,BrkTil,0,684,684,Gd,684,512,1196,0,0,1,3,1,Gd,110000
+20,RL,15431,Inside,NridgHt,1Fam,1Story,10,5,2008,Hip,VinylSd,Stone,200,PConc,1767,788,3094,Ex,2402,0,2402,1,0,2,2,1,Ex,555000
+90,RL,12108,Inside,Edwards,Duplex,1Story,4,4,1955,Gable,VinylSd,BrkFace,270,CBlock,133,1307,1440,TA,1440,0,1440,0,0,2,4,2,Fa,118000
+50,RM,6240,Inside,BrkSide,1Fam,1.5Fin,5,7,1930,Gable,MetalSd,None,0,PConc,0,1078,1078,TA,1128,445,1573,0,0,2,3,1,TA,162900
+120,RL,3922,Inside,Blmngtn,TwnhsE,1Story,7,5,2006,Gable,WdShing,BrkFace,72,PConc,0,1258,1258,Ex,1258,0,1258,0,0,2,2,1,Gd,172500
+60,RL,8750,Inside,CollgCr,1Fam,2Story,7,5,1994,Gable,VinylSd,None,0,PConc,642,273,915,Ex,933,975,1908,1,0,2,4,1,Gd,210000
+20,RL,9855,Corner,Edwards,1Fam,1Story,6,5,1956,Hip,Wd Sdng,None,0,CBlock,0,1436,1436,Fa,1689,0,1689,0,0,1,3,1,TA,127500
+20,RL,16492,Corner,NAmes,1Fam,1Story,6,6,1966,Gable,BrkFace,None,0,CBlock,247,557,1517,Ex,1888,0,1888,0,0,2,2,1,Gd,190000
+60,RL,11214,Corner,Gilbert,1Fam,2Story,7,5,1998,Gable,VinylSd,None,0,PConc,0,930,930,Gd,956,930,1886,0,0,2,4,1,Gd,199900
+50,RM,8600,Inside,IDOTRR,1Fam,1.5Fin,6,6,1937,Gable,MetalSd,None,0,BrkTil,0,780,780,TA,780,596,1376,0,0,2,3,1,TA,119500
+50,RM,6000,Inside,OldTown,1Fam,1.5Fin,3,7,1948,Gable,MetalSd,None,0,CBlock,331,318,649,Ex,679,504,1183,0,0,1,2,1,TA,120000
+30,RM,5684,Inside,OldTown,1Fam,1Story,6,8,1930,Hip,Wd Sdng,None,0,BrkTil,0,813,813,Ex,813,0,813,0,0,1,2,1,Gd,110000
+20,RL,70761,Inside,ClearCr,1Fam,1Story,7,5,1975,Gable,Plywood,None,0,CBlock,655,878,1533,TA,1533,0,1533,1,0,2,2,1,Gd,280000
+60,RL,9303,Corner,Timber,1Fam,2Story,6,5,1996,Hip,VinylSd,BrkFace,42,PConc,742,130,872,Ex,888,868,1756,1,0,2,3,1,TA,204000
+60,FV,9000,Inside,Somerst,1Fam,2Story,8,5,2008,Gable,VinylSd,None,0,PConc,0,768,768,Ex,786,804,1590,0,0,2,3,1,Gd,210000
+90,RL,9297,Inside,Mitchel,Duplex,1Story,5,5,1976,Gable,Plywood,None,0,CBlock,1606,122,1728,TA,1728,0,1728,2,0,2,4,2,TA,188000
+20,RL,9600,Inside,NWAmes,1Fam,1Story,7,6,1973,Hip,HdBoard,BrkFace,320,CBlock,916,326,1242,Fa,1242,0,1242,0,0,1,3,1,TA,175500
+70,RM,4571,Inside,OldTown,1Fam,2Story,5,5,1916,Gable,AsbShng,None,0,BrkTil,0,624,624,Fa,624,720,1344,0,0,1,4,1,TA,98000
+20,RL,53227,CulDSac,ClearCr,1Fam,1Story,4,6,1954,Flat,Plywood,None,0,CBlock,1116,248,1364,Ex,1663,0,1663,1,0,1,2,1,Gd,256000
+70,RM,5100,Inside,OldTown,1Fam,2Story,8,7,1925,Hip,Stucco,None,0,PConc,0,588,588,Fa,833,833,1666,0,0,1,3,1,Gd,161000
+50,RL,7015,Corner,BrkSide,1Fam,1.5Fin,5,4,1950,Gable,MetalSd,BrkCmn,161,CBlock,185,524,709,TA,979,224,1203,1,0,1,3,1,Gd,110000
+60,FV,8004,Inside,Somerst,1Fam,2Story,8,5,2009,Gable,VinylSd,Stone,110,PConc,544,288,832,Ex,832,1103,1935,1,0,2,3,1,TA,263435
+70,RL,7200,Inside,SWISU,1Fam,2Story,7,9,1936,Gable,Wd Sdng,None,0,PConc,350,0,560,Ex,575,560,1135,1,0,1,3,1,Gd,155000
+20,RL,8281,Inside,Sawyer,1Fam,1Story,5,5,1965,Gable,MetalSd,None,0,CBlock,553,0,864,Gd,864,0,864,0,0,1,3,1,TA,62383
+70,RL,11988,Inside,Crawfor,1Fam,2Story,6,7,1934,Hip,Stucco,None,0,CBlock,326,389,715,Fa,849,811,1660,0,0,1,3,1,TA,188700
+20,RL,8430,Inside,CollgCr,1Fam,1Story,5,5,1978,Gable,HdBoard,BrkFace,136,CBlock,616,424,1040,TA,1040,0,1040,0,0,2,3,1,TA,124000
+120,RM,3072,Inside,Blmngtn,TwnhsE,1Story,7,5,2004,Hip,VinylSd,BrkFace,18,PConc,0,1375,1375,Ex,1414,0,1414,0,0,2,2,1,Gd,178740
+20,RL,10628,Inside,NAmes,1Fam,1Story,7,5,1970,Flat,Plywood,None,0,CBlock,778,499,1277,TA,1277,0,1277,1,0,1,2,1,TA,167000
+70,RL,9480,Inside,NAmes,1Fam,2Story,5,7,1942,Gable,MetalSd,Stone,224,CBlock,386,342,728,Ex,888,756,1644,0,0,1,3,1,Gd,146500
+20,RL,11428,Inside,NridgHt,1Fam,1Story,8,5,2006,Gable,VinylSd,Stone,248,PConc,0,1626,1626,Ex,1634,0,1634,0,0,2,3,1,Gd,250000
+60,RL,9291,Corner,SawyerW,1Fam,2Story,6,5,1993,Gable,HdBoard,BrkFace,120,PConc,426,406,832,Ex,832,878,1710,0,0,2,3,1,Gd,187000
+120,RL,6820,Corner,StoneBr,TwnhsE,1Story,8,5,1985,Gable,HdBoard,None,0,PConc,368,0,1488,TA,1502,0,1502,1,0,1,1,1,Gd,212000
+60,RL,11952,Inside,NWAmes,1Fam,2Story,7,6,1977,Mansard,WdShing,None,0,CBlock,0,808,808,TA,1161,808,1969,0,0,2,3,1,TA,190000
+180,RM,3675,Inside,Edwards,TwnhsE,SLvl,6,5,2005,Gable,VinylSd,BrkFace,80,PConc,459,88,547,Ex,1072,0,1072,1,0,1,2,1,TA,148000
+20,RL,14977,Inside,NridgHt,1Fam,1Story,8,5,2006,Gable,VinylSd,BrkFace,304,PConc,1350,626,1976,Ex,1976,0,1976,1,0,2,2,1,Gd,440000
+120,RL,5330,Inside,StoneBr,TwnhsE,1Story,8,5,2000,Gable,CemntBd,None,0,PConc,1196,298,1494,Ex,1652,0,1652,1,0,2,2,1,Ex,251000
+20,RL,8480,Corner,Sawyer,1Fam,1Story,5,6,1963,Hip,HdBoard,None,0,CBlock,630,340,970,TA,970,0,970,1,0,1,2,1,TA,132500
+20,RL,13125,Inside,CollgCr,1Fam,1Story,6,5,1997,Gable,VinylSd,BrkFace,215,PConc,994,484,1478,Ex,1493,0,1493,1,0,2,3,1,Gd,208900
+60,RL,13693,Inside,NridgHt,1Fam,2Story,9,5,2006,Hip,VinylSd,BrkFace,772,PConc,0,2153,2153,Ex,2069,574,2643,0,0,2,3,1,Ex,380000
+20,RL,10637,Inside,CollgCr,1Fam,1Story,8,5,2007,Hip,VinylSd,Stone,336,PConc,1288,417,1705,Ex,1718,0,1718,1,0,2,3,1,Gd,297000
+30,RM,5925,Inside,OldTown,1Fam,1Story,4,7,1937,Hip,Stucco,BrkCmn,435,BrkTil,168,739,907,TA,1131,0,1131,0,0,1,2,1,TA,89471
+20,RL,16033,FR2,NridgHt,1Fam,1Story,9,5,2004,Hip,VinylSd,BrkFace,378,PConc,1261,572,1833,Ex,1850,0,1850,1,0,2,3,1,Gd,326000
+20,RL,11846,Inside,NridgHt,1Fam,1Story,9,5,2003,Hip,VinylSd,BrkFace,562,PConc,1567,225,1792,Ex,1792,0,1792,1,0,2,2,1,Ex,374000
+70,RM,2500,Corner,OldTown,1Fam,2Story,7,8,1915,Gable,Stucco,None,0,PConc,299,611,910,Ex,916,910,1826,1,0,1,4,1,Ex,155000
+120,RM,4500,FR2,Mitchel,Twnhs,1Story,6,5,1998,Hip,VinylSd,BrkFace,116,PConc,897,319,1216,Ex,1216,0,1216,1,0,2,2,1,TA,164000
+20,RL,7758,Corner,Sawyer,1Fam,1Story,5,7,1962,Gable,HdBoard,None,0,CBlock,588,411,999,Gd,999,0,999,1,0,1,3,1,Gd,132500
+20,RL,9600,Inside,NAmes,1Fam,1Story,5,7,1950,Gable,MetalSd,None,0,CBlock,607,506,1113,Gd,1113,0,1113,0,0,1,3,1,Gd,147000
+20,RL,10289,Inside,NAmes,1Fam,1Story,5,7,1965,Hip,MetalSd,BrkFace,168,CBlock,836,237,1073,TA,1073,0,1073,1,0,1,3,1,TA,156000
+20,RL,12243,Inside,NWAmes,1Fam,1Story,5,6,1971,Gable,Plywood,None,0,CBlock,998,486,1484,Gd,1484,0,1484,0,0,2,3,1,TA,175000
+190,RL,10800,Corner,OldTown,2fmCon,1.5Fin,5,4,1900,Gable,Wd Sdng,None,0,CBlock,664,290,954,TA,1766,648,2414,0,0,2,3,2,TA,160000
+180,RM,1526,Inside,MeadowV,Twnhs,SFoyer,4,8,1970,Gable,CemntBd,None,0,CBlock,515,115,630,TA,630,0,630,1,0,1,1,1,Gd,86000
+160,RM,2665,Inside,MeadowV,TwnhsE,2Story,5,6,1976,Gable,CemntBd,None,0,PConc,0,264,264,TA,616,688,1304,0,0,1,3,1,TA,115000
+50,RL,9490,Inside,NAmes,1Fam,1.5Fin,6,7,1941,Gable,Wd Sdng,None,0,CBlock,403,238,806,TA,958,620,1578,1,0,1,3,1,Fa,133000
+60,RL,15578,Corner,Gilbert,1Fam,2Story,6,5,2006,Gable,VinylSd,None,0,PConc,0,728,728,Gd,728,728,1456,0,0,2,3,1,TA,172785
+20,RL,7931,Inside,NAmes,1Fam,1Story,5,6,1960,Gable,BrkFace,None,0,CBlock,374,363,1269,TA,1269,0,1269,0,0,1,3,1,TA,155000
+30,RM,5784,Inside,OldTown,1Fam,1Story,5,8,1938,Gable,MetalSd,None,0,BrkTil,0,190,190,Gd,886,0,886,0,0,1,2,1,TA,91300
+30,C (all),7879,Inside,IDOTRR,1Fam,1Story,4,5,1920,Gable,Wd Sdng,None,0,CBlock,495,225,720,TA,720,0,720,0,0,1,2,1,TA,34900
+20,RL,12692,Inside,NoRidge,1Fam,1Story,8,5,1992,Hip,BrkFace,None,0,PConc,1231,1969,3200,Ex,3228,0,3228,1,0,3,4,1,Gd,430000
+50,RL,9120,Inside,BrkSide,1Fam,1.5Fin,7,6,1925,Gable,Wd Sdng,None,0,PConc,329,697,1026,Ex,1133,687,1820,1,0,2,4,1,TA,184000
+20,RL,7800,Inside,Sawyer,1Fam,1Story,5,7,1967,Hip,HdBoard,BrkFace,89,PConc,450,414,864,Ex,899,0,899,0,0,1,3,1,Gd,130000
+20,RL,7535,Inside,NAmes,1Fam,1Story,5,7,1958,Gable,MetalSd,None,0,CBlock,111,522,912,Fa,912,0,912,0,1,1,2,1,TA,120000
+160,RM,1890,Inside,BrDale,Twnhs,2Story,6,5,1973,Gable,HdBoard,BrkFace,285,CBlock,356,316,672,TA,672,546,1218,0,0,1,3,1,TA,113000
+60,FV,9803,Inside,Somerst,1Fam,2Story,7,5,2005,Gable,VinylSd,None,0,PConc,400,466,866,Gd,866,902,1768,0,0,2,3,1,Gd,226700
+20,RL,9170,Corner,Edwards,1Fam,1Story,5,7,1965,Hip,MetalSd,None,0,CBlock,698,420,1214,Ex,1214,0,1214,1,0,1,2,1,TA,140000
+20,RL,15602,Inside,Crawfor,1Fam,1Story,7,8,1959,Gable,BrkFace,None,0,CBlock,1247,254,1501,TA,1801,0,1801,1,0,2,1,1,TA,289000
+160,RL,2308,Inside,NPkVill,TwnhsE,2Story,6,5,1974,Gable,Plywood,None,0,CBlock,257,103,855,TA,855,467,1322,0,1,2,3,1,TA,147000
+90,RM,7596,Inside,OldTown,Duplex,2Story,5,5,1952,Hip,Wd Sdng,BrkFace,360,CBlock,0,960,960,Gd,960,1000,1960,0,0,2,4,2,TA,124500
+60,RL,9554,Inside,SawyerW,1Fam,2Story,8,5,1993,Gable,VinylSd,BrkFace,125,PConc,380,397,777,Ex,1065,846,1911,0,0,2,3,1,Gd,215000
+20,FV,7862,Inside,Somerst,1Fam,1Story,6,5,2009,Gable,VinylSd,None,0,PConc,27,1191,1218,Ex,1218,0,1218,0,0,2,2,1,Gd,208300
+70,RM,9600,Inside,OldTown,1Fam,2Story,7,9,1928,Gambrel,MetalSd,None,0,BrkTil,141,548,689,Ex,689,689,1378,0,0,2,3,1,Gd,161000
+20,RL,9600,Corner,NAmes,1Fam,1Story,5,6,1959,Gable,MetalSd,BrkFace,132,CBlock,991,50,1041,Ex,1041,0,1041,1,0,1,3,1,TA,124500
+20,RL,14559,Inside,NAmes,1Fam,1Story,5,7,1951,Hip,Wd Sdng,BrkCmn,70,CBlock,650,178,1008,Ex,1363,0,1363,1,0,1,2,1,TA,164900
+120,RL,6792,Inside,NridgHt,TwnhsE,1Story,7,5,2005,Gable,VinylSd,Stone,94,PConc,0,1368,1368,Ex,1368,0,1368,0,0,2,2,1,Gd,202665
+20,RL,9100,Corner,NAmes,1Fam,1Story,5,5,1958,Gable,VinylSd,None,0,CBlock,521,169,864,TA,864,0,864,1,0,1,3,1,TA,129900
+20,RL,9187,Corner,Mitchel,1Fam,1Story,6,5,1983,Gable,VinylSd,None,0,PConc,336,748,1084,TA,1080,0,1080,0,0,1,3,1,TA,134000
+45,RL,10594,Inside,Crawfor,1Fam,1.5Unf,5,5,1926,Gable,Wd Sdng,None,0,BrkTil,0,768,768,Fa,789,0,789,0,0,1,2,1,TA,96500
+20,RL,12220,Inside,NridgHt,1Fam,1Story,10,5,2009,Hip,CemntBd,BrkFace,305,CBlock,1436,570,2006,Ex,2020,0,2020,1,0,2,3,1,Ex,402861
+80,RL,10448,Corner,NWAmes,1Fam,SLvl,6,6,1972,Gable,HdBoard,BrkFace,333,CBlock,0,689,689,TA,1378,741,2119,0,0,2,3,1,TA,158000
+60,RL,10208,Inside,NoRidge,1Fam,2Story,7,5,1996,Gable,VinylSd,BrkFace,921,PConc,0,1264,1264,Ex,1277,1067,2344,0,0,2,3,1,Gd,265000
+60,RL,9531,CulDSac,CollgCr,1Fam,2Story,6,5,1998,Gable,VinylSd,None,0,PConc,706,88,794,Ex,882,914,1796,1,0,2,3,1,TA,211000
+70,RL,10918,Inside,Crawfor,1Fam,2Story,7,9,1926,Gambrel,MetalSd,None,0,BrkTil,0,1276,1276,Ex,1276,804,2080,0,0,1,3,1,Gd,234000
+190,RL,10800,Inside,OldTown,2fmCon,2Story,4,7,1900,Gable,MetalSd,None,0,BrkTil,0,0,0,TA,694,600,1294,0,0,2,3,2,TA,106250
+20,RL,11988,Corner,NAmes,1Fam,1Story,6,6,1957,Gable,VinylSd,None,0,CBlock,777,467,1244,Ex,1244,0,1244,0,0,1,3,1,TA,150000
+50,RM,5000,Corner,BrkSide,1Fam,1.5Fin,6,7,1947,Gable,CemntBd,None,0,CBlock,399,605,1004,Ex,1004,660,1664,0,0,2,3,1,TA,159000
+60,RL,40094,Inside,Edwards,1Fam,2Story,10,5,2007,Hip,CemntBd,Stone,762,PConc,2260,878,3138,Ex,3138,1538,4676,1,0,3,3,1,Ex,184750
+60,RL,11787,Inside,NoRidge,1Fam,2Story,7,5,1996,Gable,VinylSd,BrkFace,594,PConc,719,660,1379,Ex,1383,1015,2398,1,0,2,3,1,Gd,315750
+20,FV,7500,Inside,Somerst,1Fam,1Story,7,5,2005,Gable,VinylSd,None,0,PConc,0,1257,1257,Ex,1266,0,1266,0,0,2,3,1,Gd,176000
+20,RL,13300,Inside,NAmes,1Fam,1Story,5,7,1956,Hip,Wd Sdng,None,0,CBlock,377,551,928,TA,928,0,928,0,0,1,2,1,TA,132000
+60,RL,14948,Inside,NridgHt,1Fam,2Story,9,5,2008,Hip,VinylSd,Stone,268,PConc,1330,122,1452,Ex,1476,1237,2713,1,0,2,3,1,Ex,446261
+30,RL,9098,Inside,Edwards,1Fam,1Story,4,7,1920,Gable,Wd Sdng,None,0,BrkTil,348,180,528,Ex,605,0,605,1,0,1,2,1,TA,86000
+20,RL,32668,CulDSac,Crawfor,1Fam,1Story,6,3,1957,Hip,Wd Sdng,NA,NA,PConc,1219,816,2035,TA,2515,0,2515,1,0,3,4,2,TA,200624
+80,RL,10200,Inside,Timber,1Fam,SLvl,6,5,1988,Gable,HdBoard,BrkFace,219,CBlock,783,678,1461,Ex,1509,0,1509,1,0,2,3,1,Gd,175000
+70,RM,6155,FR3,BrkSide,1Fam,2Story,6,8,1920,Gable,Wd Sdng,None,0,BrkTil,0,611,611,Ex,751,611,1362,0,0,2,3,1,TA,128000
+20,RL,7200,Inside,NAmes,1Fam,1Story,5,7,1955,Gable,VinylSd,None,0,Slab,0,0,0,Ex,827,0,827,0,0,1,2,1,TA,107500
+20,RL,5000,Inside,BrkSide,1Fam,1Story,1,3,1946,Gable,VinylSd,None,0,Slab,0,0,0,Fa,334,0,334,0,0,1,1,1,Fa,39300
+60,RL,9056,Inside,Gilbert,1Fam,2Story,8,5,2004,Gable,VinylSd,None,0,PConc,0,707,707,Ex,707,707,1414,0,0,2,3,1,Gd,178000
+190,RL,7000,Inside,Edwards,2fmCon,2Story,5,7,1910,Gable,MetalSd,None,0,CBlock,969,148,1117,TA,820,527,1347,1,0,1,3,1,TA,107500
+60,RL,8924,CulDSac,CollgCr,1Fam,2Story,7,5,1998,Gable,VinylSd,None,0,PConc,0,880,880,Ex,880,844,1724,0,0,2,3,1,Gd,188000
+20,RL,12735,FR2,NAmes,1Fam,1Story,4,5,1972,Hip,MetalSd,None,0,CBlock,600,264,864,TA,864,0,864,0,0,1,3,1,TA,111250
+20,RL,11553,Inside,Sawyer,1Fam,1Story,5,5,1968,Hip,Plywood,BrkFace,188,CBlock,673,378,1051,TA,1159,0,1159,0,0,1,3,1,TA,158000
+20,RL,11423,Inside,CollgCr,1Fam,1Story,8,5,2001,Gable,VinylSd,BrkFace,479,PConc,1358,223,1581,Ex,1601,0,1601,1,0,2,3,1,Gd,272000
+20,RL,14601,Inside,Timber,1Fam,1Story,9,5,2006,Hip,VinylSd,BrkFace,584,PConc,1260,578,1838,Ex,1838,0,1838,1,0,2,2,1,Ex,315000
+60,RL,11000,FR2,NoRidge,1Fam,2Story,8,5,2000,Gable,VinylSd,BrkFace,72,PConc,0,969,969,Ex,997,1288,2285,0,0,2,4,1,Gd,248000
+20,RL,10140,Inside,NWAmes,1Fam,1Story,7,5,1998,Hip,VinylSd,None,0,PConc,144,379,1650,Ex,1680,0,1680,1,0,2,3,1,Gd,213250
+120,RH,4058,Inside,NAmes,TwnhsE,SFoyer,7,5,1998,Gable,MetalSd,BrkFace,182,PConc,584,0,723,Ex,767,0,767,1,0,1,1,1,TA,133000
+60,RL,17104,Inside,Gilbert,1Fam,2Story,7,5,2006,Gable,VinylSd,None,0,PConc,554,100,654,Ex,664,832,1496,1,0,2,3,1,Gd,179665
+50,RL,13837,Corner,NWAmes,1Fam,1.5Fin,7,5,1988,Gable,HdBoard,BrkFace,178,PConc,1002,0,1204,Gd,1377,806,2183,0,0,2,4,1,Gd,229000
+50,RL,8737,Inside,BrkSide,1Fam,1.5Fin,6,7,1923,Gable,BrkFace,None,0,BrkTil,300,765,1065,Ex,915,720,1635,0,0,1,3,1,TA,210000
+85,RL,7244,Inside,Mitchel,1Fam,SFoyer,5,7,1970,Gable,VinylSd,None,0,CBlock,619,149,768,Ex,768,0,768,1,0,1,2,1,TA,129500
+20,RM,8235,Inside,OldTown,1Fam,1Story,5,7,1955,Gable,MetalSd,None,0,CBlock,180,0,825,TA,825,0,825,1,0,1,2,1,TA,125000
+60,FV,9375,Inside,Somerst,1Fam,2Story,7,5,2003,Gable,VinylSd,None,0,PConc,0,912,912,Ex,912,1182,2094,0,0,2,4,1,Gd,263000
+120,RL,4043,Inside,NPkVill,TwnhsE,1Story,6,6,1977,Gable,Plywood,None,0,CBlock,559,510,1069,TA,1069,0,1069,0,0,2,2,1,TA,140000
+20,RM,6000,Inside,OldTown,1Fam,1Story,5,6,1957,Hip,BrkFace,None,0,CBlock,308,620,928,Gd,928,0,928,0,0,1,3,1,TA,112500
+20,RL,11146,Inside,NridgHt,1Fam,1Story,8,5,2006,Gable,VinylSd,Stone,250,PConc,0,1709,1709,Ex,1717,0,1717,0,0,2,3,1,Gd,255500
+20,RL,8777,Inside,Edwards,1Fam,1Story,4,5,1949,Gable,VinylSd,None,0,CBlock,0,0,0,Ex,1126,0,1126,0,0,2,2,1,Gd,108000
+60,RL,10625,Inside,NridgHt,1Fam,2Story,7,5,2003,Gable,VinylSd,BrkFace,292,PConc,866,132,998,Ex,1006,1040,2046,1,0,2,3,1,Gd,284000
+45,RM,6380,Inside,BrkSide,1Fam,1.5Unf,5,6,1922,Gable,MetalSd,None,0,BrkTil,0,993,993,TA,1048,0,1048,0,0,1,2,1,TA,113000
+20,RL,14850,Inside,NAmes,1Fam,1Story,5,5,1957,Gable,Wd Sdng,None,0,CBlock,895,197,1092,TA,1092,0,1092,1,0,1,2,1,TA,141000
+50,C (all),11040,Inside,IDOTRR,1Fam,1.5Fin,4,6,1920,Gable,MetalSd,None,0,CBlock,637,0,637,Gd,897,439,1336,0,0,1,3,1,TA,108000
+60,RL,21872,FR2,Gilbert,1Fam,2Story,7,5,1996,Gable,HdBoard,None,0,PConc,604,125,729,Ex,729,717,1446,0,1,2,3,1,TA,175000
+120,RL,3196,Inside,Blmngtn,TwnhsE,1Story,7,5,2003,Gable,VinylSd,BrkFace,18,PConc,0,1374,1374,Ex,1557,0,1557,0,0,2,2,1,Gd,234000
+20,RL,11341,Inside,Sawyer,1Fam,1Story,5,6,1957,Hip,Wd Sdng,BrkFace,180,CBlock,1302,90,1392,TA,1392,0,1392,1,0,1,3,1,TA,121500
+20,RL,10010,Inside,Mitchel,1Fam,1Story,5,5,1974,Gable,HdBoard,None,0,CBlock,1071,195,1389,Gd,1389,0,1389,1,0,1,2,1,TA,170000
+30,RL,13907,Inside,Edwards,1Fam,1Story,5,6,1940,Gable,WdShing,None,0,CBlock,290,706,996,Ex,996,0,996,1,0,1,3,1,TA,108000
+50,RL,21780,Inside,Edwards,1Fam,1.5Fin,6,7,1918,Gable,Wd Sdng,None,0,BrkTil,0,1163,1163,Ex,1163,511,1674,0,0,2,4,1,TA,185000
+60,RL,13346,CulDSac,NoRidge,1Fam,2Story,7,5,1992,Gable,HdBoard,None,0,PConc,728,367,1095,Ex,1166,1129,2295,1,0,2,4,1,Gd,268000
+70,RL,6858,Corner,SWISU,1Fam,2Story,6,4,1915,Gable,Wd Sdng,None,0,PConc,0,806,806,TA,841,806,1647,1,0,1,4,1,Fa,128000
+60,RL,11198,Inside,StoneBr,1Fam,2Story,9,5,2005,Hip,VinylSd,BrkFace,245,PConc,0,1122,1122,Ex,1134,1370,2504,0,0,2,4,1,Ex,325000
+20,RL,10171,Inside,NridgHt,1Fam,1Story,7,5,2004,Gable,VinylSd,BrkFace,168,PConc,2,1515,1517,Ex,1535,0,1535,0,0,2,3,1,Gd,214000
+50,RL,12327,Inside,SawyerW,1Fam,1.5Fin,8,8,1983,Gable,Wd Sdng,None,0,CBlock,1441,55,1496,Ex,1496,636,2132,1,0,1,1,1,Gd,316600
+90,RL,7032,Corner,NAmes,Duplex,SFoyer,5,5,1979,Gable,MetalSd,None,0,CBlock,943,0,943,TA,943,0,943,1,0,1,2,1,TA,135960
+90,RL,13101,Inside,NAmes,Duplex,1Story,5,5,1965,Gable,HdBoard,BrkFace,108,CBlock,231,1497,1728,TA,1728,0,1728,0,0,2,6,2,TA,142600
+20,RL,7332,Inside,NAmes,1Fam,1Story,6,6,1959,Gable,WdShing,BrkFace,207,CBlock,414,450,864,Ex,864,0,864,1,0,1,2,1,Gd,120000
+60,RL,13159,Corner,Timber,1Fam,2Story,7,5,2009,Gable,VinylSd,None,0,PConc,0,846,846,Gd,846,846,1692,0,0,2,3,1,Gd,224500
+80,RL,9967,Inside,Gilbert,1Fam,SLvl,7,5,2000,Gable,VinylSd,None,0,PConc,0,384,384,Ex,774,656,1430,0,0,2,3,1,TA,170000
+80,RL,10500,FR2,NAmes,1Fam,SLvl,5,7,1971,Gambrel,MetalSd,BrkFace,82,CBlock,349,23,372,TA,576,533,1109,0,1,1,3,1,TA,139000
+50,RL,8480,Inside,NAmes,1Fam,1.5Fin,5,5,1947,Gable,MetalSd,None,0,CBlock,442,390,832,TA,832,384,1216,0,0,1,2,1,TA,118500
+50,RL,6292,Inside,SWISU,1Fam,1.5Fin,7,7,1928,Gable,Wd Sdng,None,0,BrkTil,0,861,861,Gd,877,600,1477,0,1,2,3,1,TA,145000
+80,RL,11777,Inside,Sawyer,1Fam,SLvl,5,6,1966,Gable,VinylSd,BrkFace,97,CBlock,328,285,1164,Ex,1320,0,1320,1,0,1,3,1,TA,164500
+160,FV,3604,Corner,Somerst,TwnhsE,2Story,7,5,2007,Gable,VinylSd,None,0,PConc,0,689,689,Ex,703,689,1392,0,0,2,2,1,Gd,146000
+50,RM,12150,Inside,OldTown,1Fam,1.5Fin,5,5,1954,Gable,MetalSd,BrkFace,335,BrkTil,0,1050,1050,Ex,1050,745,1795,0,0,2,4,1,TA,131500
+20,RL,14585,CulDSac,NAmes,1Fam,1Story,6,6,1960,Gable,Wd Sdng,BrkFace,85,CBlock,594,331,1144,Ex,1429,0,1429,0,1,1,3,1,Gd,181900
+20,RL,12704,Inside,NridgHt,1Fam,1Story,8,5,2008,Hip,VinylSd,BrkFace,306,PConc,0,2042,2042,Ex,2042,0,2042,0,0,2,3,1,Ex,253293
+90,RL,11841,Inside,Edwards,Duplex,SFoyer,6,5,1990,Gable,HdBoard,BrkFace,104,CBlock,816,0,816,TA,816,0,816,1,0,1,3,1,TA,118500
+75,RM,13500,Inside,OldTown,1Fam,2.5Unf,10,9,1893,Gable,Wd Sdng,None,0,BrkTil,0,1237,1237,Gd,1521,1254,2775,0,0,3,3,1,Gd,325000
+50,RM,6120,Inside,BrkSide,1Fam,1.5Fin,4,7,1935,Gable,AsbShng,None,0,BrkTil,0,884,884,Ex,989,584,1573,0,0,1,3,1,Gd,133000
+20,RL,11443,Inside,Timber,1Fam,1Story,8,5,2005,Hip,VinylSd,BrkFace,208,PConc,1460,408,1868,Ex,2028,0,2028,1,0,2,2,1,Gd,369900
+30,RL,10267,Inside,BrkSide,1Fam,1Story,6,7,1918,Gable,Stucco,None,0,BrkTil,210,0,816,Ex,838,0,838,1,0,1,2,1,Fa,130000
+85,RL,8740,Inside,Sawyer,1Fam,SFoyer,5,6,1982,Hip,HdBoard,None,0,CBlock,672,168,840,TA,860,0,860,1,0,1,2,1,TA,137000
+20,RL,25095,Inside,ClearCr,1Fam,1Story,5,8,1968,Flat,Wd Sdng,None,0,CBlock,1324,113,1437,Ex,1473,0,1473,2,0,1,1,1,Ex,143000
+40,RM,9100,Inside,BrkSide,1Fam,1Story,5,6,1930,Gable,VinylSd,None,0,BrkTil,0,742,742,TA,779,0,935,0,0,1,2,1,TA,79500
+60,RL,8320,Inside,CollgCr,1Fam,2Story,7,5,2004,Gable,VinylSd,None,0,PConc,490,280,770,Ex,770,812,1582,0,0,2,3,1,Gd,185900
+60,RL,13478,Corner,NridgHt,1Fam,2Story,10,5,2008,Gable,CemntBd,Stone,420,PConc,1338,384,1722,Ex,1728,568,2296,1,0,2,3,1,Ex,451950
+20,RL,6600,Inside,Mitchel,1Fam,1Story,5,8,1982,Gable,HdBoard,None,0,PConc,816,0,816,Ex,816,0,816,1,0,1,2,1,TA,138000
+120,RM,4435,Inside,CollgCr,TwnhsE,1Story,6,5,2003,Gable,VinylSd,BrkFace,170,PConc,685,163,848,Ex,848,0,848,1,0,1,1,1,Gd,140000
+20,RL,7990,Inside,CollgCr,1Fam,1Story,5,6,1975,Hip,HdBoard,None,0,CBlock,0,924,924,TA,924,0,924,0,0,1,3,1,TA,110000
+20,RL,11302,Inside,StoneBr,1Fam,1Story,8,5,2005,Gable,VinylSd,BrkFace,238,PConc,1422,392,1814,Ex,1826,0,1826,1,0,2,3,1,Gd,319000
+70,RM,3600,Inside,OldTown,1Fam,2Story,6,7,1910,Gable,VinylSd,None,0,CBlock,0,684,684,Ex,684,684,1368,0,0,1,3,1,TA,114504
+120,RL,3922,Inside,Blmngtn,TwnhsE,1Story,7,5,2006,Gable,VinylSd,BrkFace,72,PConc,0,1258,1258,Ex,1402,0,1402,0,2,0,2,1,Gd,194201
+20,RL,12984,Inside,Crawfor,1Fam,1Story,5,6,1977,Gable,Plywood,BrkFace,459,CBlock,1283,0,1430,Ex,1647,0,1647,1,0,2,3,1,Gd,217500
+160,RM,1950,Inside,Blueste,Twnhs,2Story,6,6,1980,Gable,MetalSd,None,0,CBlock,81,23,716,TA,716,840,1556,1,0,2,3,1,TA,151000
+60,RL,10927,Inside,NridgHt,1Fam,2Story,8,5,2005,Gable,VinylSd,BrkFace,280,PConc,546,512,1058,Ex,1058,846,1904,1,0,2,3,1,Ex,275000
+50,RM,9000,Inside,IDOTRR,1Fam,1.5Fin,6,6,1937,Gable,Wd Sdng,None,0,PConc,0,780,780,TA,780,595,1375,0,0,1,3,1,Gd,141000
+60,RL,10041,Inside,SawyerW,1Fam,2Story,8,5,1992,Gable,HdBoard,None,0,PConc,789,119,908,Ex,927,988,1915,1,0,2,3,1,Gd,220000
+160,FV,3182,Inside,Somerst,TwnhsE,2Story,7,5,2004,Gable,MetalSd,None,0,PConc,0,600,600,Ex,600,600,1200,0,0,2,2,1,Gd,151000
+20,RL,12803,Inside,CollgCr,1Fam,1Story,7,5,2002,Gable,VinylSd,BrkFace,99,PConc,922,572,1494,Ex,1494,0,1494,1,0,2,3,1,Gd,221000
+60,RL,13600,Inside,NAmes,1Fam,2Story,7,6,1965,Gable,HdBoard,BrkFace,176,CBlock,454,314,768,TA,1186,800,1986,0,0,2,3,1,TA,205000
+20,RL,12464,Corner,CollgCr,1Fam,1Story,5,5,1996,Gable,VinylSd,None,0,PConc,732,308,1040,Gd,1040,0,1040,1,0,1,3,1,Gd,152000
+20,RL,7800,Inside,Edwards,1Fam,2Story,5,8,1948,Gable,MetalSd,None,0,CBlock,603,293,896,Ex,1112,896,2008,1,0,3,3,1,Ex,225000
+70,RL,12168,Inside,Crawfor,1Fam,2Story,8,6,1934,Gable,BrkFace,None,0,PConc,428,537,965,TA,1940,1254,3194,0,0,2,4,1,TA,359100
+20,RL,7943,Inside,Sawyer,1Fam,1Story,4,5,1961,Gable,VinylSd,BrkCmn,192,CBlock,903,126,1029,Gd,1029,0,1029,1,0,1,3,1,TA,118500
+60,RL,11050,Inside,CollgCr,1Fam,2Story,9,5,2000,Hip,VinylSd,BrkFace,204,PConc,904,536,1440,Ex,1476,677,2153,1,0,2,3,1,Ex,313000
+80,RL,10395,FR2,NWAmes,1Fam,SLvl,6,6,1978,Gable,HdBoard,BrkFace,233,CBlock,605,427,1032,TA,1032,0,1032,0,1,2,3,1,TA,148000
+60,RL,11885,Inside,CollgCr,1Fam,2Story,8,5,2001,Gable,VinylSd,BrkFace,108,PConc,990,309,1299,Ex,1299,573,1872,1,0,2,3,1,Ex,261500
+20,RL,8402,Inside,Mitchel,1Fam,1Story,5,5,2007,Gable,VinylSd,None,0,PConc,206,914,1120,Ex,1120,0,1120,0,0,1,3,1,TA,147000
+180,RM,1491,Inside,MeadowV,TwnhsE,SFoyer,4,6,1972,Gable,CemntBd,None,0,CBlock,150,0,630,Ex,630,0,630,1,0,1,1,1,TA,75500
+85,RL,8800,Inside,NAmes,1Fam,SFoyer,6,7,1963,Gable,MetalSd,BrkFace,156,PConc,763,173,936,Ex,1054,0,1054,1,0,1,3,1,Gd,137500
+60,RL,7861,Inside,Gilbert,1Fam,2Story,6,5,2002,Gable,VinylSd,None,0,PConc,457,326,783,Ex,807,702,1509,1,0,2,3,1,Gd,183200
+45,RL,7227,Corner,NAmes,1Fam,1.5Unf,6,6,1954,Gable,MetalSd,None,0,CBlock,0,832,832,Gd,832,0,832,0,0,1,2,1,Gd,105500
+20,RL,11694,Inside,NridgHt,1Fam,1Story,9,5,2007,Hip,CemntBd,BrkFace,452,PConc,48,1774,1822,Ex,1828,0,1828,0,0,2,3,1,Gd,314813
+60,RL,12244,Inside,Timber,1Fam,2Story,8,5,2003,Hip,VinylSd,Stone,226,PConc,871,611,1482,Ex,1482,780,2262,1,0,2,4,1,Gd,305000
+30,RL,8248,Inside,Edwards,1Fam,1Story,3,3,1914,Gable,Stucco,None,0,BrkTil,41,823,864,TA,864,0,864,1,0,1,2,1,TA,67000
+60,RL,10800,Inside,NWAmes,1Fam,2Story,6,7,1974,Gable,HdBoard,None,0,CBlock,956,384,1522,TA,1548,1066,2614,0,0,2,4,1,TA,240000
+20,RL,7064,Inside,Sawyer,1Fam,1Story,5,6,1977,Gable,Plywood,BrkFace,153,CBlock,560,420,980,TA,980,0,980,0,0,1,3,1,TA,135000
+160,FV,2117,Inside,Somerst,TwnhsE,2Story,6,5,2000,Gable,MetalSd,BrkFace,513,PConc,420,336,756,Ex,756,756,1512,0,0,2,2,1,Gd,168500
+60,RL,10400,Inside,NWAmes,1Fam,2Story,6,5,1972,Gable,VinylSd,None,288,CBlock,247,485,732,Gd,1012,778,1790,1,0,1,4,1,TA,165150
+20,RL,10000,Corner,NAmes,1Fam,1Story,6,6,1962,Hip,Wd Sdng,BrkFace,261,CBlock,0,1116,1116,TA,1116,0,1116,0,0,1,3,1,TA,160000
+20,RL,12342,Inside,NAmes,1Fam,1Story,5,5,1960,Hip,Wd Sdng,None,0,CBlock,0,978,978,TA,1422,0,1422,0,0,1,3,1,TA,139900
+80,RL,9600,Inside,NAmes,1Fam,SLvl,6,6,1955,Gable,AsbShng,BrkFace,164,CBlock,674,350,1156,Ex,1520,0,1520,1,0,1,3,1,TA,153000
+60,RL,11606,Inside,NAmes,1Fam,2Story,5,5,1969,Gable,Plywood,BrkFace,192,PConc,650,390,1040,TA,1040,1040,2080,0,1,1,5,1,Fa,135000
+80,RL,9020,Corner,NAmes,1Fam,SLvl,6,5,1964,Gable,Plywood,BrkFace,259,CBlock,624,288,1248,TA,1350,0,1350,1,0,1,3,1,TA,168500
+70,RM,9000,Corner,OldTown,1Fam,2Story,5,6,1880,Gable,VinylSd,None,0,BrkTil,0,636,636,TA,1089,661,1750,0,0,1,3,1,Ex,124000
+120,RL,4590,Inside,NridgHt,Twnhs,1Story,8,5,2006,Gable,VinylSd,Stone,108,PConc,24,1530,1554,Ex,1554,0,1554,0,0,2,2,1,Gd,209500
+20,RL,11900,Inside,NWAmes,1Fam,1Story,7,5,1977,Hip,Plywood,BrkFace,209,CBlock,822,564,1386,TA,1411,0,1411,0,0,2,3,1,TA,82500
+20,RL,9250,Corner,NAmes,1Fam,1Story,5,7,1954,Gable,Wd Sdng,None,0,CBlock,480,108,1056,TA,1056,0,1056,0,1,1,3,1,TA,139400
+90,RL,6979,Inside,OldTown,Duplex,SFoyer,6,5,1980,Gable,Plywood,None,0,CBlock,1056,0,1056,Gd,1056,0,1056,2,0,0,0,2,TA,144000
+190,RH,10896,Inside,SWISU,2fmCon,2.5Fin,6,7,1914,Hip,VinylSd,None,0,CBlock,256,1184,1440,Ex,1440,1440,3395,0,0,2,8,2,Fa,200000
+30,RM,6120,Inside,BrkSide,1Fam,1Story,2,3,1936,Gable,AsbShng,None,0,BrkTil,0,264,264,Fa,800,0,800,0,0,1,1,1,Fa,60000
+190,RM,6000,Inside,OldTown,2fmCon,1.5Fin,5,4,1954,Gable,Wd Sdng,None,0,CBlock,0,811,811,TA,811,576,1387,0,0,2,3,2,Gd,93000
+30,RL,8777,Inside,Edwards,1Fam,1Story,5,7,1910,Gable,MetalSd,None,0,CBlock,0,796,796,Gd,796,0,796,0,0,1,2,1,TA,85000
+120,RL,3982,Inside,Blmngtn,TwnhsE,1Story,8,5,2006,Hip,VinylSd,None,0,PConc,1154,366,1520,Ex,1567,0,1567,1,0,2,1,1,Ex,264561
+120,RL,12677,Inside,NridgHt,TwnhsE,1Story,8,5,2003,Hip,MetalSd,BrkFace,472,PConc,1218,300,1518,Ex,1518,0,1518,0,0,1,1,1,Ex,274000
+60,FV,7050,Inside,Somerst,1Fam,2Story,7,5,2001,Gable,VinylSd,None,0,PConc,738,319,1057,Ex,1057,872,1929,1,0,2,3,1,Gd,226000
+80,RL,13860,Inside,NAmes,1Fam,SLvl,8,7,1972,Gable,Plywood,None,0,CBlock,1410,542,1952,Gd,2000,704,2704,1,0,2,4,1,Ex,345000
+60,RL,10793,Inside,NWAmes,1Fam,2Story,5,5,1969,Mansard,WdShing,BrkFace,263,CBlock,493,0,780,Ex,780,840,1620,0,0,2,4,1,TA,152000
+20,FV,9187,Inside,Somerst,1Fam,1Story,9,5,2009,Gable,CemntBd,Stone,162,PConc,1121,645,1766,Ex,1766,0,1766,1,0,2,2,1,Ex,370878
+20,RL,10530,Corner,NAmes,1Fam,1Story,6,5,1971,Hip,Plywood,None,0,CBlock,282,664,981,TA,981,0,981,1,0,1,3,1,TA,143250
+20,RL,7200,Inside,NAmes,1Fam,1Story,5,5,1950,Hip,MetalSd,None,0,CBlock,0,0,0,Gd,1048,0,1048,0,0,1,3,1,TA,98300
+20,RL,10452,Inside,Edwards,1Fam,1Story,6,5,1953,Hip,Wd Sdng,Stone,216,CBlock,500,594,1094,Ex,1094,0,1094,0,0,1,3,1,TA,155000
+60,RL,7700,Inside,NAmes,1Fam,2Story,6,5,1966,Gable,MetalSd,BrkFace,351,CBlock,0,756,756,TA,1051,788,1839,0,0,1,4,1,TA,155000
+180,RM,1936,Inside,MeadowV,Twnhs,SFoyer,4,6,1970,Gable,CemntBd,None,0,CBlock,131,0,630,Gd,630,0,630,1,0,1,1,1,TA,84500
+60,FV,8125,Inside,Somerst,1Fam,2Story,7,6,2007,Gable,CemntBd,NA,NA,PConc,0,813,813,Ex,822,843,1665,0,0,2,3,1,Gd,205950
+70,RL,9084,Inside,Edwards,1Fam,2Story,4,5,1940,Gable,MetalSd,None,0,CBlock,0,755,755,TA,755,755,1510,1,0,1,4,1,TA,108000
+60,RL,8750,Inside,CollgCr,1Fam,2Story,7,5,1996,Gable,VinylSd,None,0,PConc,0,880,880,Ex,909,807,1716,0,0,2,2,1,Gd,191000
+50,RM,10320,Inside,IDOTRR,1Fam,1.5Fin,6,7,1906,Gable,MetalSd,None,0,CBlock,0,756,756,Ex,756,713,1469,0,0,1,3,1,TA,135000
+20,RL,10437,Inside,NoRidge,1Fam,1Story,8,6,1995,Hip,MetalSd,BrkFace,660,PConc,1696,413,2109,Ex,2113,0,2113,1,0,2,2,1,Gd,350000
+160,RM,1680,Inside,BrDale,Twnhs,2Story,6,5,1971,Gable,HdBoard,BrkFace,381,CBlock,0,525,525,TA,525,567,1092,0,0,1,3,1,TA,88000
+20,RL,10007,Inside,NAmes,1Fam,1Story,5,7,1959,Gable,HdBoard,BrkFace,54,CBlock,806,247,1053,Ex,1053,0,1053,1,0,1,3,1,Gd,145500
+70,RL,7200,Inside,Crawfor,1Fam,2Story,7,6,1931,Gable,Stucco,None,0,BrkTil,0,776,776,TA,851,651,1502,0,0,1,3,1,TA,149000
+50,RL,17503,Inside,NAmes,1Fam,1.5Fin,6,5,1948,Gable,VinylSd,None,0,CBlock,0,912,912,TA,912,546,1458,0,1,1,3,1,TA,97500
+20,RL,9937,Corner,Edwards,1Fam,1Story,5,7,1964,Hip,MetalSd,None,0,PConc,637,849,1486,Ex,1486,0,1486,1,0,1,3,1,TA,167000
+60,RL,12384,CulDSac,NWAmes,1Fam,2Story,7,7,1976,Gable,Plywood,BrkFace,233,CBlock,0,793,793,TA,1142,793,1935,0,0,2,3,1,TA,197900
+60,RL,46589,CulDSac,NoRidge,1Fam,2Story,8,7,1994,Hip,VinylSd,BrkFace,528,PConc,1361,88,1629,Ex,1686,762,2448,1,0,2,4,1,Gd,402000
+20,RL,13560,Corner,NAmes,1Fam,1Story,6,3,1968,Hip,Wd Sdng,BrkFace,216,CBlock,0,1392,1392,Gd,1392,0,1392,1,0,1,2,1,TA,110000
+85,RL,10012,Inside,Edwards,1Fam,SFoyer,4,5,1972,Gable,Plywood,None,0,CBlock,920,38,1138,TA,1181,0,1181,1,0,2,3,1,TA,137500
+20,RL,20896,CulDSac,Somerst,1Fam,1Story,8,5,2005,Gable,VinylSd,None,0,PConc,1721,356,2077,Ex,2097,0,2097,1,0,1,1,1,Ex,423000
+60,RL,11194,Corner,Gilbert,1Fam,2Story,8,5,2000,Gable,VinylSd,BrkFace,40,PConc,0,1406,1406,Ex,1454,482,1936,0,0,2,3,1,Gd,230500
+60,RL,18450,Inside,NAmes,1Fam,2Story,6,5,1965,Flat,Plywood,BrkCmn,113,CBlock,187,111,1021,TA,1465,915,2380,0,0,2,3,1,TA,129000
+20,RL,8125,Inside,SawyerW,1Fam,1Story,6,5,1994,Gable,HdBoard,BrkFace,258,PConc,1138,270,1408,Ex,1679,0,1679,1,0,2,3,1,Gd,193500
+20,RL,14175,Corner,Sawyer,1Fam,1Story,5,6,1956,Gable,CemntBd,None,0,CBlock,988,200,1188,Gd,1437,0,1437,1,0,1,3,1,TA,168000
+30,RL,11600,Inside,Crawfor,1Fam,1Story,4,5,1922,Gable,MetalSd,None,0,BrkTil,0,700,700,Ex,1180,0,1180,0,0,1,2,1,Fa,137500
+60,RL,8633,FR2,CollgCr,1Fam,2Story,6,5,2005,Gable,VinylSd,None,0,PConc,193,545,738,Ex,738,738,1476,1,0,2,3,1,Gd,173500
+70,RH,6629,Inside,Edwards,1Fam,2Story,6,6,1925,Gambrel,Wd Sdng,None,0,BrkTil,551,121,672,TA,697,672,1369,1,0,2,3,1,TA,103600
+20,RL,11250,Inside,Veenker,1Fam,1Story,6,6,1977,Gable,Plywood,None,0,CBlock,767,441,1208,TA,1208,0,1208,1,0,1,3,1,TA,165000
+20,RL,14442,Inside,Crawfor,1Fam,1Story,6,7,1957,Hip,CemntBd,BrkFace,106,PConc,1186,291,1477,Ex,1839,0,1839,1,0,2,3,1,Gd,257500
+20,RL,9200,Inside,NAmes,1Fam,1Story,6,6,1965,Gable,HdBoard,None,0,CBlock,892,244,1136,TA,1136,0,1136,1,0,1,3,1,TA,140000
+160,RL,2289,Inside,NPkVill,Twnhs,2Story,6,6,1978,Gable,Plywood,None,0,CBlock,311,544,855,TA,855,586,1441,0,0,2,3,1,TA,148500
+70,RM,9600,Inside,OldTown,1Fam,2Story,4,2,1900,Gable,AsbShng,None,0,BrkTil,0,1095,1095,Fa,1095,679,1774,1,0,2,4,2,TA,87000
+30,RL,9022,Inside,OldTown,1Fam,1Story,5,8,1924,Gable,VinylSd,None,0,BrkTil,0,768,768,Ex,792,0,792,0,0,1,2,1,Gd,109500
+20,RL,11844,Inside,StoneBr,1Fam,1Story,8,5,2008,Hip,VinylSd,Stone,464,PConc,0,2046,2046,Ex,2046,0,2046,0,0,2,3,1,Gd,372500
+20,RL,9945,Inside,Sawyer,1Fam,1Story,5,5,1961,Hip,Wd Sdng,BrkFace,57,CBlock,827,161,988,TA,988,0,988,1,0,1,3,1,TA,128500
+120,RL,8012,Inside,SawyerW,TwnhsE,1Story,6,5,1980,Gable,Plywood,None,0,CBlock,543,261,923,TA,923,0,923,0,0,2,2,1,TA,143000
+50,RH,4500,Inside,SWISU,1Fam,1.5Fin,5,5,1932,Gable,VinylSd,None,0,BrkTil,182,611,793,Ex,848,672,1520,0,0,1,3,1,TA,159434
+120,RL,2887,Inside,ClearCr,1Fam,1Story,6,5,1996,Gable,Wd Sdng,None,0,PConc,1003,288,1291,Ex,1291,0,1291,1,0,1,2,1,Gd,173000
+20,RL,11248,Corner,CollgCr,1Fam,1Story,9,5,2002,Hip,VinylSd,Stone,215,PConc,1059,567,1626,Ex,1668,0,1668,1,0,2,3,1,Gd,285000
+60,RL,16770,CulDSac,NoRidge,1Fam,2Story,7,5,1998,Gable,VinylSd,BrkFace,30,PConc,0,1195,1195,Gd,1195,644,1839,0,0,2,4,1,TA,221000
+160,RL,5062,CulDSac,StoneBr,TwnhsE,2Story,7,5,1984,Gable,HdBoard,None,0,CBlock,828,180,1190,Gd,1190,900,2090,1,0,2,3,1,Gd,207500
+60,FV,10207,Inside,Somerst,1Fam,2Story,7,6,2007,Gable,VinylSd,None,0,PConc,0,874,874,Ex,874,887,1761,0,0,3,3,1,Gd,227875
+160,FV,5105,FR2,Somerst,TwnhsE,2Story,7,5,2004,Gable,MetalSd,None,0,PConc,239,312,551,Ex,551,551,1102,0,0,2,2,1,Gd,148800
+20,RL,8089,Inside,StoneBr,1Fam,1Story,8,6,2007,Gable,MetalSd,BrkFace,0,PConc,945,474,1419,Ex,1419,0,1419,1,0,2,2,1,Gd,392000
+120,RL,7577,Corner,NridgHt,TwnhsE,1Story,6,5,2005,Gable,VinylSd,Stone,256,PConc,20,1342,1362,Ex,1362,0,1362,0,0,2,2,1,Gd,194700
+120,RM,4426,Inside,CollgCr,TwnhsE,1Story,6,5,2004,Gable,VinylSd,BrkFace,147,PConc,697,151,848,Ex,848,0,848,1,0,1,1,1,Gd,141000
+60,RL,21535,Corner,NoRidge,1Fam,2Story,10,6,1994,Gable,HdBoard,BrkFace,1170,PConc,1455,989,2444,Ex,2444,1872,4316,0,1,3,4,1,Ex,755000
+60,RL,26178,Inside,Timber,1Fam,2Story,7,5,1989,Hip,MetalSd,BrkFace,293,PConc,965,245,1210,Ex,1238,1281,2519,1,0,2,4,1,Gd,335000
+30,RL,5400,Corner,OldTown,1Fam,1Story,5,6,1921,Gable,MetalSd,None,0,BrkTil,0,1073,1073,Ex,1073,0,1073,0,0,1,2,1,TA,108480
+50,RM,6120,Corner,BrkSide,1Fam,1.5Fin,5,6,1936,Gable,Wd Sdng,None,0,BrkTil,0,927,927,TA,1067,472,1539,0,0,1,3,1,TA,141500
+20,RL,13811,Inside,Timber,1Fam,1Story,6,6,1987,Gable,HdBoard,BrkFace,72,CBlock,980,92,1112,Gd,1137,0,1137,1,0,2,2,1,Gd,176000
+30,RM,6000,Inside,BrkSide,1Fam,1Story,5,7,1921,Gable,Wd Sdng,None,0,CBlock,616,0,616,Gd,616,0,616,0,0,1,2,1,TA,89000
+20,RL,6420,Inside,Edwards,1Fam,1Story,5,7,1952,Gable,Wd Sdng,None,0,PConc,210,219,980,Fa,1148,0,1148,0,1,1,2,1,TA,123500
+20,RL,8450,Inside,Sawyer,1Fam,1Story,5,8,1965,Gable,MetalSd,None,0,CBlock,553,224,894,Ex,894,0,894,1,0,1,3,1,TA,138500
+120,FV,4282,Inside,Somerst,TwnhsE,1Story,7,5,2004,Gable,MetalSd,None,0,PConc,16,1375,1391,Ex,1391,0,1391,0,0,2,2,1,Gd,196000
+20,RL,14331,Inside,Timber,1Fam,1Story,8,5,2002,Hip,VinylSd,BrkFace,630,PConc,1274,526,1800,Ex,1800,0,1800,1,0,2,3,1,Gd,312500
+20,RL,9600,Inside,NWAmes,1Fam,1Story,7,5,1969,Hip,HdBoard,BrkFace,168,CBlock,0,1164,1164,TA,1164,0,1164,0,0,1,3,1,TA,140000
+60,RL,12438,Inside,StoneBr,1Fam,2Story,8,5,2006,Hip,VinylSd,BrkFace,466,PConc,0,1234,1234,Ex,1264,1312,2576,0,0,2,4,1,Ex,361919
+190,RM,7630,Inside,OldTown,2fmCon,2Story,5,9,1900,Gable,Wd Sdng,None,0,BrkTil,0,360,360,Gd,1032,780,1812,0,0,2,4,2,Gd,140000
+20,RL,8400,Inside,CollgCr,1Fam,1Story,7,5,2004,Gable,VinylSd,BrkFace,109,PConc,712,761,1473,Ex,1484,0,1484,1,0,2,3,1,Gd,213000
+190,RM,5600,Inside,IDOTRR,2fmCon,2Story,4,5,1930,Hip,VinylSd,None,0,Slab,0,0,0,Fa,372,720,1092,0,0,2,3,2,Fa,55000
+20,RL,115149,CulDSac,ClearCr,1Fam,1Story,7,5,1971,Gable,Plywood,Stone,351,CBlock,1219,424,1643,TA,1824,0,1824,1,0,2,2,1,Gd,302000
+120,RL,6240,Inside,NridgHt,TwnhsE,1Story,8,5,2006,Hip,MetalSd,BrkFace,176,PConc,863,461,1324,Ex,1324,0,1324,1,0,2,2,1,Gd,254000
+60,RL,9018,Inside,Gilbert,1Fam,2Story,7,5,2007,Hip,VinylSd,None,0,PConc,0,728,728,Ex,728,728,1456,0,0,2,3,1,Gd,179540
+20,RL,7162,Inside,Sawyer,1Fam,1Story,5,7,1966,Gable,HdBoard,BrkCmn,41,PConc,0,876,876,TA,904,0,904,0,0,1,3,1,TA,109900
+30,RL,4130,Inside,BrkSide,1Fam,1Story,3,6,1935,Gable,VinylSd,None,0,CBlock,0,270,270,Gd,729,0,729,0,0,1,2,1,TA,52000
+50,C (all),8712,Inside,IDOTRR,1Fam,1.5Fin,4,7,1900,Gable,MetalSd,None,0,Stone,0,859,859,Gd,859,319,1178,0,0,1,2,1,TA,102776
+120,RL,4671,Inside,StoneBr,TwnhsE,1Story,8,5,1988,Gable,HdBoard,None,0,PConc,767,461,1228,Gd,1228,0,1228,1,0,2,2,1,Gd,189000
+190,RL,9873,Inside,BrkSide,2fmCon,1Story,4,5,1970,Gable,HdBoard,BrkFace,160,CBlock,789,171,960,TA,960,0,960,1,0,1,3,1,TA,129000
+60,RL,13517,CulDSac,Sawyer,1Fam,2Story,6,8,1976,Gable,HdBoard,BrkFace,289,CBlock,533,192,725,Ex,725,754,1479,0,0,2,3,1,Gd,130500
+20,RL,10140,Inside,NWAmes,1Fam,1Story,6,5,1974,Hip,HdBoard,BrkFace,174,CBlock,0,1064,1064,TA,1350,0,1350,0,0,2,3,1,TA,165000
+70,RM,10800,Inside,OldTown,1Fam,2Story,7,8,1890,Gable,Wd Sdng,None,0,BrkTil,0,718,718,Ex,1576,978,2554,0,0,1,3,1,TA,159500
+20,RL,10000,Inside,NWAmes,1Fam,1Story,5,6,1973,Gable,HdBoard,None,0,CBlock,1084,92,1176,Gd,1178,0,1178,0,1,1,3,1,Gd,157000
+60,RL,10542,Inside,NoRidge,1Fam,2Story,7,5,1993,Hip,Wd Sdng,BrkFace,651,PConc,1173,138,1311,Ex,1325,1093,2418,1,0,2,3,1,Gd,341000
+20,RL,9920,Inside,CollgCr,1Fam,1Story,5,6,1969,Gable,HdBoard,None,0,CBlock,523,448,971,TA,971,0,971,0,0,1,3,1,TA,128500
+120,RL,6563,CulDSac,StoneBr,1Fam,1Story,8,5,1985,Gable,HdBoard,None,0,PConc,1148,594,1742,TA,1742,0,1742,1,0,2,2,1,Gd,275000
+120,RM,4426,Inside,CollgCr,TwnhsE,1Story,6,5,2004,Gable,VinylSd,BrkFace,169,PConc,662,186,848,Ex,848,0,848,1,0,1,1,1,Gd,143000
+20,RL,8120,Inside,NAmes,1Fam,1Story,4,7,1970,Gable,MetalSd,None,0,CBlock,191,673,864,Ex,864,0,864,0,0,1,3,1,TA,124500
+50,RL,8172,Inside,Edwards,1Fam,1.5Fin,4,6,1954,Gable,MetalSd,None,0,PConc,0,941,941,Ex,997,473,1470,0,0,2,4,1,TA,135000
+20,RL,13286,Inside,Edwards,1Fam,1Story,9,5,2007,Hip,CemntBd,Stone,340,PConc,1234,464,1698,Ex,1698,0,1698,1,0,2,3,1,Ex,320000
+20,RL,6960,Inside,NAmes,1Fam,1Story,4,6,1970,Gable,HdBoard,None,0,CBlock,375,250,864,TA,864,0,864,0,0,1,3,1,Gd,120500
+20,RL,21695,Corner,Crawfor,1Fam,1Story,6,9,1988,Hip,Wd Sdng,BrkFace,260,CBlock,808,72,880,Ex,1680,0,1680,1,0,2,3,1,Gd,222000
+20,RL,7314,Inside,CollgCr,1Fam,1Story,7,5,2007,Gable,VinylSd,Stone,82,PConc,724,508,1232,Ex,1232,0,1232,1,0,2,2,1,Gd,194500
+90,RL,11475,Corner,NAmes,Duplex,1Story,5,5,1958,Gable,VinylSd,BrkFace,95,CBlock,0,1584,1584,TA,1776,0,1776,1,0,2,4,2,TA,110000
+30,RM,6240,Inside,IDOTRR,1Fam,1.5Fin,4,5,1925,Gable,MetalSd,None,0,CBlock,152,628,780,TA,848,0,1208,0,0,1,2,1,TA,103000
+120,RL,5389,Inside,StoneBr,TwnhsE,1Story,8,5,1995,Gable,CemntBd,None,0,PConc,1180,415,1595,Ex,1616,0,1616,1,0,2,2,1,Gd,236500
+80,RL,9590,Corner,Timber,1Fam,SLvl,7,5,2003,Gable,VinylSd,BrkFace,442,PConc,786,82,868,Ex,1146,0,1146,1,0,2,3,1,Gd,187500
+60,RL,11404,Inside,CollgCr,1Fam,2Story,7,5,1998,Gable,VinylSd,BrkFace,202,PConc,252,901,1153,Ex,1153,878,2031,0,0,2,3,1,Gd,222500
+20,RL,10000,Corner,Sawyer,1Fam,1Story,5,6,1961,Hip,HdBoard,None,0,CBlock,594,270,864,Ex,1144,0,1144,1,0,1,3,1,TA,131400
+20,RL,8978,Corner,Sawyer,1Fam,1Story,5,5,1968,Gable,Plywood,None,0,PConc,0,948,948,TA,948,0,948,0,0,1,3,1,TA,108000
+75,RM,10800,Inside,OldTown,1Fam,2.5Unf,7,7,1914,Gable,Wd Sdng,None,0,BrkTil,390,490,880,Fa,880,888,1768,0,0,1,2,1,TA,163000
+90,RL,8544,Inside,NAmes,Duplex,1Story,3,4,1950,Gable,Stucco,None,0,CBlock,0,0,0,Gd,1040,0,1040,0,0,2,2,2,TA,93500
+60,RL,10463,CulDSac,Gilbert,1Fam,2Story,8,5,2005,Gable,VinylSd,None,0,PConc,0,893,893,Ex,901,900,1801,0,0,2,3,1,Gd,239900
+90,RL,10800,Inside,Edwards,Duplex,1Story,5,5,1987,Gable,Plywood,None,0,CBlock,1200,0,1200,TA,1200,0,1200,3,0,3,3,1,TA,179000
+60,RL,9313,Inside,CollgCr,1Fam,2Story,7,5,2004,Gable,VinylSd,None,0,PConc,0,864,864,Ex,864,864,1728,0,0,2,3,1,Gd,190000
+70,RM,9600,Inside,OldTown,1Fam,2Story,5,7,1910,Gable,Wd Sdng,None,0,BrkTil,0,264,264,Ex,768,664,1432,0,0,2,2,1,TA,132000
+20,RL,6768,Inside,Sawyer,1Fam,1Story,6,8,1961,Hip,HdBoard,None,0,CBlock,832,80,912,Gd,912,0,912,1,1,1,3,1,Gd,142000
+20,RL,8450,Inside,SawyerW,1Fam,1Story,7,5,2000,Gable,VinylSd,BrkFace,108,PConc,0,1349,1349,Ex,1349,0,1349,0,0,2,3,1,TA,179000
+80,RL,12886,Inside,Sawyer,1Fam,SLvl,5,6,1963,Gable,HdBoard,None,0,CBlock,444,76,520,Ex,1464,0,1464,0,1,2,3,1,TA,175000
+120,RL,5395,Inside,StoneBr,TwnhsE,1Story,8,5,1993,Gable,HdBoard,None,0,PConc,733,604,1337,Gd,1337,0,1337,1,0,2,2,1,Gd,180000
+60,RL,8963,Inside,NWAmes,1Fam,2Story,8,9,1976,Hip,VinylSd,BrkFace,289,CBlock,575,487,1142,Ex,1175,1540,2715,0,1,3,4,1,Gd,299800
+60,RL,8795,Inside,Gilbert,1Fam,2Story,7,5,2000,Gable,VinylSd,None,0,PConc,300,652,952,Ex,980,1276,2256,0,0,2,4,1,Gd,236000
+70,RM,11700,Corner,OldTown,1Fam,2Story,7,7,1880,Mansard,Stucco,None,0,Stone,0,1240,1240,TA,1320,1320,2640,0,0,1,4,1,Gd,265979
+20,RL,10593,Inside,NoRidge,1Fam,1Story,7,5,1996,Hip,VinylSd,BrkFace,338,PConc,919,801,1720,Ex,1720,0,1720,1,0,2,3,1,Gd,260400
+50,RL,8405,Inside,Edwards,1Fam,1.5Fin,4,3,1945,Gable,WdShing,None,0,Slab,0,0,0,TA,1088,441,1529,0,0,2,4,1,TA,98000
+50,RM,8800,Corner,OldTown,1Fam,1.5Fin,4,7,1910,Gable,Wd Sdng,None,0,BrkTil,0,576,576,Gd,792,348,1140,0,0,1,3,1,TA,96500
+60,RL,7750,Inside,Gilbert,1Fam,2Story,7,5,2003,Gable,VinylSd,None,0,PConc,0,660,660,Ex,660,660,1320,0,0,2,3,1,Gd,162000
+20,RL,9236,Inside,CollgCr,1Fam,1Story,6,5,1997,Gable,VinylSd,None,0,PConc,1200,279,1479,Ex,1494,0,1494,1,0,2,3,1,Gd,217000
+60,RL,10240,Inside,NridgHt,1Fam,2Story,8,5,2005,Gable,VinylSd,BrkFace,178,PConc,0,1030,1030,Gd,1038,1060,2098,0,0,2,3,1,Ex,275500
+20,RL,7930,Inside,NAmes,1Fam,1Story,6,8,1969,Gable,Plywood,None,0,CBlock,439,115,1026,Gd,1026,0,1026,1,0,1,3,1,Gd,156000
+160,FV,3230,Inside,Somerst,TwnhsE,2Story,6,5,1999,Gable,MetalSd,BrkFace,894,PConc,381,348,729,Gd,742,729,1471,0,0,2,3,1,TA,172500
+60,RL,10769,Inside,CollgCr,1Fam,2Story,8,5,2007,Gable,VinylSd,None,0,PConc,20,846,866,Ex,866,902,1768,0,0,2,3,1,Gd,212000
+60,RL,11616,CulDSac,Sawyer,1Fam,2Story,6,5,1978,Hip,HdBoard,BrkCmn,328,CBlock,438,234,672,TA,672,714,1386,0,0,2,3,1,TA,158900
+160,FV,2280,Inside,Somerst,Twnhs,2Story,7,5,1999,Gable,MetalSd,BrkFace,360,PConc,549,195,744,Gd,757,744,1501,0,0,2,3,1,TA,179400
+60,RL,12257,Inside,NoRidge,1Fam,2Story,8,5,1995,Gable,VinylSd,BrkFace,513,PConc,56,1198,1318,Ex,1328,1203,2531,0,0,2,4,1,Gd,290000
+20,RL,9100,Inside,NAmes,1Fam,1Story,6,6,1959,Hip,Wd Sdng,None,0,CBlock,612,252,864,Ex,864,0,864,0,0,1,2,1,TA,127500
+30,RM,6911,FR2,BrkSide,1Fam,1Story,5,5,1924,Gable,Wd Sdng,None,0,PConc,405,740,1145,TA,1301,0,1301,0,0,1,2,1,Fa,100000
+60,FV,8640,Inside,Somerst,1Fam,2Story,7,5,2009,Gable,VinylSd,None,0,PConc,24,732,756,Ex,764,783,1547,0,0,2,3,1,Gd,215200
+60,RL,9430,Inside,NoRidge,1Fam,2Story,8,5,1999,Gable,VinylSd,BrkFace,673,PConc,1163,89,1252,Ex,1268,1097,2365,1,0,2,3,1,Gd,337000
+120,RL,9549,CulDSac,Veenker,TwnhsE,1Story,8,5,1995,Hip,BrkFace,None,0,PConc,437,0,1494,Ex,1494,0,1494,1,0,1,2,1,Ex,270000
+20,RL,14587,Inside,Somerst,1Fam,1Story,9,5,2008,Gable,VinylSd,Stone,284,PConc,0,1498,1498,Ex,1506,0,1506,0,0,2,2,1,Ex,264132
+60,RL,10421,Inside,NWAmes,1Fam,2Story,7,5,1988,Gable,HdBoard,BrkFace,42,CBlock,394,586,980,TA,980,734,1714,0,0,2,3,1,TA,196500
+50,RL,12508,Inside,Mitchel,1Fam,1.5Fin,6,7,1940,Gable,VinylSd,None,0,CBlock,660,323,983,Ex,983,767,1750,1,0,2,4,1,TA,160000
+20,RL,9100,Inside,CollgCr,1Fam,1Story,7,5,2004,Hip,VinylSd,None,0,PConc,24,1836,1860,Ex,1836,0,1836,0,0,2,3,1,Gd,216837
+60,RL,53504,CulDSac,StoneBr,1Fam,2Story,8,5,2003,Hip,CemntBd,BrkFace,603,PConc,1416,234,1650,Ex,1690,1589,3279,1,0,3,4,1,Ex,538000
+85,RL,7252,CulDSac,Sawyer,1Fam,SFoyer,5,5,1982,Hip,Wd Sdng,None,0,CBlock,685,173,858,TA,858,0,858,1,0,1,2,1,TA,134900
+20,RL,8877,Inside,Edwards,1Fam,1Story,4,5,1951,Gable,Wd Sdng,None,0,CBlock,836,0,836,TA,1220,0,1220,0,0,1,2,1,TA,102000
+80,RL,7819,Inside,Edwards,1Fam,SLvl,6,5,1976,Gable,Plywood,None,0,CBlock,422,480,1029,TA,1117,0,1117,1,0,1,3,1,TA,107000
+20,RL,10150,Inside,NAmes,1Fam,1Story,5,5,1958,Gable,Wd Sdng,None,1,CBlock,456,456,912,Ex,912,0,912,0,0,1,2,1,TA,114500
+20,RL,14226,Corner,NridgHt,1Fam,1Story,8,5,2006,Hip,VinylSd,BrkFace,375,PConc,0,1935,1935,Gd,1973,0,1973,0,0,2,3,1,Gd,395000
+120,RM,4500,FR2,Mitchel,TwnhsE,1Story,6,5,1998,Hip,VinylSd,BrkFace,320,PConc,866,338,1204,Ex,1204,0,1204,1,0,2,2,1,TA,162000
+20,RL,11210,Inside,CollgCr,1Fam,1Story,7,5,2005,Gable,VinylSd,BrkFace,240,PConc,20,1594,1614,Ex,1614,0,1614,0,0,2,3,1,Gd,221500
+20,RL,13350,Inside,Sawyer,1Fam,1Story,5,5,1974,Hip,HdBoard,None,0,CBlock,762,102,864,TA,894,0,894,1,0,1,3,1,TA,142500
+90,RH,8400,Inside,SawyerW,Duplex,1Story,5,5,1977,Gable,Plywood,BrkFace,320,Slab,0,0,0,TA,2020,0,2020,0,0,2,4,2,TA,144000
+90,RL,10530,Inside,Mitchel,Duplex,SFoyer,6,5,1977,Gable,Plywood,BrkFace,90,CBlock,975,0,975,TA,1004,0,1004,1,0,1,2,1,TA,135000
+20,RL,7875,Inside,Gilbert,1Fam,1Story,7,5,1995,Gable,HdBoard,BrkFace,38,PConc,0,1237,1237,Gd,1253,0,1253,0,0,2,3,1,TA,176000
+60,RL,7153,Inside,SawyerW,1Fam,2Story,6,5,1992,Gable,VinylSd,None,0,PConc,387,374,761,Ex,810,793,1603,0,0,2,3,1,Gd,175900
+20,RL,16285,Inside,CollgCr,1Fam,1Story,7,5,2001,Gable,VinylSd,None,0,PConc,0,1413,1413,Ex,1430,0,1430,0,0,2,3,1,Gd,187100
+85,RL,9101,Corner,Mitchel,1Fam,SFoyer,5,6,1978,Gable,Plywood,BrkFace,104,PConc,1097,0,1097,Ex,1110,0,1110,1,0,1,1,1,Gd,165500
+75,RM,6300,Inside,OldTown,1Fam,2.5Unf,6,6,1914,Gable,Wd Sdng,None,0,CBlock,0,742,742,Ex,742,742,1484,0,0,2,3,1,TA,128000
+20,RL,9790,Inside,NWAmes,1Fam,1Story,6,5,1967,Gable,BrkFace,None,0,CBlock,251,491,1372,TA,1342,0,1342,0,0,2,3,1,TA,161500
+50,RM,10800,Inside,OldTown,1Fam,1.5Fin,5,6,1915,Gable,MetalSd,None,0,PConc,686,0,686,TA,966,686,1652,1,0,2,4,1,TA,139000
+60,RL,10142,Inside,SawyerW,1Fam,2Story,7,5,2004,Gable,VinylSd,None,0,PConc,656,300,956,Ex,956,1128,2084,1,0,2,4,1,Gd,233000
+20,RM,6000,Corner,OldTown,1Fam,1Story,4,7,1954,Gable,MetalSd,None,0,CBlock,0,901,901,Ex,901,0,901,0,0,1,2,1,TA,107900
+60,RL,12205,Inside,ClearCr,1Fam,2Story,6,8,1966,Gable,HdBoard,BrkFace,157,CBlock,568,264,832,Gd,976,1111,2087,0,0,2,5,1,Gd,187500
+120,RL,3182,Inside,Blmngtn,TwnhsE,1Story,7,5,2005,Gable,VinylSd,BrkFace,11,PConc,16,1129,1145,Ex,1145,0,1145,0,0,2,2,1,Gd,160200
+80,RL,11333,Corner,Mitchel,1Fam,SLvl,6,5,1976,Gable,HdBoard,None,0,PConc,539,490,1029,TA,1062,0,1062,1,0,1,3,1,TA,146800
+60,RL,9920,CulDSac,NoRidge,1Fam,2Story,7,5,1996,Gable,MetalSd,None,0,PConc,862,255,1117,Ex,1127,886,2013,1,0,2,3,1,TA,269790
+20,RL,9158,Inside,Somerst,1Fam,1Story,8,5,2007,Gable,CemntBd,Stone,140,PConc,0,1496,1496,Ex,1496,0,1496,0,0,2,3,1,Gd,225000
+60,RL,10832,Corner,Gilbert,1Fam,2Story,7,5,1994,Gable,MetalSd,None,0,PConc,0,712,712,Ex,1086,809,1895,0,0,2,3,1,Gd,194500
+60,RL,8400,Inside,SawyerW,1Fam,2Story,6,6,1980,Gable,HdBoard,BrkFace,130,CBlock,0,650,650,TA,888,676,1564,0,0,2,3,1,TA,171000
+20,RL,8197,Inside,Sawyer,1Fam,1Story,6,5,1977,Gable,Plywood,BrkFace,148,CBlock,0,660,660,Ex,1285,0,1285,0,0,1,3,1,TA,143500
+20,RL,7677,Inside,NAmes,1Fam,1Story,5,5,1953,Gable,VinylSd,None,0,CBlock,570,203,773,Gd,773,0,773,0,0,1,2,1,TA,110000
+60,RL,13518,Inside,NridgHt,1Fam,2Story,9,5,2008,Hip,VinylSd,Stone,860,PConc,0,1926,1926,Ex,1966,1174,3140,0,0,3,4,1,Ex,485000
+50,RL,7200,Corner,SWISU,1Fam,1.5Fin,5,7,1937,Gable,Wd Sdng,BrkFace,252,BrkTil,569,162,731,Ex,981,787,1768,1,0,1,3,1,Gd,175000
+60,RL,12798,Inside,ClearCr,1Fam,2Story,6,5,1997,Gable,VinylSd,None,0,PConc,462,154,616,Gd,616,1072,1688,1,0,2,4,1,Gd,200000
+30,RM,4800,Inside,IDOTRR,1Fam,1Story,4,7,1916,Gable,MetalSd,None,0,CBlock,197,999,1196,Ex,1196,0,1196,1,0,1,2,1,TA,109900
+60,RL,8199,Inside,CollgCr,1Fam,2Story,7,5,2005,Gable,WdShing,None,0,PConc,648,80,728,Ex,728,728,1456,1,0,2,3,1,Gd,189000
+60,RL,13891,Inside,NridgHt,1Fam,2Story,9,5,2008,Hip,VinylSd,Stone,424,PConc,0,1734,1734,Ex,1734,1088,2822,0,0,3,4,1,Ex,582933
+20,RL,9000,Inside,NAmes,1Fam,1Story,5,5,1954,Gable,Wd Sdng,None,0,CBlock,812,124,936,TA,1128,0,1128,0,0,1,2,1,TA,118000
+20,RL,12274,FR2,Somerst,1Fam,1Story,7,5,2008,Gable,VinylSd,Stone,256,PConc,0,1417,1417,Ex,1428,0,1428,0,0,2,3,1,Ex,227680
+80,RL,9750,Inside,NAmes,1Fam,SLvl,5,5,1967,Gable,VinylSd,None,0,PConc,400,100,980,Gd,980,0,980,0,0,2,3,1,TA,135500
+70,RL,21384,Inside,BrkSide,1Fam,2Story,5,6,1923,Gable,Wd Sdng,None,0,CBlock,1309,15,1324,Ex,1072,504,1576,2,0,1,3,1,Gd,223500
+80,RL,13400,Inside,NAmes,1Fam,SLvl,5,5,1966,Gable,VinylSd,BrkFace,1047,CBlock,516,380,1024,TA,1086,0,1086,1,0,1,3,1,TA,159950
+75,RM,8100,Corner,OldTown,1Fam,2.5Unf,5,5,1898,Hip,AsbShng,None,0,PConc,0,849,849,TA,1075,1063,2138,0,0,2,2,3,TA,106000
+20,RL,10140,Inside,NWAmes,1Fam,1Story,6,6,1974,Hip,HdBoard,BrkFace,99,CBlock,663,0,1040,Fa,1309,0,1309,1,0,1,3,1,Gd,181000
+120,RM,4438,Inside,CollgCr,TwnhsE,1Story,6,5,2004,Gable,VinylSd,BrkFace,169,PConc,662,186,848,Ex,848,0,848,1,0,1,1,1,Gd,144500
+20,C (all),8712,Inside,IDOTRR,1Fam,1Story,5,5,1952,Hip,Wd Sdng,None,0,CBlock,0,540,540,TA,1044,0,1044,0,0,1,2,1,Fa,55993
+20,RL,9750,Inside,NAmes,1Fam,1Story,6,6,1958,Gable,MetalSd,BrkFace,243,CBlock,608,834,1442,Gd,1442,0,1442,0,0,1,4,1,TA,157900
+50,RL,8248,Inside,Edwards,1Fam,1.5Fin,5,7,1918,Gable,Stucco,None,0,BrkTil,0,686,686,Gd,686,564,1250,0,1,1,3,1,Fa,116000
+20,RL,12137,CulDSac,CollgCr,1Fam,1Story,7,5,1998,Gable,VinylSd,BrkFace,442,PConc,0,1649,1649,Ex,1661,0,1661,0,0,2,3,1,Gd,224900
+20,RL,11425,Corner,NAmes,1Fam,1Story,5,6,1954,Gable,BrkFace,None,0,CBlock,486,522,1008,Gd,1008,0,1008,0,0,1,2,1,TA,137000
+20,RL,13265,CulDSac,Mitchel,1Fam,1Story,8,5,2002,Hip,CemntBd,BrkFace,148,PConc,1218,350,1568,Ex,1689,0,1689,1,0,2,3,1,Gd,271000
+80,RL,8816,Inside,ClearCr,1Fam,SLvl,6,7,1971,Gable,HdBoard,BrkFace,80,CBlock,504,506,1010,Gd,1052,0,1052,1,0,1,3,1,TA,155000
+120,RL,6371,Inside,NridgHt,TwnhsE,1Story,7,5,2009,Gable,VinylSd,Stone,128,PConc,733,625,1358,Ex,1358,0,1358,1,0,2,2,1,Gd,224000
+60,RL,7226,CulDSac,CollgCr,1Fam,2Story,7,5,2003,Gable,VinylSd,None,0,PConc,0,798,798,Ex,798,842,1640,0,0,2,3,1,Gd,183000
+20,RM,6000,Inside,OldTown,2fmCon,1Story,4,4,1953,Gable,MetalSd,None,0,CBlock,0,936,936,TA,936,0,936,0,0,1,2,1,TA,93000
+60,RL,12394,Corner,Gilbert,1Fam,2Story,7,5,2003,Gable,VinylSd,None,0,PConc,0,847,847,Ex,847,886,1733,0,0,2,3,1,Gd,225000
+50,RL,9900,Inside,SWISU,1Fam,1.5Fin,6,7,1940,Gable,VinylSd,None,0,BrkTil,0,778,778,TA,944,545,1489,0,0,2,3,1,TA,139500
+20,FV,11216,Inside,Somerst,1Fam,1Story,8,5,2006,Gable,VinylSd,None,0,PConc,0,1489,1489,Ex,1489,0,1489,0,0,2,3,1,Gd,232600
+20,RL,14803,Inside,NridgHt,1Fam,1Story,10,5,2007,Hip,CemntBd,BrkFace,816,PConc,1636,442,2078,Ex,2084,0,2084,1,0,2,2,1,Ex,385000
+45,RM,6130,Inside,BrkSide,1Fam,1.5Unf,5,6,1924,Gable,MetalSd,None,0,BrkTil,784,0,784,Gd,784,0,784,1,0,1,2,1,Gd,109500
+20,RL,8529,Inside,SawyerW,1Fam,1Story,7,5,2001,Gable,VinylSd,None,0,PConc,20,1434,1454,Ex,1434,0,1434,0,0,2,3,1,Gd,189000
+60,RL,28698,CulDSac,ClearCr,1Fam,2Story,5,5,1967,Flat,Plywood,None,0,PConc,249,0,1013,TA,1160,966,2126,0,1,2,3,1,TA,185000
+160,FV,2544,Inside,Somerst,Twnhs,2Story,7,5,2005,Gable,MetalSd,None,0,PConc,0,600,600,Ex,520,623,1223,0,0,2,2,1,Gd,147400
+20,RL,11900,Corner,NAmes,1Fam,1Story,6,5,1957,Gable,HdBoard,BrkFace,387,CBlock,1040,352,1392,TA,1392,0,1392,1,0,1,3,1,TA,166000
+160,FV,3180,Inside,Somerst,TwnhsE,2Story,7,5,2005,Gable,MetalSd,None,0,PConc,0,600,600,Ex,520,600,1200,0,0,2,2,1,Gd,151000
+60,RL,9548,CulDSac,CollgCr,1Fam,2Story,7,6,2003,Gable,VinylSd,BrkFace,223,PConc,483,458,941,Ex,941,888,1829,1,0,2,3,1,Gd,237000
+20,RL,10004,Inside,NAmes,1Fam,1Story,6,6,1964,Gable,HdBoard,BrkFace,180,CBlock,196,975,1516,TA,1516,0,1516,0,0,1,3,1,TA,167000
+20,RL,7875,Inside,NAmes,1Fam,1Story,5,6,1961,Gable,VinylSd,BrkFace,136,CBlock,572,572,1144,Gd,1144,0,1144,1,0,1,3,1,TA,139950
+20,RL,9600,Inside,Sawyer,1Fam,1Story,4,7,1950,Gable,VinylSd,None,0,CBlock,442,625,1067,TA,1067,0,1067,0,0,2,2,1,Gd,128000
+30,RM,8100,Inside,OldTown,1Fam,1Story,5,6,1948,Gable,VinylSd,None,0,BrkTil,338,1221,1559,Gd,1559,0,1559,1,0,1,2,1,TA,153500
+160,RM,1680,Inside,BrDale,Twnhs,2Story,6,5,1973,Gable,HdBoard,BrkFace,158,CBlock,330,153,483,TA,483,504,987,1,0,1,2,1,TA,100000
+20,RL,9525,Inside,CollgCr,1Fam,1Story,5,6,1995,Gable,VinylSd,None,0,PConc,0,1099,1099,Ex,1099,0,1099,0,0,1,3,1,Gd,144000
+50,RL,11767,Inside,Edwards,1Fam,1.5Fin,5,6,1946,Gable,MetalSd,None,0,CBlock,352,416,768,Ex,768,432,1200,0,0,1,3,1,TA,130500
+70,RH,12155,Inside,SWISU,1Fam,2Story,6,8,1925,Gable,Wd Sdng,None,0,BrkTil,156,516,672,TA,810,672,1482,0,0,2,4,1,Fa,140000
+70,RM,10440,Inside,OldTown,1Fam,2Story,5,8,1904,Gable,MetalSd,None,0,PConc,0,650,650,Gd,958,581,1539,0,0,2,3,1,Gd,157500
+80,RL,9020,Inside,NAmes,1Fam,SLvl,6,7,1966,Gable,HdBoard,BrkFace,183,CBlock,312,276,1127,TA,1165,0,1165,1,0,1,3,1,TA,174900
+90,RL,8000,Corner,NAmes,Duplex,1Story,5,4,1961,Gable,BrkFace,None,0,CBlock,0,1800,1800,Ex,1800,0,1800,0,0,2,6,2,TA,141000
+50,RM,12665,Inside,OldTown,1Fam,1.5Fin,5,8,1915,Gable,Wd Sdng,None,0,BrkTil,0,876,876,Gd,876,540,1416,0,0,1,4,1,TA,153900
+85,RL,16647,CulDSac,Sawyer,1Fam,SFoyer,5,5,1975,Gable,HdBoard,None,0,CBlock,1390,0,1390,TA,1701,0,1701,1,0,2,3,1,TA,171000
+60,RL,9317,Inside,SawyerW,1Fam,2Story,7,5,1993,Gable,HdBoard,BrkFace,137,PConc,513,227,740,Ex,1006,769,1775,1,0,2,3,1,Gd,213000
+20,RL,15523,CulDSac,CollgCr,1Fam,1Story,5,6,1972,Gable,HdBoard,None,0,CBlock,460,404,864,Ex,864,0,864,1,0,1,3,1,TA,133500
+50,RL,45600,Inside,ClearCr,1Fam,1.5Fin,6,8,1908,Gable,Wd Sdng,None,0,BrkTil,0,907,907,TA,1307,1051,2358,0,0,3,5,1,TA,240000
+80,RL,9600,FR2,Veenker,1Fam,SLvl,6,7,1976,Hip,Plywood,BrkFace,360,CBlock,0,528,528,Ex,1094,761,1855,0,0,2,3,1,TA,187000
+120,RM,4435,Inside,CollgCr,TwnhsE,1Story,6,5,2003,Gable,VinylSd,BrkFace,170,PConc,659,189,848,Ex,848,0,848,1,0,1,1,1,Gd,131500
+120,RL,3196,Inside,Blmngtn,TwnhsE,1Story,8,5,2003,Gable,VinylSd,BrkFace,40,PConc,0,1273,1273,Ex,1456,0,1456,0,0,2,2,1,Gd,215000
+75,RL,7128,Inside,Crawfor,1Fam,2.5Unf,7,5,1941,Gable,MetalSd,None,0,CBlock,364,554,918,Gd,918,728,1646,0,0,2,4,1,TA,164000
+80,RL,12095,Corner,NAmes,1Fam,SLvl,6,6,1964,Gable,MetalSd,BrkFace,115,CBlock,564,563,1127,TA,1445,0,1445,0,0,1,3,1,TA,158000
+20,RL,17920,Inside,Sawyer,1Fam,1Story,5,4,1955,Hip,Wd Sdng,None,0,CBlock,306,372,1763,TA,1779,0,1779,1,0,1,3,1,TA,170000
+20,RL,6897,Corner,Sawyer,1Fam,1Story,5,8,1962,Gable,HdBoard,None,0,CBlock,659,381,1040,Ex,1040,0,1040,1,0,1,3,1,TA,127000
+80,RL,10970,Inside,CollgCr,1Fam,SLvl,6,6,1978,Gable,Plywood,None,0,CBlock,505,0,940,TA,1026,0,1026,1,0,1,3,1,TA,147000
+60,RL,8125,Inside,Gilbert,1Fam,2Story,6,5,1994,Gable,HdBoard,None,0,PConc,0,702,702,Gd,702,779,1481,0,0,2,3,1,TA,174000
+20,RL,10400,Inside,NWAmes,1Fam,1Story,7,5,1976,Gable,HdBoard,BrkFace,189,CBlock,0,1090,1090,TA,1370,0,1370,0,0,2,3,1,TA,152000
+60,RL,11029,Corner,NWAmes,1Fam,2Story,6,7,1968,Gable,HdBoard,BrkFace,220,CBlock,619,435,1054,TA,1512,1142,2654,1,0,2,4,1,Gd,250000
+50,RL,7642,Corner,Crawfor,1Fam,1.5Fin,7,8,1918,Gable,Wd Sdng,None,0,BrkTil,0,912,912,Gd,912,514,1426,0,0,1,3,1,Gd,189950
+190,RL,11625,Inside,Sawyer,2fmCon,1Story,5,4,1965,Hip,Plywood,None,0,PConc,841,198,1039,Ex,1039,0,1039,1,0,1,3,1,TA,131500
+20,RL,9672,Corner,SawyerW,1Fam,1Story,6,5,1984,Hip,HdBoard,None,0,PConc,338,702,1040,TA,1097,0,1097,0,0,2,3,1,TA,152000
+20,RL,7931,Inside,NAmes,1Fam,1Story,5,5,1959,Hip,BrkFace,None,0,CBlock,1148,0,1148,TA,1148,0,1148,1,0,1,3,1,TA,132500
+20,FV,8640,Inside,Somerst,1Fam,1Story,7,5,2007,Gable,VinylSd,None,0,PConc,0,1372,1372,Ex,1372,0,1372,0,0,2,3,1,Gd,250580
+20,RL,8750,Inside,NAmes,1Fam,1Story,5,6,1970,Gable,MetalSd,BrkFace,76,CBlock,828,174,1002,TA,1002,0,1002,1,0,1,3,1,TA,148500
+20,RL,10656,Inside,Timber,1Fam,1Story,8,5,2006,Gable,VinylSd,Stone,274,PConc,0,1638,1638,Ex,1646,0,1646,0,0,2,3,1,Gd,248900
+20,RL,6970,Corner,Sawyer,1Fam,1Story,4,5,1961,Gable,VinylSd,None,0,CBlock,932,108,1040,TA,1120,0,1120,1,0,1,3,1,Fa,129000
+60,RL,14762,Corner,Gilbert,1Fam,2Story,5,6,1948,Gable,Plywood,None,0,Slab,0,0,0,Gd,1547,720,2320,0,0,2,2,1,TA,169000
+60,RL,9938,Inside,SawyerW,1Fam,2Story,7,5,1993,Gable,MetalSd,BrkFace,246,PConc,750,300,1050,Ex,1062,887,1949,1,0,2,3,1,Gd,236000
+20,RL,6600,Inside,NAmes,1Fam,1Story,5,5,1962,Hip,MetalSd,None,0,CBlock,0,894,894,Gd,894,0,894,0,0,1,2,1,TA,109500
+60,RL,8750,Inside,CollgCr,1Fam,2Story,6,5,1998,Gable,VinylSd,BrkFace,116,PConc,505,299,804,Ex,804,878,1682,0,0,2,3,1,Gd,200500
+20,RL,8892,Corner,NAmes,1Fam,1Story,5,7,1953,Gable,WdShing,None,0,Stone,0,105,105,Gd,910,0,910,0,0,1,3,1,Gd,116000
+40,RL,12144,Inside,NAmes,1Fam,1Story,5,7,1949,Gable,HdBoard,None,0,CBlock,375,457,832,Gd,1036,0,1268,0,0,1,3,1,TA,133000
+50,RM,5720,Inside,OldTown,1Fam,1.5Fin,5,6,1941,Gable,Wd Sdng,None,0,CBlock,0,676,676,Ex,676,455,1131,0,0,1,3,1,TA,66500
+60,FV,9000,Inside,Somerst,1Fam,2Story,8,5,2007,Gable,CemntBd,None,0,PConc,64,1120,1184,Ex,1184,1426,2610,0,0,2,4,1,Ex,303477
+20,RL,25286,Inside,Mitchel,1Fam,1Story,4,5,1963,Gable,HdBoard,None,0,PConc,633,431,1064,Gd,1040,0,1040,1,0,1,3,1,TA,132250
+60,RL,8834,Inside,NridgHt,1Fam,2Story,9,5,2004,Hip,VinylSd,Stone,216,PConc,1170,292,1462,Ex,1462,762,2224,1,0,2,4,1,Ex,350000
+85,RL,11782,Inside,Sawyer,1Fam,SFoyer,5,7,1961,Gable,HdBoard,None,0,CBlock,899,210,1109,TA,1155,0,1155,1,0,1,3,1,Gd,148000
+20,RL,7000,CulDSac,CollgCr,1Fam,1Story,5,8,1978,Gable,VinylSd,BrkFace,90,CBlock,646,218,864,Ex,864,0,864,1,0,1,3,1,TA,136500
+20,RL,7024,Inside,Edwards,1Fam,1Story,5,5,2005,Gable,VinylSd,None,0,PConc,980,110,1090,Gd,1090,0,1090,1,0,1,2,1,TA,157000
+50,RL,13758,CulDSac,Timber,1Fam,1.5Fin,7,5,1990,Gable,HdBoard,BrkFace,117,CBlock,902,254,1156,Ex,1187,530,1717,0,0,2,3,1,Gd,187500
+60,RL,9636,Corner,Gilbert,1Fam,2Story,6,5,1992,Gable,VinylSd,None,0,PConc,0,808,808,Gd,808,785,1593,0,0,2,3,1,TA,178000
+75,RL,6204,Inside,SWISU,1Fam,2.5Fin,4,5,1912,Gable,Wd Sdng,None,0,PConc,0,795,795,TA,954,795,2230,1,0,1,5,1,TA,118500
+20,RL,7150,Inside,NAmes,1Fam,1Story,5,5,1967,Gable,HdBoard,BrkFace,60,CBlock,432,460,892,TA,892,0,892,0,0,1,3,1,TA,100000
+120,FV,5119,CulDSac,Somerst,TwnhsE,1Story,9,5,1999,Gable,MetalSd,BrkFace,60,PConc,1238,460,1698,Ex,1709,0,1709,1,0,2,2,1,Gd,328900
+90,RL,8393,Corner,NAmes,Duplex,1Story,5,5,1959,Gable,MetalSd,BrkFace,122,CBlock,528,1098,1626,Ex,1712,0,1712,0,0,2,4,2,TA,145000
+50,RL,16466,Inside,Edwards,1Fam,1.5Fin,5,7,1955,Gable,MetalSd,None,0,PConc,0,816,816,TA,872,521,1393,0,0,1,3,1,TA,135500
+20,RL,15865,Inside,NAmes,1Fam,1Story,8,6,1970,Flat,Wd Sdng,None,0,PConc,351,1043,2217,Ex,2217,0,2217,1,0,2,4,1,Gd,268000
+20,RL,12160,Inside,NAmes,1Fam,1Story,6,4,1953,Hip,Wd Sdng,BrkFace,90,CBlock,1024,481,1505,Ex,1505,0,1505,1,0,1,2,1,TA,149500
+50,RL,8064,Corner,NAmes,1Fam,1.5Fin,5,7,1949,Gable,MetalSd,None,0,CBlock,0,672,672,Ex,672,252,924,0,0,1,3,1,TA,122900
+60,RL,11184,Inside,Sawyer,1Fam,2Story,6,5,1978,Hip,HdBoard,BrkFace,92,CBlock,226,192,918,Gd,918,765,1683,0,0,2,3,1,TA,172500
+20,RL,8414,Inside,Sawyer,1Fam,1Story,6,8,1963,Hip,HdBoard,None,0,CBlock,663,396,1059,TA,1068,0,1068,0,1,1,3,1,TA,154500
+20,RL,13284,Inside,Sawyer,1Fam,1Story,5,5,1954,Gable,Wd Sdng,None,0,PConc,1064,319,1383,TA,1383,0,1383,1,0,1,3,1,TA,165000
+90,RL,7018,Inside,SawyerW,Duplex,1Story,5,5,1979,Gable,Plywood,None,0,Slab,0,0,0,TA,1535,0,1535,0,0,2,4,2,TA,118858
+60,RL,7056,Inside,NAmes,1Fam,2Story,6,5,1963,Hip,HdBoard,BrkFace,415,CBlock,400,380,780,TA,983,813,1796,1,0,1,4,1,TA,140000
+30,RM,8765,Inside,IDOTRR,1Fam,1Story,4,6,1936,Gable,Wd Sdng,None,0,BrkTil,285,666,951,Ex,951,0,951,0,0,1,2,1,TA,106500
+90,RL,7018,Inside,SawyerW,Duplex,2Story,5,5,1979,Gable,Plywood,None,0,Slab,0,0,0,TA,1120,1120,2240,0,0,2,6,2,TA,142953
+20,RL,12919,Inside,NridgHt,1Fam,1Story,9,5,2009,Hip,VinylSd,Stone,760,PConc,2188,142,2330,Ex,2364,0,2364,1,0,2,2,1,Ex,611657
+20,RL,6993,Inside,Sawyer,1Fam,1Story,5,7,1961,Gable,HdBoard,None,0,CBlock,465,447,912,TA,1236,0,1236,0,0,1,3,1,TA,135000
+20,RL,7340,Inside,NAmes,1Fam,1Story,4,6,1971,Gable,HdBoard,None,0,CBlock,322,536,858,TA,858,0,858,0,0,1,2,1,TA,110000
+20,RL,8712,Inside,NAmes,1Fam,1Story,5,7,1957,Hip,MetalSd,None,0,CBlock,860,132,992,TA,1306,0,1306,1,0,1,2,1,TA,153000
+60,RL,7875,Inside,Gilbert,1Fam,2Story,7,5,2003,Gable,VinylSd,None,0,PConc,0,783,783,Ex,807,702,1509,0,0,2,3,1,Gd,180000
+20,RL,14859,CulDSac,Gilbert,1Fam,1Story,7,5,2006,Hip,VinylSd,BrkFace,27,PConc,0,1670,1670,Ex,1670,0,1670,0,0,2,3,1,Gd,240000
+20,RL,6173,Inside,Sawyer,1Fam,1Story,5,6,1967,Gable,HdBoard,BrkFace,75,CBlock,599,277,876,TA,902,0,902,0,0,1,3,1,TA,125500
+20,RL,9920,Inside,NAmes,1Fam,1Story,5,5,1954,Gable,HdBoard,Stone,110,CBlock,354,412,1056,TA,1063,0,1063,1,0,1,3,1,TA,128000
+20,RL,13501,Corner,Somerst,1Fam,1Story,8,5,2006,Gable,VinylSd,Stone,208,PConc,63,1560,1623,Ex,1636,0,1636,1,0,2,3,1,Gd,255000
+50,RL,11500,Inside,Crawfor,1Fam,1.5Fin,7,7,1936,Gable,BrkFace,None,0,CBlock,223,794,1017,Gd,1020,1037,2057,0,0,1,3,1,Gd,250000
+20,RL,8885,Inside,Mitchel,1Fam,1Story,5,5,1983,Gable,HdBoard,None,0,CBlock,301,239,864,TA,902,0,902,1,0,1,2,1,TA,131000
+60,RL,12589,Inside,Gilbert,1Fam,2Story,6,5,2005,Gable,VinylSd,None,0,PConc,0,742,742,Ex,742,742,1484,0,0,2,3,1,Gd,174000
+90,RL,11600,Corner,NAmes,Duplex,2Story,5,5,1960,Gable,MetalSd,BrkFace,361,CBlock,443,662,1105,TA,1105,1169,2274,0,0,2,5,2,TA,154300
+20,RL,9286,CulDSac,CollgCr,1Fam,1Story,5,7,1977,Gable,HdBoard,None,0,CBlock,196,1072,1268,TA,1268,0,1268,0,0,1,3,1,Gd,143500
+30,RM,6120,Inside,BrkSide,1Fam,1Story,5,7,1925,Gable,MetalSd,None,0,BrkTil,489,279,768,TA,1015,0,1015,0,0,1,3,1,TA,88000
+90,RH,6270,Inside,Crawfor,Duplex,2Story,5,6,1949,Gable,MetalSd,None,0,CBlock,284,717,1001,TA,1001,1001,2002,0,0,2,4,2,TA,145000
+160,FV,3000,Inside,Somerst,TwnhsE,2Story,6,5,2009,Gable,VinylSd,Stone,76,PConc,294,318,612,Ex,612,612,1224,0,0,2,2,1,Gd,173733
+160,RM,2001,Inside,MeadowV,Twnhs,2Story,4,5,1970,Gable,CemntBd,BrkFace,80,CBlock,0,546,546,Fa,546,546,1092,0,0,1,3,1,TA,75000
+20,C (all),9000,Inside,IDOTRR,1Fam,1Story,2,3,1949,Gable,AsbShng,None,0,CBlock,50,430,480,TA,480,0,480,1,0,0,1,1,TA,35311
+20,RL,17140,Inside,Edwards,1Fam,1Story,4,6,1956,Gable,VinylSd,None,0,CBlock,1059,75,1134,Ex,1229,0,1229,0,0,1,3,1,TA,135000
+60,RL,13125,Corner,SawyerW,1Fam,2Story,7,5,1991,Gable,HdBoard,None,0,PConc,48,422,1104,Ex,912,1215,2127,1,0,2,4,1,Gd,238000
+20,RL,11029,Corner,NAmes,1Fam,1Story,6,8,1958,Hip,MetalSd,None,0,CBlock,528,245,1184,Ex,1414,0,1414,1,0,1,3,1,TA,176500
+60,RL,8462,Inside,SawyerW,1Fam,2Story,6,5,1994,Gable,HdBoard,BrkFace,105,PConc,814,114,928,Ex,936,785,1721,0,1,2,3,1,Gd,201000
+90,RL,8777,Inside,Edwards,Duplex,1.5Fin,5,7,1900,Gable,MetalSd,None,0,CBlock,1084,188,1272,Gd,1272,928,2200,2,0,2,4,2,TA,145900
+20,RL,10237,Inside,Gilbert,1Fam,1Story,6,5,2005,Gable,VinylSd,None,0,PConc,28,1288,1316,Ex,1316,0,1316,0,0,2,3,1,Gd,169990
+120,RL,8012,Inside,SawyerW,TwnhsE,1Story,6,5,1993,Gable,Plywood,None,0,PConc,165,598,1604,Ex,1617,0,1617,1,0,2,2,1,Gd,193000
+20,RL,10240,Inside,NWAmes,1Fam,1Story,6,6,1980,Gable,Plywood,BrkFace,157,CBlock,625,0,1686,TA,1686,0,1686,1,0,2,3,1,TA,207500
+20,RL,15611,Corner,NWAmes,1Fam,1Story,5,6,1977,Gable,VinylSd,None,0,PConc,767,266,1126,TA,1126,0,1126,0,1,2,3,1,Ex,175000
+60,RL,11999,Inside,NridgHt,1Fam,2Story,8,5,2003,Hip,VinylSd,BrkFace,340,PConc,0,1181,1181,Ex,1234,1140,2374,0,0,2,4,1,Ex,285000
+60,RL,9900,Inside,NWAmes,1Fam,2Story,7,5,1968,Gable,MetalSd,BrkFace,342,CBlock,552,280,832,Gd,1098,880,1978,0,0,2,4,1,TA,176000
+20,RL,11838,Inside,CollgCr,1Fam,1Story,8,5,2001,Hip,VinylSd,None,0,PConc,0,1753,1753,Ex,1788,0,1788,0,0,2,3,1,Ex,236500
+60,RL,13006,Corner,Gilbert,1Fam,2Story,7,5,1997,Gable,HdBoard,BrkFace,285,PConc,0,964,964,Gd,993,1243,2236,0,0,2,4,1,Gd,222000
+20,RL,8925,Inside,Timber,1Fam,1Story,8,5,2007,Gable,VinylSd,None,0,PConc,16,1450,1466,Ex,1466,0,1466,0,0,2,3,1,Gd,201000
+20,RL,9100,Inside,NAmes,1Fam,1Story,5,6,1965,Gable,VinylSd,None,0,CBlock,338,121,925,Ex,925,0,925,0,1,1,2,1,TA,117500
+20,RL,11670,Corner,Somerst,1Fam,1Story,9,5,2006,Hip,VinylSd,Stone,302,PConc,0,1905,1905,Ex,1905,0,1905,0,0,2,3,1,Ex,320000
+20,RL,8487,FR2,CollgCr,1Fam,1Story,7,5,2004,Gable,VinylSd,BrkFace,210,PConc,20,1480,1500,Ex,1500,0,1500,0,0,2,3,1,Gd,190000
+20,RL,27650,Inside,NAmes,1Fam,1Story,7,7,1960,Flat,Wd Sdng,None,0,CBlock,425,160,585,Ex,2069,0,2069,1,0,2,4,1,Gd,242000
+30,RL,5825,Inside,BrkSide,1Fam,1Story,4,5,1926,Gable,MetalSd,BrkFace,108,PConc,0,600,600,Gd,747,0,747,0,0,1,1,1,TA,79900
+20,RL,10083,Inside,SawyerW,1Fam,1Story,7,5,2003,Gable,VinylSd,NA,NA,PConc,833,343,1176,Ex,1200,0,1200,1,0,2,2,1,Gd,184900
+60,RL,9675,Inside,Somerst,1Fam,2Story,7,5,2005,Gable,VinylSd,None,0,PConc,341,772,1113,Ex,1113,858,1971,0,0,2,3,1,Gd,253000
+60,RL,8760,Inside,CollgCr,1Fam,2Story,7,5,2006,Gable,VinylSd,None,0,PConc,464,927,1391,Ex,1391,571,1962,0,0,2,3,1,Gd,239799
+70,RL,24090,Inside,ClearCr,1Fam,2Story,7,7,1940,Gable,MetalSd,None,0,CBlock,0,1032,1032,Ex,1207,1196,2403,0,0,2,4,1,TA,244400
+90,RL,12640,Inside,Mitchel,Duplex,1Story,6,5,1976,Gable,Plywood,None,0,CBlock,936,396,1728,TA,1728,0,1728,0,0,2,4,2,TA,150900
+60,RL,8755,FR2,Gilbert,1Fam,2Story,7,5,1999,Gable,VinylSd,BrkFace,298,PConc,772,220,992,Ex,1022,1038,2060,1,0,2,3,1,Gd,214000
+90,RL,7711,Inside,Edwards,Duplex,1Story,4,3,1977,Gable,MetalSd,None,0,PConc,1440,0,1440,TA,1440,0,1440,2,0,2,4,2,TA,150000
+90,RL,25000,Inside,Mitchel,Duplex,1Story,5,4,1967,Gable,HdBoard,None,0,CBlock,0,1632,1632,TA,1632,0,1632,0,0,2,4,2,TA,143000
+20,RL,14375,CulDSac,Timber,1Fam,SLvl,6,6,1958,Gable,HdBoard,BrkFace,541,CBlock,111,354,819,Gd,1344,0,1344,0,1,1,3,1,Gd,137500
+50,RM,8820,Corner,OldTown,1Fam,1.5Fin,5,6,1890,Hip,VinylSd,None,0,BrkTil,1088,0,1088,TA,1188,561,1869,0,0,1,2,1,TA,124900
+80,RL,8163,Inside,NAmes,1Fam,SLvl,5,6,1959,Gable,HdBoard,BrkFace,128,CBlock,748,102,1144,TA,1144,0,1144,1,0,1,3,1,TA,143000
+20,RL,14536,Inside,Timber,1Fam,1Story,8,5,2002,Hip,VinylSd,BrkFace,236,PConc,1300,316,1616,Ex,1629,0,1629,1,0,2,3,1,Gd,270000
+60,RL,14006,Inside,CollgCr,1Fam,2Story,7,5,2002,Gable,VinylSd,BrkFace,144,PConc,0,936,936,Ex,936,840,1776,0,0,2,3,1,Gd,192500
+20,RL,9360,Inside,NWAmes,1Fam,1Story,6,7,1972,Hip,Plywood,None,0,CBlock,982,179,1161,TA,1381,0,1381,1,0,1,3,1,Gd,197500
+20,RL,7200,Inside,NAmes,1Fam,1Story,5,8,1950,Gable,VinylSd,None,0,CBlock,398,317,864,Gd,864,0,864,1,0,1,3,1,Gd,129000
+20,RH,7800,Corner,SawyerW,1Fam,1Story,5,5,1965,Gable,VinylSd,None,0,CBlock,641,187,828,Gd,965,0,965,1,0,1,3,1,TA,119900
+85,RL,7200,Inside,CollgCr,1Fam,SFoyer,5,8,1972,Gable,WdShing,None,0,CBlock,660,108,768,Gd,768,0,768,0,1,1,2,1,TA,133900
+60,RL,11075,Inside,Mitchel,1Fam,2Story,5,4,1969,Gable,HdBoard,BrkFace,232,CBlock,562,29,784,Ex,1168,800,1968,0,1,2,4,1,TA,172000
+90,RL,9400,CulDSac,Edwards,Duplex,SFoyer,6,5,1975,Flat,WdShing,BrkFace,250,CBlock,945,0,945,TA,980,0,980,0,2,2,4,0,TA,127500
+90,RH,7136,Inside,Crawfor,Duplex,2Story,6,6,1946,Gable,MetalSd,BrkFace,423,CBlock,484,495,979,TA,979,979,1958,0,0,2,4,2,TA,145000
+160,RM,1300,Inside,Blueste,TwnhsE,2Story,6,6,1980,Gable,MetalSd,None,0,CBlock,285,276,561,TA,561,668,1229,0,0,1,2,1,TA,124000
+20,RL,7420,Inside,Sawyer,1Fam,1Story,5,5,1962,Hip,MetalSd,None,0,CBlock,417,640,1057,TA,1057,0,1057,0,0,1,3,1,TA,132000
+20,RL,8450,Inside,CollgCr,1Fam,1Story,7,5,2003,Gable,VinylSd,None,0,PConc,699,638,1337,Ex,1337,0,1337,1,0,2,3,1,Gd,185000
+160,FV,2572,FR2,Somerst,Twnhs,2Story,7,5,1999,Hip,MetalSd,None,0,PConc,604,92,696,Ex,696,720,1416,1,0,2,3,1,Gd,155000
+20,RL,7207,Inside,BrkSide,1Fam,1Story,5,7,1958,Gable,Wd Sdng,None,0,CBlock,696,162,858,Gd,858,0,858,1,0,1,2,1,TA,116500
+60,RL,12227,Corner,NWAmes,1Fam,2Story,6,7,1977,Gable,HdBoard,BrkFace,424,CBlock,896,434,1330,TA,1542,1330,2872,1,0,2,4,1,TA,272000
+160,RL,2308,Corner,NPkVill,TwnhsE,2Story,6,6,1976,Gable,Plywood,None,0,CBlock,556,248,804,TA,804,744,1548,1,0,2,3,1,Gd,155000
+20,RL,11923,Corner,CollgCr,1Fam,1Story,9,5,2007,Gable,VinylSd,None,0,PConc,0,1800,1800,Ex,1800,0,1800,0,0,2,2,1,Ex,239000
+60,RL,11316,Corner,Timber,1Fam,2Story,7,5,2002,Gable,VinylSd,BrkFace,44,PConc,624,193,817,Ex,824,1070,1894,1,0,2,4,1,Gd,214900
+60,RL,10237,Inside,Gilbert,1Fam,2Story,6,5,2005,Gable,VinylSd,None,0,PConc,0,783,783,Ex,783,701,1484,0,0,2,3,1,Gd,178900
+50,RL,9600,Inside,Crawfor,1Fam,1.5Fin,5,7,1940,Gable,MetalSd,None,0,BrkTil,428,300,728,Ex,976,332,1308,1,0,1,2,1,TA,160000
+20,RL,7390,Inside,NAmes,1Fam,1Story,5,7,1955,Hip,Wd Sdng,BrkFace,151,CBlock,902,196,1098,TA,1098,0,1098,1,0,1,3,1,TA,135000
+50,RM,5925,Inside,OldTown,1Fam,1.5Fin,3,6,1910,Gable,VinylSd,None,0,BrkTil,0,600,600,Fa,600,368,968,0,0,1,2,1,TA,37900
+190,RL,10382,Inside,NAmes,2fmCon,SLvl,6,5,1958,Hip,HdBoard,BrkFace,105,CBlock,513,75,588,TA,1095,0,1095,1,0,1,2,1,TA,140000
+50,RL,10800,Inside,NAmes,1Fam,1.5Fin,4,4,1949,Gable,AsbShng,None,0,CBlock,0,720,720,TA,720,472,1192,0,0,1,4,1,TA,135000
+160,RL,2268,Inside,NridgHt,Twnhs,2Story,7,5,2003,Gable,VinylSd,Stone,106,PConc,567,197,764,Ex,764,862,1626,0,0,2,2,1,Gd,173000
+120,RL,7892,Inside,SawyerW,TwnhsE,1Story,6,5,1979,Gable,Plywood,None,0,CBlock,0,918,918,TA,918,0,918,0,0,2,2,1,TA,99500
+20,FV,11639,Corner,Somerst,1Fam,1Story,7,5,2007,Gable,CemntBd,NA,NA,PConc,0,1428,1428,Ex,1428,0,1428,0,0,2,3,1,Gd,182000
+70,RL,11414,Corner,BrkSide,1Fam,2Story,7,8,1910,Gable,HdBoard,None,0,BrkTil,0,728,728,TA,1136,883,2019,0,0,1,3,1,Gd,167500
+160,FV,2651,FR2,Somerst,Twnhs,2Story,7,5,2000,Gable,MetalSd,None,0,PConc,641,32,673,Ex,673,709,1382,1,0,2,3,1,Gd,165000
+30,RL,5900,Inside,BrkSide,1Fam,1Story,4,7,1923,Gable,Wd Sdng,None,0,PConc,0,440,440,TA,869,0,869,0,0,1,2,1,Fa,85500
+120,FV,4274,Inside,Somerst,TwnhsE,1Story,7,5,2006,Gable,VinylSd,NA,NA,PConc,1106,135,1241,Ex,1241,0,1241,1,0,1,1,1,Gd,199900
+20,RL,9450,Inside,Edwards,1Fam,1Story,4,5,1954,Gable,MetalSd,None,0,CBlock,552,342,894,Ex,894,0,894,0,0,1,3,1,TA,110000
+20,RL,8816,Corner,Sawyer,1Fam,1Story,5,6,1963,Gable,VinylSd,None,0,PConc,651,470,1121,TA,1121,0,1121,1,0,1,3,1,TA,139000
+85,RL,12122,Corner,NAmes,1Fam,SFoyer,7,9,1961,Gable,CemntBd,Stone,210,CBlock,867,77,944,Gd,999,0,999,1,0,1,3,1,Ex,178400
+60,RL,12203,Corner,NoRidge,1Fam,2Story,8,5,1998,Hip,VinylSd,BrkFace,975,PConc,854,371,1225,Ex,1276,1336,2612,1,0,2,4,1,Gd,336000
+20,RL,3182,Inside,Blmngtn,1Fam,1Story,7,5,2007,Gable,VinylSd,BrkFace,16,PConc,0,1266,1266,Ex,1266,0,1266,0,0,2,2,1,Gd,159895
+60,RL,11250,Corner,CollgCr,1Fam,2Story,8,5,2002,Gable,CemntBd,None,0,PConc,0,1128,1128,Ex,1149,1141,2290,0,0,2,4,1,Gd,255900
+90,RL,10125,Inside,Mitchel,Duplex,1.5Fin,5,5,1977,Gable,Plywood,None,0,CBlock,0,0,0,TA,1302,432,1734,0,0,2,4,2,Gd,126000
+190,RL,10880,Inside,Edwards,2fmCon,1Story,5,5,1950,Gable,MetalSd,None,0,CBlock,1040,124,1164,TA,1164,0,1164,1,0,1,3,1,TA,125000
+50,RM,5310,Corner,OldTown,1Fam,1.5Fin,6,8,1910,Hip,VinylSd,None,0,CBlock,0,485,485,Gd,1001,634,1635,0,0,1,2,1,Gd,117000
+20,RL,10159,Inside,NridgHt,1Fam,1Story,9,5,2009,Hip,VinylSd,Stone,450,PConc,1646,284,1930,Ex,1940,0,1940,1,0,2,3,1,Ex,395192
+60,RL,12046,Inside,NWAmes,1Fam,2Story,6,6,1976,Gable,Plywood,BrkFace,298,CBlock,156,692,848,TA,1118,912,2030,0,0,2,4,1,Gd,195000
+60,FV,8125,Inside,Somerst,1Fam,2Story,7,5,2006,Gable,VinylSd,None,0,PConc,0,770,770,Ex,778,798,1576,0,0,2,3,1,Gd,197000
+60,RL,9452,Inside,NoRidge,1Fam,2Story,8,5,1997,Gable,VinylSd,BrkFace,423,PConc,1074,322,1396,Ex,1407,985,2392,1,0,2,3,1,Gd,348000
+70,RM,17671,Corner,OldTown,1Fam,2Story,8,9,1882,Gable,Wd Sdng,None,0,BrkTil,216,700,916,Gd,916,826,1742,0,0,1,4,1,Gd,168000
+60,RL,9760,Inside,NAmes,1Fam,2Story,6,8,1964,Hip,Wd Sdng,BrkFace,340,CBlock,536,169,822,Gd,1020,831,1851,0,0,2,3,1,Gd,187000
+60,RL,8846,Inside,CollgCr,1Fam,2Story,6,5,2005,Gable,VinylSd,None,0,PConc,0,750,750,Ex,750,750,1500,0,0,2,3,1,Gd,173900
+20,RL,12456,FR2,NridgHt,1Fam,1Story,10,5,2006,Hip,CemntBd,Stone,230,PConc,1172,528,1700,Ex,1718,0,1718,1,0,2,3,1,Ex,337500
+50,RL,4712,Inside,BrkSide,1Fam,1.5Fin,4,7,1946,Gable,MetalSd,None,0,CBlock,384,363,747,TA,774,456,1230,1,0,1,3,1,TA,121600
+20,RL,10659,Inside,NAmes,1Fam,1Story,5,6,1961,Hip,Wd Sdng,None,0,CBlock,915,135,1050,TA,1050,0,1050,1,0,1,3,1,TA,136500
+20,RL,11717,Inside,NWAmes,1Fam,1Story,6,6,1970,Hip,HdBoard,BrkFace,571,CBlock,0,1442,1442,TA,1442,0,1442,0,0,2,2,1,TA,185000
+30,RM,9786,Inside,IDOTRR,1Fam,1Story,3,4,1922,Hip,Wd Sdng,None,0,BrkTil,0,1007,1007,Fa,1077,0,1077,0,0,1,3,1,TA,91000
+20,RL,6762,Inside,CollgCr,1Fam,1Story,7,5,2006,Gable,VinylSd,Stone,24,PConc,686,501,1187,Ex,1208,0,1208,1,0,2,2,1,Gd,206000
+20,RL,10206,Corner,Edwards,1Fam,1Story,3,3,1952,Flat,BrkComm,None,0,Slab,0,0,0,Fa,944,0,944,0,0,1,2,1,Fa,82000
+30,RL,5400,Corner,OldTown,1Fam,1Story,5,6,1920,Gable,Wd Sdng,None,0,BrkTil,0,691,691,Ex,691,0,691,0,0,1,2,1,Ex,86000
+20,RL,11957,Inside,Somerst,1Fam,1Story,8,5,2006,Gable,VinylSd,BrkFace,53,PConc,24,1550,1574,Ex,1574,0,1574,0,0,2,3,1,Gd,232000
+90,RL,11500,Corner,NWAmes,Duplex,1Story,5,6,1976,Gable,VinylSd,BrkFace,164,CBlock,0,1680,1680,Fa,1680,0,1680,0,0,2,4,2,TA,136905
+120,RL,3182,Inside,Blmngtn,TwnhsE,1Story,7,5,2005,Gable,VinylSd,BrkFace,16,PConc,16,1330,1346,Ex,1504,0,1504,0,0,2,1,1,Gd,181000
+80,RL,8385,Inside,CollgCr,1Fam,SLvl,5,8,1977,Gable,HdBoard,BrkFace,220,CBlock,595,390,985,TA,985,0,985,0,0,2,3,1,TA,149900
+20,RL,12155,Inside,NAmes,1Fam,1Story,6,3,1970,Gable,Plywood,None,0,CBlock,1237,420,1657,Gd,1657,0,1657,0,1,2,3,1,TA,163500
+160,RM,2217,Inside,MeadowV,TwnhsE,2Story,4,4,1970,Gable,CemntBd,None,0,CBlock,273,0,546,TA,546,546,1092,0,0,1,3,1,TA,88000
+20,RL,12118,CulDSac,Mitchel,1Fam,1Story,7,5,2004,Hip,VinylSd,Stone,108,PConc,0,1710,1710,Ex,1710,0,1710,0,0,2,3,1,Gd,240000
+50,RL,6000,Inside,SWISU,1Fam,1.5Fin,5,5,1926,Gable,Wd Sdng,None,0,BrkTil,0,1008,1008,Ex,1008,0,1522,0,0,2,4,1,TA,102000
+50,RL,21286,Inside,Sawyer,1Fam,1.5Fin,5,5,1948,Gable,Wd Sdng,None,0,CBlock,0,720,720,TA,720,551,1271,0,0,2,4,1,TA,135000
+90,RL,9825,Inside,Edwards,Duplex,1Story,5,5,1965,Hip,AsphShn,None,0,CBlock,0,0,0,TA,1664,0,1664,0,0,2,4,2,TA,100000
+70,RL,10592,Inside,Crawfor,1Fam,2Story,6,7,1923,Hip,Wd Sdng,None,0,PConc,0,602,602,TA,900,602,1502,0,0,1,3,1,Gd,165000
+30,RM,7200,Inside,OldTown,1Fam,1Story,5,4,1910,Hip,MetalSd,None,0,BrkTil,247,310,1022,TA,1022,0,1022,1,0,1,2,1,TA,85000
+20,RL,11664,Inside,NAmes,1Fam,1Story,6,5,1948,Gable,MetalSd,BrkFace,206,CBlock,336,746,1082,TA,1082,0,1082,0,0,1,2,1,TA,119200
+60,RL,8400,Inside,NWAmes,1Fam,2Story,8,6,2001,Gable,VinylSd,None,0,PConc,643,167,810,Ex,810,855,1665,1,0,2,3,1,Gd,227000
+20,RL,11883,Inside,CollgCr,1Fam,1Story,7,5,1996,Hip,VinylSd,BrkFace,196,PConc,690,814,1504,Ex,1504,0,1504,1,0,2,3,1,Gd,203000
+120,RL,5814,CulDSac,StoneBr,TwnhsE,1Story,8,5,1984,Gable,HdBoard,None,0,CBlock,1036,184,1220,Gd,1360,0,1360,1,0,1,1,1,Gd,187500
+80,RL,10784,FR2,Gilbert,1Fam,SLvl,7,5,1991,Gable,HdBoard,BrkFace,76,PConc,0,384,384,Gd,802,670,1472,0,0,2,3,1,Gd,160000
+120,RL,3013,Inside,Blmngtn,TwnhsE,1Story,7,5,2005,Gable,VinylSd,BrkFace,145,PConc,16,1346,1362,Ex,1506,0,1506,0,0,2,2,1,Gd,213490
+20,RL,7024,Inside,Edwards,1Fam,1Story,4,5,2005,Gable,VinylSd,None,0,PConc,1024,108,1132,Ex,1132,0,1132,1,0,1,2,1,Gd,176000
+20,RL,7406,Inside,CollgCr,1Fam,1Story,7,5,2006,Gable,VinylSd,Stone,84,PConc,684,515,1199,Ex,1220,0,1220,1,0,2,2,1,Gd,194000
+50,RM,9439,Inside,OldTown,1Fam,1.5Fin,5,5,1930,Gable,Wd Sdng,None,0,CBlock,324,588,912,Gd,912,336,1248,0,0,1,2,1,TA,87000
+120,RL,3182,Inside,Blmngtn,TwnhsE,1Story,7,5,2005,Gable,VinylSd,BrkFace,14,PConc,16,1330,1346,Ex,1504,0,1504,0,0,2,2,1,Gd,191000
+20,RL,15498,Corner,Timber,1Fam,1Story,8,6,1976,Hip,Stone,None,0,CBlock,1165,0,1565,TA,2898,0,2898,1,0,2,2,1,Gd,287000
+20,RL,7700,Corner,CollgCr,1Fam,1Story,5,5,1972,Gable,VinylSd,None,0,CBlock,138,276,882,TA,882,0,882,1,0,1,3,1,TA,112500
+20,RL,9300,Inside,NAmes,1Fam,1Story,5,5,1960,Gable,MetalSd,BrkFace,324,CBlock,697,571,1268,TA,1264,0,1264,1,0,1,3,1,TA,167500
+20,RL,9520,Inside,Timber,1Fam,1Story,8,5,2007,Gable,VinylSd,Stone,338,PConc,1513,125,1638,Ex,1646,0,1646,1,0,2,3,1,Gd,293077
+50,RL,9492,Inside,NAmes,1Fam,1.5Fin,5,5,1941,Gable,WdShing,None,0,CBlock,368,359,768,TA,968,408,1376,1,0,1,3,1,TA,105000
+160,RM,1680,Inside,BrDale,Twnhs,2Story,6,7,1972,Gable,HdBoard,BrkFace,281,CBlock,317,355,672,Gd,672,546,1218,0,1,1,3,1,TA,118000
+190,RH,7082,Inside,SWISU,2fmCon,2Story,5,8,1916,Gable,VinylSd,None,0,PConc,0,686,686,Gd,948,980,1928,0,0,2,5,2,TA,160000
+75,RL,15863,Corner,SWISU,1Fam,2.5Fin,7,3,1920,Gable,Wd Sdng,None,0,BrkTil,523,301,824,Ex,1687,998,3082,1,0,2,5,1,TA,197000
+60,RL,14541,Corner,NoRidge,1Fam,2Story,8,7,1993,Gable,MetalSd,None,0,PConc,1012,326,1338,Ex,1352,1168,2520,1,0,2,5,1,Gd,310000
+20,RL,8125,Inside,CollgCr,1Fam,1Story,7,5,2002,Gable,VinylSd,Stone,295,PConc,986,668,1654,Ex,1654,0,1654,1,0,2,3,1,Gd,230000
+30,RL,6305,Inside,Crawfor,1Fam,1Story,5,7,1938,Gable,MetalSd,None,0,PConc,0,920,920,Ex,954,0,954,0,0,1,2,1,Fa,119750
+20,RL,11500,CulDSac,Edwards,1Fam,1Story,4,3,1957,Gable,Wd Sdng,None,0,Slab,0,0,0,Ex,845,0,845,0,0,1,3,1,TA,84000
+20,RL,12898,Inside,Timber,1Fam,1Story,9,5,2007,Hip,VinylSd,Stone,70,PConc,1022,598,1620,Ex,1620,0,1620,1,0,2,2,1,Ex,315500
+60,RL,9240,Inside,CollgCr,1Fam,2Story,8,5,2001,Gable,VinylSd,BrkFace,396,PConc,0,1055,1055,Ex,1055,1208,2263,0,0,2,3,1,Gd,287000
+160,RM,1533,Inside,MeadowV,Twnhs,2Story,4,6,1970,Gable,CemntBd,None,0,CBlock,0,546,546,TA,798,546,1344,0,0,1,3,1,TA,97000
+180,RM,1477,Inside,MeadowV,TwnhsE,SFoyer,4,4,1970,Gable,CemntBd,None,0,CBlock,509,121,630,TA,630,0,630,1,0,1,1,1,TA,80000
+20,RL,13125,Corner,Sawyer,1Fam,1Story,5,4,1957,Gable,Wd Sdng,BrkCmn,67,CBlock,168,284,1134,Ex,1803,0,1803,1,0,2,3,1,TA,155000
+60,RL,9130,Inside,NWAmes,1Fam,2Story,6,8,1966,Hip,HdBoard,BrkFace,252,CBlock,400,336,800,Gd,800,832,1632,0,1,1,4,1,Gd,173000
+120,RL,5381,Inside,NridgHt,Twnhs,1Story,6,5,2005,Gable,VinylSd,Stone,135,PConc,900,406,1306,Ex,1306,0,1306,1,0,2,1,1,Gd,196000
+60,RL,11839,Inside,SawyerW,1Fam,2Story,7,5,1990,Hip,HdBoard,BrkFace,99,PConc,1085,390,1475,Ex,1532,797,2329,1,0,2,4,1,Gd,262280
+20,RL,9600,Inside,NWAmes,1Fam,1Story,8,5,1981,Hip,BrkFace,None,0,PConc,1104,1420,2524,TA,2524,0,2524,1,0,2,4,1,Gd,278000
+20,RL,13680,CulDSac,Edwards,1Fam,1Story,3,5,1955,Hip,BrkFace,None,0,Slab,0,0,0,Ex,1733,0,1733,0,0,2,4,1,TA,139600
+60,RL,16056,Inside,StoneBr,1Fam,2Story,9,5,2005,Hip,CemntBd,Stone,208,PConc,240,1752,1992,Ex,1992,876,2868,0,0,3,4,1,Ex,556581
+20,RL,9245,Inside,CollgCr,1Fam,1Story,5,5,1994,Gable,VinylSd,None,0,PConc,686,304,990,Ex,990,0,990,0,1,1,3,1,TA,145000
+20,RL,21750,Inside,Mitchel,1Fam,1Story,5,4,1960,Hip,HdBoard,BrkFace,75,Slab,0,0,0,TA,1771,0,1771,0,0,1,3,1,TA,115000
+20,RL,11100,Inside,Edwards,1Fam,1Story,4,7,1946,Gable,MetalSd,None,0,CBlock,0,0,0,Ex,930,0,930,0,0,1,2,1,Gd,84900
+20,RL,8993,Inside,Gilbert,1Fam,1Story,7,5,2007,Gable,VinylSd,None,0,PConc,0,1302,1302,Ex,1302,0,1302,0,0,2,3,1,Gd,176485
+20,RL,11175,Corner,CollgCr,1Fam,1Story,7,5,2007,Gable,VinylSd,None,0,PConc,0,1316,1316,Ex,1316,0,1316,0,0,2,3,1,Gd,200141
+60,RL,9500,Corner,NAmes,1Fam,2Story,6,6,1964,Gable,VinylSd,BrkCmn,272,CBlock,442,374,816,TA,1127,850,1977,0,1,1,4,1,TA,165000
+20,RL,8562,Inside,Edwards,1Fam,1Story,5,6,1957,Hip,HdBoard,Stone,145,CBlock,383,833,1216,Ex,1526,0,1526,0,0,1,4,1,TA,144500
+60,RL,11367,Corner,CollgCr,1Fam,2Story,8,5,2002,Gable,VinylSd,BrkFace,210,PConc,932,133,1065,Ex,1091,898,1989,1,0,2,3,1,Gd,255000
+20,RL,11361,Inside,NWAmes,1Fam,1Story,6,5,1976,Gable,Plywood,BrkFace,160,CBlock,644,549,1193,TA,1523,0,1523,0,1,2,3,1,TA,180000
+120,RL,7052,Inside,NridgHt,TwnhsE,1Story,7,5,2005,Gable,VinylSd,Stone,240,PConc,659,705,1364,Ex,1364,0,1364,1,0,2,2,1,Gd,185850
+60,RL,29959,FR2,NoRidge,1Fam,2Story,7,6,1994,Gable,HdBoard,None,0,PConc,595,378,973,Ex,979,871,1850,0,0,2,3,1,Gd,248000
+60,RL,11308,Inside,NridgHt,1Fam,2Story,9,5,2008,Gable,VinylSd,Stone,154,PConc,936,168,1104,Ex,1130,1054,2184,1,0,2,3,1,Ex,335000
+50,RL,11275,Corner,Crawfor,1Fam,1.5Fin,6,7,1932,Gable,MetalSd,BrkFace,480,CBlock,297,0,854,TA,1096,895,1991,0,0,1,3,1,TA,220000
+120,RL,4920,Inside,StoneBr,TwnhsE,1Story,8,5,2001,Gable,CemntBd,None,0,PConc,616,722,1338,Ex,1338,0,1338,1,0,2,2,1,Gd,213500
+30,C (all),18000,Inside,IDOTRR,1Fam,1Story,3,4,1935,Gable,MetalSd,None,0,CBlock,0,894,894,TA,894,0,894,0,0,1,2,1,TA,81000
+190,RM,13600,Inside,OldTown,2fmCon,2Story,5,5,1900,Gable,Wd Sdng,None,0,BrkTil,0,662,662,TA,1422,915,2337,0,0,2,5,2,TA,90000
+30,RM,6000,Inside,OldTown,1Fam,1Story,6,6,1925,Gable,MetalSd,None,0,BrkTil,397,706,1103,Gd,1103,0,1103,0,0,1,2,1,Gd,110500
+20,RL,11000,CulDSac,NAmes,1Fam,1Story,5,6,1966,Gable,Plywood,BrkFace,200,CBlock,740,184,1154,Ex,1154,0,1154,0,0,1,3,1,TA,154000
+60,RL,14000,Inside,ClearCr,1Fam,2Story,7,5,1996,Gable,Wd Sdng,None,0,PConc,1201,105,1306,Ex,1306,954,2260,1,0,2,3,1,Gd,328000
+60,RL,7837,Inside,Gilbert,1Fam,2Story,6,7,1993,Gable,VinylSd,None,0,PConc,0,799,799,Gd,799,772,1571,0,0,2,3,1,TA,178000
+60,RL,9760,Inside,NAmes,1Fam,2Story,6,6,1964,Gable,HdBoard,BrkFace,360,CBlock,674,0,780,TA,798,813,1611,1,0,1,4,1,TA,167900
+160,RM,3964,Inside,MeadowV,TwnhsE,2Story,6,4,1973,Gable,CemntBd,None,0,CBlock,837,105,942,Gd,1291,1230,2521,1,0,2,5,1,TA,151400
+45,RL,9600,Inside,NAmes,1Fam,1.5Unf,5,7,1949,Gable,MetalSd,None,0,CBlock,220,625,845,TA,893,0,893,0,1,1,2,1,Gd,135000
+20,RL,10152,Inside,NAmes,1Fam,1Story,5,5,1956,Hip,MetalSd,BrkFace,120,CBlock,586,462,1048,TA,1048,0,1048,1,0,1,3,1,TA,135000
+60,RL,11700,Inside,NWAmes,1Fam,2Story,6,6,1968,Gable,MetalSd,None,0,CBlock,298,429,727,Ex,829,727,1556,0,0,1,4,1,TA,154000
+50,RL,7585,Inside,Edwards,1Fam,1.5Fin,5,3,1948,Gable,MetalSd,None,0,CBlock,0,810,810,Fa,1002,454,1456,1,1,1,4,1,TA,91500
+60,RL,7950,Corner,Edwards,1Fam,2Story,6,6,1977,Hip,HdBoard,BrkFace,140,CBlock,535,155,690,TA,698,728,1426,0,0,1,3,1,TA,159500
+20,RL,8556,Inside,CollgCr,1Fam,1Story,7,5,2006,Gable,VinylSd,None,0,PConc,0,1240,1240,Ex,1240,0,1240,0,0,2,2,1,Gd,194000
+70,RL,13125,Inside,Crawfor,1Fam,2Story,7,6,1940,Gable,Wd Sdng,None,0,CBlock,410,390,800,TA,960,780,1740,0,0,1,3,1,TA,219500
+50,RL,10800,Inside,OldTown,1Fam,1.5Fin,5,8,1936,Gable,Wd Sdng,None,0,CBlock,626,170,796,Gd,1096,370,1466,0,1,2,3,1,Gd,170000
+20,RL,15870,Corner,NAmes,1Fam,1Story,5,5,1969,Gable,VinylSd,None,0,CBlock,75,230,1096,Ex,1096,0,1096,1,0,1,3,1,TA,138800
+120,RM,4435,Inside,CollgCr,TwnhsE,1Story,6,5,2004,Gable,VinylSd,BrkFace,169,PConc,662,186,848,Ex,848,0,848,1,0,1,1,1,Gd,155900
+20,RL,8775,Inside,CollgCr,1Fam,1Story,5,5,1994,Gable,VinylSd,None,0,PConc,495,495,990,Gd,990,0,990,0,0,1,3,1,TA,126000
+20,RL,11040,Inside,NWAmes,1Fam,1Story,6,7,1971,Gable,VinylSd,BrkFace,144,CBlock,656,602,1258,Ex,1258,0,1258,0,1,2,3,1,Gd,145000
+20,RL,7500,Corner,Sawyer,1Fam,1Story,5,5,1963,Gable,HdBoard,None,0,CBlock,824,216,1040,Fa,1040,0,1040,1,0,1,3,1,TA,133000
+20,RL,8749,Inside,CollgCr,1Fam,1Story,7,5,2002,Gable,VinylSd,BrkFace,100,PConc,0,1459,1459,Ex,1459,0,1459,0,0,2,3,1,Gd,192000
+20,RL,8800,Inside,NAmes,1Fam,1Story,6,6,1964,Hip,HdBoard,BrkFace,425,CBlock,553,698,1251,TA,1251,0,1251,1,0,1,3,1,TA,160000
+60,RL,13031,Corner,Gilbert,1Fam,2Story,6,5,1995,Gable,HdBoard,None,0,PConc,592,99,691,Gd,691,807,1498,0,0,2,3,1,TA,187500
+85,RL,9069,Inside,SawyerW,1Fam,SFoyer,6,6,1992,Gable,HdBoard,None,0,PConc,747,189,936,Ex,996,0,996,1,0,1,2,1,Gd,147000
+160,RM,1974,Inside,MeadowV,TwnhsE,2Story,4,5,1973,Gable,CemntBd,None,0,CBlock,334,212,546,TA,546,546,1092,0,0,1,3,1,TA,83500
+60,FV,10574,Inside,Somerst,1Fam,2Story,8,5,2005,Gable,VinylSd,None,0,PConc,0,1082,1082,Ex,1082,871,1953,0,0,2,3,1,Gd,252000
+160,RM,2522,Inside,Edwards,Twnhs,2Story,7,5,2004,Gable,VinylSd,Stone,50,PConc,0,970,970,Ex,970,739,1709,0,0,2,3,1,Gd,137500
+120,FV,3316,Inside,Somerst,TwnhsE,1Story,8,5,2005,Gable,MetalSd,None,0,PConc,1039,208,1247,Ex,1247,0,1247,1,0,1,1,1,Gd,197000
+90,RL,8544,Corner,NAmes,Duplex,1Story,3,4,1950,Gable,BrkFace,None,0,Slab,0,0,0,Fa,1040,0,1040,0,0,2,2,2,TA,92900
+160,FV,2160,Inside,Somerst,Twnhs,2Story,7,5,1999,Gable,MetalSd,BrkFace,212,PConc,510,90,600,Ex,624,628,1252,1,0,2,2,1,Gd,160000
+50,RL,8400,Inside,SWISU,1Fam,1.5Fin,6,5,1925,Gable,MetalSd,None,0,PConc,423,758,1181,Fa,1390,304,1694,0,0,2,4,1,TA,136500
+20,RL,9230,Corner,NAmes,1Fam,1Story,5,8,1965,Hip,MetalSd,BrkFace,166,CBlock,661,203,864,Gd,1200,0,1200,1,0,1,1,1,Gd,146000
+20,RL,5868,Inside,NAmes,1Fam,1Story,5,7,1956,Gable,MetalSd,None,0,CBlock,248,448,936,Ex,936,0,936,1,0,1,2,1,TA,129000
+20,RL,9317,Inside,CollgCr,1Fam,1Story,6,5,2006,Gable,VinylSd,None,0,PConc,24,1290,1314,Gd,1314,0,1314,0,0,2,3,1,Gd,176432
+70,RM,6882,Inside,IDOTRR,1Fam,2Story,6,7,1914,Gable,Wd Sdng,None,0,PConc,0,684,684,TA,773,582,1355,0,0,1,3,1,Gd,127000
+120,RL,3696,Inside,StoneBr,TwnhsE,1Story,8,5,1986,Gable,HdBoard,None,0,CBlock,0,1074,1074,Ex,1088,0,1088,0,0,1,2,1,Gd,170000
+50,RM,6000,Inside,BrkSide,1Fam,1.5Fin,4,6,1936,Gable,MetalSd,None,0,BrkTil,672,0,672,TA,757,567,1324,0,0,1,3,1,TA,128000
+20,RL,11880,Inside,NWAmes,1Fam,1Story,7,5,1978,Gable,Plywood,BrkFace,206,CBlock,704,567,1271,TA,1601,0,1601,0,0,2,3,1,TA,157000
+30,RL,8400,Inside,SWISU,1Fam,1Story,2,5,1920,Gable,Wd Sdng,None,0,CBlock,290,0,290,TA,438,0,438,0,0,1,1,1,Fa,60000
+20,RL,9758,Inside,NAmes,1Fam,1Story,5,5,1971,Gable,HdBoard,None,0,CBlock,412,251,950,TA,950,0,950,0,0,1,3,1,TA,119500
+20,RL,7000,Inside,NAmes,1Fam,1Story,5,7,1960,Gable,Wd Sdng,BrkFace,45,CBlock,588,422,1010,Ex,1134,0,1134,0,0,1,2,1,TA,135000
+20,RL,8910,Corner,NAmes,1Fam,1Story,6,6,1959,Hip,BrkFace,None,0,CBlock,655,0,655,Ex,1194,0,1194,0,1,1,3,1,TA,159500
+160,RM,2016,Inside,BrDale,TwnhsE,2Story,5,5,1970,Gable,HdBoard,BrkFace,304,CBlock,0,630,630,TA,630,672,1302,0,0,2,3,1,TA,106000
+60,RL,12256,Corner,NoRidge,1Fam,2Story,8,5,1994,Gable,HdBoard,BrkFace,362,PConc,1032,431,1463,Ex,1500,1122,2622,1,0,2,3,1,Gd,325000
+20,RL,10357,Corner,SawyerW,1Fam,1Story,7,5,1990,Hip,HdBoard,None,0,PConc,738,172,910,Gd,1442,0,1442,1,0,2,3,1,Gd,179900
+60,RL,23257,CulDSac,Gilbert,1Fam,2Story,7,5,2006,Gable,VinylSd,None,0,PConc,0,868,868,Ex,887,1134,2021,0,0,2,3,1,Gd,274725
+60,RL,8063,Inside,Gilbert,1Fam,2Story,6,5,2000,Gable,VinylSd,None,0,PConc,0,924,924,Ex,948,742,1690,0,0,2,3,1,TA,181000
+20,RL,11362,Inside,NridgHt,1Fam,1Story,8,5,2004,Gable,MetalSd,Stone,42,PConc,1039,797,1836,Ex,1836,0,1836,1,0,2,3,1,Gd,280000
+60,RL,8000,Inside,Gilbert,1Fam,2Story,6,5,1995,Gable,HdBoard,None,0,PConc,219,554,773,Gd,773,885,1658,1,0,2,3,1,TA,188000
+60,RL,10480,Inside,NWAmes,1Fam,2Story,7,6,1976,Hip,Plywood,BrkFace,660,CBlock,403,400,803,TA,1098,866,1964,0,0,2,4,1,TA,205000
+20,RL,7100,Corner,NAmes,1Fam,1Story,5,7,1957,Gable,WdShing,None,0,CBlock,708,108,816,TA,816,0,816,1,0,1,2,1,TA,129900
+20,RL,8923,Inside,NAmes,1Fam,1Story,5,7,1953,Gable,Wd Sdng,None,0,CBlock,643,365,1008,Gd,1008,0,1008,1,0,1,2,1,Gd,134500
+20,RL,5400,Inside,OldTown,1Fam,1Story,5,7,1954,Gable,MetalSd,None,0,CBlock,415,418,833,Ex,833,0,833,0,0,1,2,1,Gd,117000
+20,RL,12085,Inside,NridgHt,1Fam,1Story,8,5,2007,Hip,VinylSd,Stone,328,PConc,1004,730,1734,Ex,1734,0,1734,1,0,2,3,1,Ex,318000
+80,RL,7750,Inside,Gilbert,1Fam,SLvl,8,5,2002,Hip,VinylSd,None,0,PConc,353,55,408,Ex,779,640,1419,1,0,2,3,1,Gd,184100
+20,RL,9764,FR2,Sawyer,1Fam,1Story,5,7,1967,Gable,VinylSd,None,0,CBlock,702,192,894,Ex,894,0,894,1,0,1,3,1,Gd,130000
+80,RL,13825,Inside,Sawyer,1Fam,SLvl,5,6,1958,Gable,MetalSd,None,0,CBlock,0,533,533,TA,1021,580,1601,0,1,1,3,1,TA,140000
+20,RL,7560,Inside,NAmes,1Fam,1Story,5,5,1959,Gable,BrkFace,None,0,CBlock,369,671,1040,TA,1040,0,1040,0,0,1,3,1,TA,133700
+30,RM,8263,Inside,IDOTRR,1Fam,1Story,6,5,1920,Gable,BrkFace,None,0,BrkTil,0,1012,1012,TA,1012,0,1012,0,0,1,2,1,TA,118400
+20,RL,10084,Inside,CollgCr,1Fam,1Story,7,5,2005,Gable,VinylSd,BrkFace,196,PConc,24,1528,1552,Ex,1552,0,1552,0,0,2,3,1,Gd,212900
+20,RL,8926,Corner,Edwards,1Fam,1Story,4,3,1956,Gable,AsbShng,None,0,CBlock,0,672,672,Ex,960,0,960,0,0,1,3,1,TA,112000
+20,RL,9405,Inside,Edwards,1Fam,1Story,5,9,1947,Hip,VinylSd,None,0,CBlock,0,698,698,Ex,698,0,698,0,1,1,2,1,TA,118000
+80,RL,9125,Inside,Gilbert,1Fam,SLvl,7,5,1992,Gable,HdBoard,BrkFace,170,PConc,0,384,384,Gd,812,670,1482,0,0,2,3,1,Gd,163900
+20,RL,10434,Inside,NAmes,1Fam,1Story,4,5,1955,Gable,Plywood,None,0,CBlock,0,1005,1005,TA,1005,0,1005,0,0,1,2,1,Fa,115000
+120,RL,3684,Inside,Blmngtn,TwnhsE,1Story,7,5,2007,Hip,VinylSd,BrkFace,130,PConc,0,1373,1373,Ex,1555,0,1555,0,0,2,2,1,Gd,174000
+20,RL,14572,Corner,Gilbert,1Fam,1Story,7,5,2004,Hip,VinylSd,None,0,PConc,1300,230,1530,Ex,1530,0,1530,1,0,2,3,1,Gd,259000
+60,RL,11796,Inside,Gilbert,1Fam,2Story,7,5,2004,Gable,VinylSd,None,0,PConc,0,847,847,Ex,847,1112,1959,0,0,2,4,1,Gd,215000
+90,RM,7200,Inside,OldTown,Duplex,SFoyer,5,5,1980,Gable,MetalSd,BrkFace,180,CBlock,936,0,936,TA,936,0,936,1,0,1,2,1,TA,140000
+50,RL,7804,Inside,SWISU,1Fam,1.5Fin,4,3,1928,Gable,WdShing,None,0,BrkTil,622,500,1122,TA,1328,653,1981,1,0,2,4,1,Gd,135000
+20,RL,10712,Inside,Mitchel,1Fam,1Story,5,5,1991,Gable,HdBoard,None,0,PConc,212,762,974,TA,974,0,974,0,0,1,3,1,TA,93500
+70,RM,9900,Inside,OldTown,1Fam,2Story,6,4,1880,Gable,Wd Sdng,None,0,BrkTil,0,1008,1008,TA,1178,1032,2210,0,0,2,5,1,Fa,117500
+60,RL,9828,Inside,SawyerW,1Fam,2Story,8,5,1995,Gable,VinylSd,None,0,PConc,584,544,1128,Ex,1142,878,2020,0,0,2,3,1,Gd,239500
+60,RL,8773,Inside,Gilbert,1Fam,2Story,6,5,1997,Gable,VinylSd,None,0,PConc,0,916,916,Gd,916,684,1600,0,0,2,3,1,TA,169000
+30,RM,6180,Corner,BrkSide,1Fam,1Story,6,5,1926,Gable,Wd Sdng,None,0,BrkTil,0,960,960,TA,986,0,986,0,0,1,2,1,TA,102000
+50,RL,9600,Inside,NAmes,1Fam,1.5Fin,6,5,1950,Gable,VinylSd,None,0,CBlock,280,752,1032,TA,1032,220,1252,0,0,1,3,1,TA,119000
+50,RL,6342,Inside,Sawyer,1Fam,1.5Fin,5,8,1875,Gable,VinylSd,None,0,CBlock,0,780,780,Gd,780,240,1020,0,0,1,2,1,TA,94000
+20,RL,9819,Inside,Mitchel,1Fam,1Story,6,5,1977,Gable,Plywood,None,0,PConc,1567,0,1567,TA,1567,0,1567,1,0,2,2,1,Gd,196000
+30,RL,8731,Inside,BrkSide,1Fam,1Story,5,5,1920,Gable,Stucco,None,0,BrkTil,645,270,915,TA,1167,0,1167,0,0,1,3,1,TA,144000
+20,RL,7350,Corner,NAmes,1Fam,1Story,5,7,1951,Gable,HdBoard,None,0,CBlock,852,100,952,TA,952,0,952,1,0,1,2,1,TA,139000
+60,RL,10304,CulDSac,NWAmes,1Fam,2Story,5,7,1976,Gable,Plywood,BrkFace,44,CBlock,381,399,780,Ex,1088,780,1868,1,0,2,4,1,Gd,197500
+60,RL,9965,Inside,CollgCr,1Fam,2Story,8,5,2006,Hip,VinylSd,Stone,340,PConc,1150,316,1466,Ex,1466,1362,2828,1,0,3,4,1,Gd,424870
+20,RL,9000,Inside,Sawyer,1Fam,1Story,5,3,1959,Gable,Wd Sdng,None,0,CBlock,288,718,1006,TA,1006,0,1006,0,0,1,3,1,TA,80000
+190,RL,12180,Inside,Edwards,2fmCon,1.5Fin,4,4,1941,Gable,MetalSd,None,0,BrkTil,348,324,672,Fa,672,252,924,1,0,1,2,1,Fa,80000
+50,RM,6240,Inside,BrkSide,1Fam,1.5Fin,5,6,1928,Gable,MetalSd,None,0,BrkTil,0,1042,1042,Ex,1042,534,1576,0,0,1,3,1,TA,149000
+20,RL,11200,Inside,SawyerW,1Fam,1Story,6,5,1985,Gable,Wd Sdng,BrkFace,85,CBlock,1258,40,1298,TA,1298,0,1298,1,0,2,3,1,Gd,180000
+70,RL,12000,Inside,Crawfor,1Fam,2Story,7,7,1941,Gable,MetalSd,None,0,CBlock,275,429,704,Ex,860,704,1564,0,0,1,3,1,Fa,174500
+50,RM,5700,Inside,OldTown,1Fam,1.5Fin,7,7,1926,Gable,Wd Sdng,None,0,PConc,0,572,572,TA,572,539,1111,0,0,1,2,1,TA,116900
+70,RM,9000,Inside,OldTown,1Fam,2Story,7,9,1920,Hip,VinylSd,None,0,PConc,624,26,650,Ex,832,650,1482,0,1,1,3,1,TA,143000
+20,RL,8280,Inside,NAmes,1Fam,1Story,6,5,1950,Gable,BrkFace,None,0,CBlock,0,932,932,Ex,932,0,932,0,0,1,2,1,Gd,124000
+20,RL,17755,Inside,Edwards,1Fam,1Story,5,4,1959,Gable,HdBoard,BrkFace,132,CBlock,176,1290,1466,TA,1466,0,1466,0,0,1,3,1,Fa,149900
+20,RL,14115,Inside,Crawfor,1Fam,1Story,6,7,1956,Gable,Stone,None,0,PConc,296,230,1073,Ex,1811,0,1811,0,0,1,2,1,Ex,230000
+30,RM,5890,Corner,IDOTRR,1Fam,1Story,6,8,1930,Gable,Wd Sdng,None,0,BrkTil,538,278,816,Ex,816,0,816,0,0,1,2,1,TA,120500
+60,RL,13700,Inside,NAmes,1Fam,2Story,7,6,1965,Gable,VinylSd,Stone,288,CBlock,454,410,864,TA,902,918,1820,0,0,1,4,1,Gd,201800
+20,RL,10768,Corner,Veenker,1Fam,1Story,5,8,1976,Gable,Plywood,None,0,CBlock,1157,280,1437,TA,1437,0,1437,1,0,2,3,1,Gd,218000
+80,RL,9350,Inside,NAmes,1Fam,SLvl,5,8,1965,Gable,BrkFace,None,0,PConc,633,586,1219,Gd,1265,0,1265,0,1,2,3,1,Gd,179900
+120,RL,5001,Inside,NridgHt,Twnhs,1Story,7,5,2007,Gable,VinylSd,Stone,166,PConc,904,410,1314,Ex,1314,0,1314,1,0,2,2,1,Gd,230000
+20,RL,11932,FR2,Somerst,1Fam,1Story,8,5,2007,Gable,VinylSd,Stone,186,PConc,0,1580,1580,Ex,1580,0,1580,0,0,2,3,1,Gd,235128
+60,RL,9120,Inside,NWAmes,1Fam,2Story,6,6,1974,Hip,HdBoard,BrkFace,270,CBlock,442,459,901,TA,943,933,1876,0,0,2,4,1,Gd,185000
+160,RL,2280,Inside,NPkVill,Twnhs,2Story,6,5,1978,Gable,Plywood,None,0,CBlock,311,544,855,Fa,855,601,1456,0,0,2,3,1,TA,146000
+20,RL,14778,CulDSac,Crawfor,1Fam,1Story,6,7,1954,Hip,HdBoard,BrkFace,72,CBlock,728,568,1296,Ex,1640,0,1640,1,0,1,3,1,Gd,224000
+20,RL,8724,Inside,Sawyer,1Fam,1Story,5,5,1968,Gable,VinylSd,None,0,CBlock,492,402,894,Gd,894,0,894,0,0,1,3,1,TA,129000
+90,RL,12900,Inside,Sawyer,Duplex,SFoyer,4,4,1969,Gable,Plywood,None,0,CBlock,1198,0,1198,TA,1258,0,1258,2,0,0,0,2,TA,108959
+80,RL,16157,FR2,Veenker,1Fam,SLvl,5,7,1978,Gable,Plywood,None,0,PConc,680,289,1360,Ex,1432,0,1432,1,0,1,2,1,Gd,194000
+20,RL,9541,Inside,NridgHt,1Fam,1Story,7,5,2009,Gable,VinylSd,Stone,268,PConc,0,1502,1502,Ex,1502,0,1502,0,0,2,3,1,Gd,233170
+20,RL,10475,Corner,CollgCr,1Fam,1Story,8,5,2008,Gable,VinylSd,Stone,72,PConc,0,1694,1694,Ex,1694,0,1694,0,0,2,3,1,Gd,245350
+60,RL,10852,Inside,Gilbert,1Fam,2Story,6,5,2000,Gable,VinylSd,None,0,PConc,786,173,959,Ex,959,712,1671,1,0,2,3,1,TA,173000
+70,RL,13728,Corner,Edwards,1Fam,2Story,6,7,1935,Hip,Stucco,None,0,CBlock,626,501,1127,Ex,1236,872,2108,0,0,2,4,1,Gd,235000
+60,RL,35760,CulDSac,NoRidge,1Fam,2Story,10,5,1995,Hip,HdBoard,BrkFace,1378,PConc,1387,543,1930,Ex,1831,1796,3627,1,0,3,4,1,Gd,625000
+80,RL,9880,Inside,Mitchel,1Fam,SLvl,6,6,1977,Gable,Plywood,None,0,CBlock,522,574,1096,TA,1118,0,1118,1,0,1,3,1,TA,171000
+20,RL,9120,Inside,NAmes,1Fam,1Story,6,6,1958,Hip,MetalSd,None,0,CBlock,662,599,1261,Ex,1261,0,1261,1,0,1,3,1,TA,163000
+160,FV,4017,Inside,Somerst,TwnhsE,2Story,7,5,2006,Gable,MetalSd,None,0,PConc,0,625,625,Ex,625,625,1250,0,0,2,2,1,Gd,171900
+50,RL,18030,Inside,ClearCr,1Fam,1.5Fin,5,6,1946,Gable,MetalSd,None,0,CBlock,152,977,1598,TA,1636,971,3086,0,0,3,3,1,Ex,200500
+70,RL,16560,Inside,Crawfor,1Fam,2Story,6,8,1932,Gable,Wd Sdng,None,0,BrkTil,503,449,952,TA,1170,1175,2345,0,0,2,4,1,TA,239000
+50,RL,10678,Inside,NoRidge,1Fam,1.5Fin,8,5,1992,Hip,HdBoard,BrkFace,337,PConc,700,983,1683,Ex,2129,743,2872,0,0,2,4,1,Gd,285000
+20,RL,6951,CulDSac,Mitchel,1Fam,1Story,5,5,1984,Gable,HdBoard,None,0,CBlock,658,218,876,TA,923,0,923,1,0,1,3,1,TA,119500
+50,RM,3950,Inside,OldTown,1Fam,1.5Fin,6,8,1926,Gable,MetalSd,None,0,CBlock,468,350,818,TA,818,406,1224,0,0,1,3,1,TA,115000
+50,RL,7681,FR2,Crawfor,1Fam,1.5Fin,5,6,1921,Gable,Wd Sdng,None,0,BrkTil,0,731,731,Ex,820,523,1343,0,0,1,3,1,TA,154900
+20,RL,8335,Corner,Edwards,1Fam,1Story,5,5,1954,Gable,Wd Sdng,None,0,Slab,0,0,0,Gd,1124,0,1124,0,0,1,3,1,TA,93000
+60,RL,11170,Corner,Timber,1Fam,2Story,7,5,1990,Gable,MetalSd,None,0,Wood,1216,0,1216,Ex,1298,1216,2514,0,0,2,4,1,TA,250000
+120,RM,5587,Inside,Crawfor,TwnhsE,1Story,8,5,2008,Hip,CemntBd,Stone,186,PConc,1480,120,1600,Ex,1652,0,1652,1,1,2,2,1,Gd,392500
+60,RL,15623,Corner,NoRidge,1Fam,2Story,10,5,1996,Hip,Wd Sdng,None,0,PConc,2096,300,2396,Ex,2411,2065,4476,1,0,3,4,1,Ex,745000
+30,RL,10800,Inside,OldTown,1Fam,1Story,5,6,1920,Hip,Stucco,None,0,BrkTil,821,299,1120,Ex,1130,0,1130,1,0,1,2,1,TA,120000
+20,RL,35133,Inside,Timber,1Fam,1Story,5,4,1963,Hip,MetalSd,BrkFace,226,CBlock,1159,413,1572,Gd,1572,0,1572,1,0,1,3,1,TA,186700
+50,RL,9738,Inside,Edwards,1Fam,1.5Fin,5,7,1924,Gable,AsbShng,None,0,BrkTil,392,392,784,Gd,949,272,1221,1,0,1,4,1,TA,104900
+190,RL,10615,Corner,OldTown,2fmCon,2Story,3,5,1900,Gable,HdBoard,None,0,CBlock,440,538,978,TA,1014,685,1699,1,0,2,3,2,TA,95000
+20,RL,12461,Corner,NoRidge,1Fam,1Story,8,5,1994,Gable,ImStucc,None,0,PConc,1456,168,1624,Ex,1624,0,1624,1,0,2,2,1,Gd,262000
+60,RL,8935,Inside,CollgCr,1Fam,2Story,7,5,2002,Gable,VinylSd,BrkFace,95,PConc,0,831,831,Ex,831,829,1660,0,0,2,3,1,Gd,195000
+60,RL,7500,Inside,Gilbert,1Fam,2Story,7,5,1999,Gable,VinylSd,None,0,PConc,0,994,994,Gd,1028,776,1804,0,0,2,3,1,Gd,189000
+190,RL,32463,Inside,Mitchel,2fmCon,1Story,4,4,1961,Gable,MetalSd,Stone,149,CBlock,1159,90,1249,Ex,1622,0,1622,1,0,1,3,1,TA,168000
+160,FV,2645,Inside,Somerst,Twnhs,2Story,8,5,1999,Gable,MetalSd,BrkFace,456,PConc,0,776,776,Ex,764,677,1441,0,0,2,2,1,Gd,174000
+50,RM,9600,Inside,OldTown,1Fam,1.5Fin,5,8,1925,Gambrel,VinylSd,None,0,PConc,0,702,702,Gd,842,630,1472,0,0,1,3,1,Gd,125000
+120,RM,4500,FR2,Mitchel,TwnhsE,1Story,6,5,1999,Hip,VinylSd,BrkFace,425,PConc,883,341,1224,Ex,1224,0,1224,1,0,2,2,1,TA,165000
+60,RL,9364,Corner,Sawyer,1Fam,2Story,6,7,1969,Gable,HdBoard,Stone,143,CBlock,371,292,663,TA,663,689,1352,0,0,1,4,1,TA,158000
+60,RL,8029,Inside,Gilbert,1Fam,2Story,6,5,2005,Gable,VinylSd,None,0,PConc,0,728,728,Ex,728,728,1456,0,0,2,3,1,Gd,176000
+60,RL,14054,Inside,Gilbert,1Fam,2Story,7,5,2006,Gable,VinylSd,None,0,PConc,0,879,879,Ex,879,984,1863,0,0,2,4,1,Gd,219210
+75,RM,8850,Corner,OldTown,1Fam,2.5Unf,7,6,1916,Gable,MetalSd,None,0,BrkTil,0,815,815,Ex,815,875,1690,0,0,1,3,1,TA,144000
+20,RL,9100,Inside,CollgCr,1Fam,1Story,7,5,2001,Gable,VinylSd,None,0,PConc,0,1212,1212,Ex,1212,0,1212,0,0,2,3,1,Gd,178000
+20,RL,11235,Inside,Sawyer,1Fam,1Story,4,5,1963,Gable,HdBoard,BrkFace,51,CBlock,547,504,1051,Gd,1382,0,1382,0,0,1,3,1,TA,148000
+20,RL,9353,Inside,NAmes,1Fam,1Story,4,5,1970,Gable,MetalSd,None,0,CBlock,0,864,864,Gd,864,0,864,0,0,1,3,1,TA,116050
+60,RL,10400,Corner,CollgCr,1Fam,2Story,7,5,1998,Gable,VinylSd,None,0,PConc,0,866,866,Ex,866,913,1779,0,0,2,3,1,Gd,197900
+50,RM,6000,Corner,BrkSide,1Fam,1.5Fin,5,8,1925,Gable,Wd Sdng,None,0,BrkTil,0,884,884,Ex,884,464,1348,1,0,1,3,1,TA,117000
+20,RL,9750,Inside,CollgCr,1Fam,1Story,7,5,2000,Gable,VinylSd,BrkFace,171,PConc,0,1630,1630,Ex,1630,0,1630,0,0,2,3,1,Gd,213000
+20,RL,10140,Inside,NWAmes,1Fam,1Story,5,6,1975,Gable,HdBoard,None,0,CBlock,788,268,1056,Ex,1074,0,1074,1,0,1,3,1,TA,153500
+20,RL,14684,CulDSac,SawyerW,1Fam,1Story,7,7,1990,Hip,HdBoard,BrkFace,234,CBlock,485,1496,2158,Gd,2196,0,2196,0,0,2,3,1,Gd,271900
+20,RH,8900,Inside,SawyerW,1Fam,1Story,4,4,1966,Gable,HdBoard,None,0,CBlock,1056,0,1056,TA,1056,0,1056,1,0,1,2,1,TA,107000
+20,RL,9135,Inside,CollgCr,1Fam,1Story,6,5,2003,Gable,VinylSd,BrkFace,120,PConc,340,1342,1682,Ex,1700,0,1700,1,0,2,3,1,Gd,200000
+20,RL,7763,Inside,NAmes,1Fam,1Story,5,7,1962,Gable,MetalSd,None,0,CBlock,504,319,931,TA,1283,0,1283,1,0,1,3,1,TA,140000
+20,RL,10182,CulDSac,Somerst,1Fam,1Story,8,5,2006,Hip,VinylSd,Stone,420,PConc,1220,440,1660,Ex,1660,0,1660,1,0,2,3,1,Gd,290000
+60,RL,11218,Inside,SawyerW,1Fam,2Story,6,5,1992,Gable,Wd Sdng,None,0,PConc,0,1055,1055,Ex,1055,790,1845,0,0,2,3,1,Gd,189000
+50,RL,12134,Inside,Gilbert,1Fam,1.5Fin,8,7,1988,Gable,Wd Sdng,None,0,Wood,427,132,559,Gd,1080,672,1752,0,0,2,4,1,TA,164000
+30,RL,9340,Inside,Edwards,1Fam,1Story,4,6,1941,Hip,MetalSd,None,0,CBlock,344,328,672,TA,672,0,672,1,0,1,2,1,TA,113000
+80,RL,10246,CulDSac,Sawyer,1Fam,SLvl,4,9,1965,Gable,VinylSd,None,0,CBlock,648,0,648,Ex,960,0,960,1,1,0,0,1,TA,145000
+85,RL,10205,Inside,NAmes,1Fam,SFoyer,5,5,1962,Gable,MetalSd,None,0,CBlock,784,141,925,TA,999,0,999,1,0,1,3,1,TA,134500
+20,RL,7094,Inside,Sawyer,1Fam,1Story,5,5,1966,Gable,VinylSd,None,0,CBlock,180,340,894,TA,894,0,894,0,0,1,3,1,TA,125000
+90,RM,8930,Inside,Sawyer,Duplex,1.5Fin,6,5,1978,Gable,VinylSd,None,0,Slab,0,0,0,TA,1318,584,1902,0,0,2,4,2,TA,112000
+20,FV,8640,Inside,Somerst,1Fam,1Story,8,5,2009,Gable,CemntBd,Stone,72,PConc,936,364,1300,Ex,1314,0,1314,1,0,2,3,1,Gd,229456
+50,RM,6240,Inside,BrkSide,1Fam,1.5Fin,4,5,1947,Gable,AsbShng,None,0,Slab,0,0,0,Gd,672,240,912,0,0,1,2,1,TA,80500
+160,RM,1680,Inside,BrDale,Twnhs,2Story,6,5,1971,Gable,CemntBd,BrkFace,236,CBlock,0,672,672,TA,672,546,1218,0,0,1,3,1,TA,91500
+20,RL,7800,Inside,NAmes,1Fam,1Story,5,5,1964,Gable,Wd Sdng,None,0,CBlock,312,0,912,TA,912,0,912,0,0,1,2,1,TA,115000
+20,RL,8250,Inside,Sawyer,1Fam,1Story,5,5,1968,Hip,HdBoard,None,0,CBlock,250,210,952,Ex,1211,0,1211,0,0,1,3,1,TA,134000
+50,RL,10496,Inside,NAmes,1Fam,1.5Fin,6,6,1949,Gable,Wd Sdng,BrkFace,320,CBlock,196,844,1040,Ex,1168,678,1846,0,0,2,3,1,TA,143000
+20,RL,10680,Inside,NAmes,1Fam,1Story,5,3,1951,Hip,Wd Sdng,BrkFace,44,CBlock,756,1380,2136,TA,2136,0,2136,0,0,2,4,1,TA,137900
+60,RL,15384,Inside,Gilbert,1Fam,2Story,7,5,2004,Gable,VinylSd,None,0,PConc,724,64,788,Ex,788,702,1490,1,0,2,3,1,Gd,184000
+80,RL,10482,Inside,NAmes,1Fam,SLvl,6,8,1958,Hip,VinylSd,BrkFace,63,CBlock,507,81,588,Ex,1138,0,1138,0,1,1,3,1,TA,145000
+60,RL,14598,CulDSac,Somerst,1Fam,2Story,6,5,2007,Gable,VinylSd,Stone,74,PConc,0,894,894,Ex,894,1039,1933,0,0,2,4,1,Gd,214000
+20,RL,8872,Corner,NAmes,1Fam,1Story,5,8,1965,Gable,VinylSd,BrkFace,300,CBlock,595,317,912,Ex,912,0,912,1,0,1,2,1,Gd,147000
+120,RL,8769,Corner,NridgHt,TwnhsE,1Story,9,5,2008,Hip,MetalSd,BrkFace,766,PConc,1540,162,1702,Ex,1702,0,1702,1,0,1,1,1,Ex,367294
+80,RL,7910,Inside,NAmes,1Fam,SLvl,5,5,1960,Hip,BrkFace,None,0,CBlock,666,409,1075,Gd,1507,0,1507,0,0,2,4,1,TA,127000
+90,RL,18890,Inside,Sawyer,Duplex,1.5Fin,5,5,1977,Shed,Plywood,None,1,CBlock,498,652,1361,Ex,1361,1259,2620,0,0,2,4,2,TA,190000
+90,RL,7728,Inside,NAmes,Duplex,SLvl,5,6,1962,Hip,Wd Sdng,BrkFace,120,CBlock,803,303,1106,TA,1190,0,1190,1,0,1,3,1,TA,132500
+90,RL,9842,FR2,NAmes,Duplex,1Story,4,5,1962,Gable,HdBoard,None,0,Slab,0,0,0,TA,1224,0,1224,0,0,2,2,2,TA,101800
+20,RL,12160,Inside,NAmes,1Fam,1Story,5,5,1959,Hip,Plywood,BrkFace,180,CBlock,1000,188,1188,Fa,1188,0,1188,1,0,1,3,1,TA,142000
+70,RH,8525,Inside,SWISU,1Fam,2Story,5,6,1911,Gable,MetalSd,None,0,PConc,0,940,940,TA,1024,940,1964,0,0,1,4,1,TA,130000
+70,RL,13132,Inside,Crawfor,1Fam,2Story,5,5,1914,Gable,Wd Sdng,None,0,BrkTil,0,747,747,Gd,892,892,1784,0,0,1,4,1,TA,138887
+160,RL,2628,Inside,NridgHt,Twnhs,2Story,7,5,2003,Gable,VinylSd,Stone,106,PConc,0,764,764,Ex,764,862,1626,0,0,2,2,1,Gd,175500
+60,RL,12393,FR2,CollgCr,1Fam,2Story,7,5,2004,Gable,VinylSd,None,0,PConc,0,847,847,Ex,847,1101,1948,0,0,2,4,1,Gd,195000
+20,RL,13072,Inside,SawyerW,1Fam,1Story,6,5,2005,Gable,VinylSd,None,0,PConc,0,1141,1141,Ex,1141,0,1141,0,0,1,3,1,TA,142500
+20,RL,9037,Inside,Timber,1Fam,1Story,8,5,2006,Hip,VinylSd,BrkFace,32,PConc,428,1048,1476,Ex,1484,0,1484,0,0,2,2,1,Ex,265900
+60,RL,8158,Inside,CollgCr,1Fam,2Story,7,5,2003,Gable,VinylSd,BrkFace,252,PConc,550,334,884,Ex,884,884,1768,1,0,2,3,1,Gd,224900
+20,RL,9849,Inside,Somerst,1Fam,1Story,7,6,2007,Hip,VinylSd,Stone,0,PConc,0,1689,1689,Ex,1689,0,1689,0,0,2,3,1,Gd,248328
+85,RL,10625,Inside,NWAmes,1Fam,SFoyer,7,6,1974,Gable,Plywood,BrkFace,81,CBlock,885,0,1053,TA,1173,0,1173,1,0,2,3,1,Gd,170000
+20,RL,13891,Inside,NridgHt,1Fam,1Story,10,5,2006,Gable,VinylSd,NA,NA,PConc,1386,690,2076,Ex,2076,0,2076,1,0,2,2,1,Ex,465000
+70,RL,11435,Corner,Crawfor,1Fam,2Story,8,7,1929,Gable,BrkFace,None,0,PConc,0,792,792,Fa,792,725,1517,0,0,1,3,1,Gd,230000
+80,RL,12090,Inside,NWAmes,1Fam,SLvl,6,7,1984,Hip,VinylSd,BrkFace,74,CBlock,0,585,585,Ex,1140,728,1868,0,0,3,3,1,TA,178000
+60,FV,8125,Inside,Somerst,1Fam,2Story,7,5,2005,Gable,VinylSd,None,0,PConc,0,756,756,Ex,756,797,1553,0,0,2,3,1,Gd,186500
+80,RL,12328,Inside,Mitchel,1Fam,SLvl,6,5,1976,Gable,HdBoard,BrkFace,335,CBlock,539,473,1012,TA,1034,0,1034,1,0,1,3,1,TA,169900
+75,RM,9600,Inside,OldTown,1Fam,2.5Unf,6,5,1917,Gable,AsbShng,None,0,BrkTil,319,416,735,Fa,1134,924,2058,0,0,1,3,1,TA,129500
+20,RL,7200,Inside,NAmes,1Fam,1Story,5,7,1950,Gable,MetalSd,None,0,CBlock,534,246,876,TA,988,0,988,0,0,1,3,1,TA,119000
+20,RL,11160,Corner,NAmes,1Fam,1Story,7,5,1968,Hip,BrkFace,None,0,CBlock,1065,1045,2110,Ex,2110,0,2110,1,0,2,3,1,Ex,244000
+120,RL,3136,Corner,NridgHt,TwnhsE,1Story,7,5,2003,Gable,VinylSd,Stone,163,PConc,0,1405,1405,Ex,1405,0,1405,0,0,2,2,1,Gd,171750
+20,RL,9858,Inside,Mitchel,1Fam,1Story,5,6,1968,Gable,HdBoard,None,0,CBlock,510,354,864,TA,874,0,874,1,0,1,3,1,TA,130000
+60,RL,17542,Inside,Veenker,1Fam,2Story,7,7,1974,Gable,Wd Sdng,None,0,CBlock,125,36,1192,TA,1516,651,2167,1,0,2,3,1,Gd,294000
+60,RL,6931,Inside,Edwards,1Fam,2Story,7,5,2003,Gable,VinylSd,Stone,92,PConc,0,746,746,Ex,760,896,1656,0,0,2,3,1,Gd,165400
+50,RM,6240,Inside,BrkSide,1Fam,1.5Fin,6,6,1931,Gable,Wd Sdng,None,0,BrkTil,425,459,884,TA,959,408,1367,0,0,1,3,1,TA,127500
+20,RL,14303,Corner,NoRidge,1Fam,1Story,8,5,1994,Hip,HdBoard,BrkFace,554,PConc,1314,672,1986,Ex,1987,0,1987,1,0,2,2,1,Gd,301500
+30,RL,4060,Corner,Edwards,1Fam,1Story,5,8,1922,Gable,Wd Sdng,None,0,PConc,0,864,864,Ex,864,0,864,0,0,1,2,1,TA,99900
+80,RL,9587,Inside,Gilbert,1Fam,SLvl,7,5,2005,Gable,VinylSd,Stone,182,PConc,655,201,856,Ex,1166,0,1166,1,0,2,2,1,Gd,190000
+20,RL,9750,FR2,NAmes,1Fam,1Story,6,8,1969,Gable,HdBoard,None,0,CBlock,602,14,1054,Gd,1054,0,1054,1,0,1,3,1,TA,151000
+60,RL,24682,CulDSac,Gilbert,1Fam,2Story,6,5,1999,Gable,VinylSd,None,0,PConc,0,841,841,Ex,892,783,1675,0,0,2,3,1,TA,181000
+20,RL,9600,Inside,NAmes,1Fam,1Story,5,6,1956,Hip,MetalSd,None,0,CBlock,504,546,1050,Gd,1050,0,1050,0,0,1,2,1,TA,128900
+50,RL,11250,Inside,ClearCr,1Fam,1.5Fin,4,5,1957,Gable,Wd Sdng,None,0,CBlock,0,1104,1104,Ex,1104,684,1788,1,0,1,5,1,TA,161500
+70,RL,13515,Inside,BrkSide,1Fam,2Story,6,6,1919,Gambrel,Wd Sdng,None,0,PConc,0,764,764,Ex,1060,764,1824,0,0,1,3,1,TA,180500
+120,RH,4060,Inside,NAmes,TwnhsE,1Story,6,5,1998,Gable,MetalSd,None,0,PConc,266,1139,1405,Ex,1337,0,1337,1,0,2,2,1,Gd,181000
+160,FV,3735,FR3,Somerst,TwnhsE,2Story,7,5,1999,Hip,MetalSd,BrkFace,218,PConc,450,241,691,Ex,713,739,1452,1,0,2,3,1,Gd,183900
+190,RM,10120,Inside,OldTown,2fmCon,2.5Unf,7,4,1910,Hip,Wd Sdng,None,0,CBlock,0,925,925,TA,964,925,1889,0,0,1,4,2,TA,122000
+20,RL,13214,Inside,Timber,1Fam,1Story,9,5,2008,Hip,Stucco,None,0,PConc,0,2002,2002,Ex,2018,0,2018,0,0,2,3,1,Ex,378500
+50,RL,14100,Inside,Crawfor,1Fam,1.5Fin,8,9,1935,Gable,Stucco,BrkFace,632,CBlock,192,536,728,Ex,1968,1479,3447,0,0,3,4,1,Gd,381000
+50,RL,11344,Inside,NAmes,1Fam,1.5Fin,5,5,1958,Gable,MetalSd,BrkFace,180,CBlock,460,414,874,TA,874,650,1524,0,0,1,3,1,TA,144000
+40,RL,23595,Inside,ClearCr,1Fam,1Story,7,6,1979,Shed,Plywood,None,0,PConc,1258,74,1332,TA,1332,192,1524,2,0,0,0,1,Gd,260000
+20,RL,9156,Inside,NWAmes,1Fam,1Story,6,7,1968,Hip,BrkFace,None,0,CBlock,0,1489,1489,Gd,1489,0,1489,0,0,2,3,1,Gd,185750
+20,RL,13526,CulDSac,Sawyer,1Fam,1Story,5,6,1965,Hip,HdBoard,BrkFace,114,CBlock,560,0,935,TA,935,0,935,1,0,1,3,1,TA,137000
+80,RL,11512,Corner,Edwards,1Fam,SLvl,6,7,1959,Gable,Plywood,BrkFace,84,CBlock,719,300,1019,Gd,1357,0,1357,1,0,1,2,1,Ex,177000
+50,RL,5362,Corner,Crawfor,1Fam,1.5Fin,5,6,1910,Gable,Wd Sdng,None,0,PConc,0,661,661,Ex,661,589,1250,0,0,2,3,1,TA,139000
+90,RL,11345,Corner,NAmes,Duplex,2Story,5,5,1948,Gable,AsbShng,Stone,567,CBlock,220,708,928,Gd,928,992,1920,0,0,2,4,2,TA,137000
+60,RL,12936,CulDSac,NWAmes,1Fam,2Story,6,6,1972,Gable,HdBoard,None,0,CBlock,593,130,723,TA,735,660,1395,0,1,1,3,1,TA,162000
+80,RL,17871,CulDSac,NWAmes,1Fam,SLvl,6,5,1967,Gable,HdBoard,BrkFace,359,CBlock,528,1152,1680,Fa,1724,0,1724,1,0,1,3,1,TA,197900
+60,RL,9473,Inside,CollgCr,1Fam,2Story,8,5,2002,Gable,VinylSd,NA,NA,PConc,804,324,1128,Ex,1128,903,2031,1,0,2,3,1,Gd,237000
+50,C (all),7500,Inside,IDOTRR,1Fam,1.5Fin,4,4,1920,Gable,MetalSd,None,0,CBlock,0,698,698,TA,698,430,1128,0,0,1,2,1,TA,68400
+20,RL,9808,Inside,CollgCr,1Fam,1Story,7,5,2002,Gable,VinylSd,BrkFace,110,PConc,788,785,1573,Ex,1573,0,1573,1,0,2,3,1,Gd,227000
+20,RL,8049,CulDSac,Timber,1Fam,1Story,7,5,1990,Hip,HdBoard,BrkFace,54,CBlock,1053,256,1309,TA,1339,0,1339,1,0,2,2,1,TA,180000
+20,RL,8800,Inside,CollgCr,1Fam,1Story,5,7,1977,Gable,HdBoard,None,0,CBlock,532,364,1040,TA,1040,0,1040,0,0,2,3,1,Gd,150500
+90,RL,9400,Corner,Mitchel,Duplex,2Story,6,5,1971,Mansard,MetalSd,None,0,CBlock,0,912,912,TA,912,912,1824,0,0,2,4,2,TA,139000
+50,RL,9638,Inside,SWISU,1Fam,1.5Fin,6,7,1919,Gable,Wd Sdng,None,0,PConc,0,804,804,Ex,1699,748,2447,0,0,2,4,1,Gd,169000
+50,RM,6000,Inside,BrkSide,1Fam,1.5Fin,6,6,1939,Gable,MetalSd,None,0,CBlock,0,780,780,Ex,825,587,1412,0,0,1,4,1,TA,132500
+20,RL,9790,Inside,NWAmes,1Fam,1Story,6,5,1963,Hip,HdBoard,BrkFace,451,CBlock,569,678,1328,TA,1328,0,1328,1,0,1,3,1,TA,143000
+20,RL,36500,Inside,ClearCr,1Fam,1Story,5,5,1964,Gable,Wd Sdng,BrkCmn,621,CBlock,812,812,1624,Fa,1582,0,1582,0,1,2,4,1,TA,190000
+120,RL,5664,Inside,StoneBr,TwnhsE,1Story,8,5,2000,Gable,CemntBd,None,0,PConc,1158,343,1501,Ex,1659,0,1659,1,0,2,2,1,Ex,278000
+60,RL,11065,Inside,NridgHt,1Fam,2Story,8,5,2006,Gable,VinylSd,Stone,788,PConc,0,1085,1085,Ex,1120,850,1970,0,0,2,3,1,Ex,281000
+80,RL,14112,Corner,NAmes,1Fam,SLvl,5,7,1964,Hip,Wd Sdng,BrkFace,86,PConc,1014,138,1152,TA,1152,0,1152,1,0,1,3,1,TA,180500
+160,RM,1680,Inside,BrDale,Twnhs,2Story,5,7,1972,Gable,CemntBd,BrkFace,268,CBlock,231,399,630,TA,630,672,1302,0,0,2,3,1,TA,119500
+70,RM,6600,Corner,OldTown,1Fam,2Story,5,4,1892,Gable,Wd Sdng,None,0,Stone,0,994,994,TA,1378,994,2372,0,0,2,4,2,TA,107500
+60,RL,10140,Inside,NWAmes,1Fam,2Story,7,5,1976,Gable,HdBoard,None,0,PConc,194,638,832,TA,832,832,1664,0,0,2,4,1,TA,162900
+20,RL,8172,Inside,Edwards,1Fam,1Story,5,7,1955,Hip,WdShing,None,0,CBlock,167,697,864,TA,864,0,864,1,0,1,2,1,TA,115000
+20,RL,8400,Inside,NAmes,1Fam,1Story,5,5,1968,Hip,HdBoard,BrkFace,168,CBlock,1016,36,1052,Gd,1052,0,1052,1,0,1,3,1,TA,138500
+20,RL,8700,Inside,NAmes,1Fam,1Story,5,6,1963,Hip,MetalSd,BrkFace,148,CBlock,776,344,1120,Gd,1128,0,1128,1,0,2,3,1,TA,155000
+180,RM,3675,Inside,Edwards,TwnhsE,SFoyer,6,5,2005,Gable,VinylSd,BrkFace,82,PConc,547,0,547,Gd,1072,0,1072,1,0,2,2,1,TA,140000
+60,RL,63887,Corner,Edwards,1Fam,2Story,10,5,2008,Hip,Stucco,Stone,796,PConc,5644,466,6110,Ex,4692,950,5642,2,0,2,3,1,Ex,160000
+20,RL,7500,Inside,NAmes,1Fam,1Story,5,7,1959,Hip,BrkFace,None,0,CBlock,340,0,1246,Ex,1246,0,1246,1,0,1,3,1,Gd,154000
+60,RL,10762,CulDSac,Gilbert,1Fam,2Story,7,5,1999,Gable,VinylSd,None,344,PConc,694,284,978,Ex,1005,978,1983,0,0,2,3,1,Gd,225000
+70,RL,7500,Inside,Crawfor,1Fam,2Story,6,7,1942,Gable,Wd Sdng,None,0,CBlock,547,224,771,Fa,753,741,1494,0,0,1,3,1,Gd,177500
+60,RL,10120,Inside,NoRidge,1Fam,2Story,8,5,1994,Hip,VinylSd,BrkFace,391,PConc,740,425,1165,Ex,1203,1323,2526,1,0,2,4,1,Gd,290000
+20,RL,8688,Inside,Somerst,1Fam,1Story,7,5,2005,Gable,VinylSd,BrkFace,228,PConc,0,1616,1616,Ex,1616,0,1616,0,0,2,3,1,Gd,232000
+160,RM,3363,Inside,Edwards,TwnhsE,2Story,7,5,2004,Gable,VinylSd,Stone,117,PConc,0,976,976,Ex,976,732,1708,0,0,2,3,1,Gd,130000
+20,RL,13173,Corner,NridgHt,1Fam,1Story,9,5,2006,Hip,VinylSd,Stone,300,PConc,1572,80,1652,Ex,1652,0,1652,1,0,2,2,1,Ex,325000
+120,RL,6955,Inside,NridgHt,TwnhsE,1Story,7,5,2005,Gable,VinylSd,Stone,94,PConc,0,1368,1368,Ex,1368,0,1368,0,0,2,2,1,Gd,202500
+20,RL,8072,Inside,CollgCr,1Fam,1Story,5,5,1994,Gable,VinylSd,None,0,PConc,746,244,990,Ex,990,0,990,1,0,1,3,1,TA,138000
+20,RM,12000,Inside,OldTown,1Fam,1Story,5,7,1948,Gable,MetalSd,None,0,CBlock,144,172,924,Ex,1122,0,1122,1,0,1,2,1,Gd,147000
+20,RL,7153,Inside,SawyerW,1Fam,1Story,6,5,1991,Gable,HdBoard,BrkFace,88,CBlock,1200,78,1278,Gd,1294,0,1294,1,0,2,3,1,Gd,179200
+20,RL,17500,Inside,Crawfor,1Fam,1Story,7,8,1959,Gable,BrkFace,None,0,PConc,1406,496,1902,TA,1902,0,1902,1,0,2,3,1,Ex,335000
+20,RL,8814,Inside,CollgCr,1Fam,1Story,7,5,2005,Gable,VinylSd,BrkFace,80,PConc,925,349,1274,Ex,1274,0,1274,1,0,2,3,1,Gd,203000
+60,RL,9572,Inside,NoRidge,1Fam,2Story,8,5,1990,Gable,Wd Sdng,BrkFace,336,PConc,482,971,1453,Ex,1453,1357,2810,0,0,2,4,1,Gd,302000
+60,RL,14774,Corner,NoRidge,1Fam,2Story,9,5,1999,Gable,VinylSd,BrkFace,165,PConc,0,1393,1393,Ex,1422,1177,2599,0,0,2,4,1,Gd,333168
+20,RL,8190,Inside,Edwards,1Fam,1Story,4,6,1954,Hip,Wd Sdng,None,0,CBlock,732,216,948,Ex,948,0,948,1,0,1,3,1,TA,119000
+60,RL,11075,Inside,NAmes,1Fam,2Story,6,5,1969,Gable,HdBoard,None,0,CBlock,500,176,952,TA,1092,1020,2112,0,0,2,4,1,TA,206900
+20,RL,10226,Inside,CollgCr,1Fam,1Story,8,5,2008,Gable,VinylSd,Stone,270,PConc,0,1622,1622,Ex,1630,0,1630,1,0,2,3,1,Ex,295493
+120,FV,4230,Corner,Somerst,TwnhsE,1Story,7,5,2006,Gable,VinylSd,None,0,PConc,0,1352,1352,Ex,1352,0,1352,0,0,2,2,1,Gd,208900
+20,RL,14781,CulDSac,CollgCr,1Fam,1Story,8,5,2001,Hip,VinylSd,BrkFace,178,PConc,0,1753,1753,Ex,1787,0,1787,0,0,2,3,1,Gd,275000
+20,RL,10215,Inside,Edwards,1Fam,1Story,4,5,1954,Hip,Wd Sdng,BrkFace,132,PConc,492,372,864,Ex,948,0,948,0,0,1,3,1,TA,111000
+20,RL,8400,Inside,NAmes,1Fam,1Story,6,3,1957,Hip,BrkFace,None,0,CBlock,189,628,1478,Gd,1478,0,1478,1,0,1,3,1,TA,156500
+20,RL,6627,Corner,BrkSide,1Fam,1Story,3,6,1949,Hip,VinylSd,None,0,CBlock,0,0,0,TA,720,0,720,0,0,1,2,1,TA,72500
+60,RL,10186,Inside,NoRidge,1Fam,2Story,7,5,1992,Gable,HdBoard,None,0,PConc,674,76,750,Ex,1061,862,1923,1,0,2,3,1,Gd,190000
+30,RL,5330,Inside,BrkSide,1Fam,1Story,4,7,1940,Hip,VinylSd,None,0,CBlock,280,140,420,Gd,708,0,708,0,0,1,2,1,Fa,82500
+20,RL,9986,Inside,Somerst,1Fam,1Story,8,5,2006,Gable,VinylSd,BrkFace,428,PConc,0,1795,1795,Ex,1795,0,1795,0,0,2,2,1,Gd,147000
+30,RM,3636,Inside,IDOTRR,1Fam,1Story,4,4,1922,Gable,AsbShng,None,0,BrkTil,0,796,796,Fa,796,0,796,0,0,1,2,1,TA,55000
+30,RH,4270,Inside,Edwards,1Fam,1Story,3,6,1931,Gable,MetalSd,None,0,BrkTil,544,0,544,Ex,774,0,774,0,0,1,3,1,Gd,79000
+20,RL,6600,Inside,Mitchel,1Fam,1Story,5,9,1982,Gable,VinylSd,None,0,CBlock,641,175,816,Ex,816,0,816,0,1,1,3,1,Gd,130500
+50,RM,10440,Corner,OldTown,1Fam,1.5Fin,6,7,1920,Gable,BrkFace,None,0,BrkTil,493,1017,1510,Ex,1584,1208,2792,0,0,2,5,1,TA,256000
+60,RL,9084,Inside,Gilbert,1Fam,2Story,7,5,1998,Hip,VinylSd,None,0,PConc,0,935,935,Gd,955,677,1632,0,0,2,3,1,TA,176500
+20,RL,10000,Inside,Somerst,1Fam,1Story,8,5,2006,Hip,VinylSd,Stone,410,PConc,0,1588,1588,Ex,1588,0,1588,0,0,2,3,1,Gd,227000
+80,RL,10780,Inside,CollgCr,1Fam,SLvl,5,5,1976,Gable,MetalSd,None,0,CBlock,483,428,911,Gd,954,0,954,0,0,1,3,1,TA,132500
+20,RL,8877,Inside,Edwards,1Fam,1Story,4,6,1938,Gable,MetalSd,None,0,CBlock,690,126,816,Ex,816,0,816,1,0,1,2,1,TA,100000
+50,RM,7200,Corner,IDOTRR,1Fam,1.5Fin,5,6,1938,Gable,Wd Sdng,None,0,CBlock,0,803,803,Ex,803,557,1360,0,0,1,2,1,Gd,125500
+160,RM,2368,Inside,BrDale,TwnhsE,2Story,5,6,1970,Gable,HdBoard,None,312,CBlock,765,0,765,TA,765,600,1365,0,0,1,3,1,TA,125000
+20,RL,9650,Inside,NWAmes,1Fam,1Story,6,5,1977,Gable,Plywood,BrkFace,360,CBlock,686,664,1350,TA,1334,0,1334,0,1,2,2,1,TA,167900
+90,RL,9246,Inside,NWAmes,Duplex,1Story,5,5,1973,Gable,Plywood,BrkFace,564,CBlock,0,1656,1656,TA,1656,0,1656,0,0,2,4,2,TA,135000
+30,RM,4118,Corner,OldTown,1Fam,1Story,4,4,1941,Gable,Wd Sdng,None,0,CBlock,0,693,693,Fa,693,0,693,0,0,1,2,1,Fa,52500
+60,RL,13450,Corner,CollgCr,1Fam,2Story,7,5,2002,Gable,VinylSd,None,0,PConc,700,216,916,Ex,920,941,1861,1,0,2,3,1,Gd,200000
+20,RL,9560,Corner,CollgCr,1Fam,1Story,5,7,1972,Hip,MetalSd,None,0,CBlock,360,504,864,Ex,864,0,864,0,0,1,3,1,TA,128500
+20,RL,8294,Inside,NAmes,1Fam,1Story,4,5,1971,Gable,MetalSd,None,0,CBlock,0,858,858,TA,872,0,872,0,0,1,3,1,TA,123000
+20,RL,13695,Inside,SawyerW,1Fam,1Story,6,5,2003,Gable,VinylSd,None,0,PConc,814,300,1114,Ex,1114,0,1114,1,0,1,3,1,Gd,155000
+60,RL,9375,Inside,CollgCr,1Fam,2Story,8,5,2002,Gable,VinylSd,BrkFace,149,PConc,0,1284,1284,Ex,1284,885,2169,0,0,2,3,1,Gd,228500
+50,RL,7558,Inside,Crawfor,1Fam,1.5Fin,6,6,1928,Gable,BrkFace,None,0,BrkTil,0,896,896,Gd,1172,741,1913,0,0,1,3,1,TA,177000
+60,RL,11103,Corner,CollgCr,1Fam,2Story,7,5,2006,Gable,VinylSd,None,0,PConc,0,728,728,Ex,728,728,1456,0,0,2,3,1,Gd,155835
+30,RM,6000,Inside,OldTown,1Fam,1Story,4,4,1920,Hip,MetalSd,None,0,PConc,250,710,960,Gd,960,0,960,0,0,1,2,1,Fa,108500
+20,RL,20781,CulDSac,NWAmes,1Fam,1Story,7,7,1968,Hip,BrkFace,None,0,CBlock,297,1203,1568,TA,2156,0,2156,0,0,2,3,1,TA,262500
+20,RL,15306,Corner,Timber,1Fam,1Story,8,5,2006,Gable,VinylSd,Stone,100,PConc,80,1652,1732,Ex,1776,0,1776,1,0,2,3,1,Gd,283463
+20,RL,16196,Inside,SawyerW,1Fam,1Story,7,5,1998,Gable,VinylSd,None,0,PConc,1443,39,1482,Ex,1494,0,1494,1,0,2,3,1,Gd,215000
+70,RM,5250,Inside,OldTown,1Fam,2Story,8,5,1872,Gable,MetalSd,None,0,BrkTil,259,425,684,Fa,938,1215,2358,0,0,2,4,1,TA,122000
+90,RL,11643,Inside,NAmes,Duplex,2Story,5,5,1969,Gable,MetalSd,BrkFace,368,CBlock,500,748,1248,TA,1338,1296,2634,1,1,2,6,2,TA,200000
+60,RL,9247,Inside,NAmes,1Fam,2Story,6,6,1962,Gable,HdBoard,BrkFace,318,CBlock,319,539,858,Ex,858,858,1716,0,0,1,4,1,TA,171000
+50,RM,6000,Inside,BrkSide,1Fam,1.5Fin,6,9,1937,Gable,MetalSd,None,0,BrkTil,0,698,698,TA,786,390,1176,0,0,1,2,1,TA,134900
+50,RL,14720,CulDSac,NoRidge,1Fam,1.5Fin,8,5,1995,Hip,VinylSd,BrkFace,579,PConc,816,1217,2033,Ex,2053,1185,3238,1,0,2,4,1,Gd,410000
+60,RL,10316,Inside,CollgCr,1Fam,2Story,7,5,2000,Gable,VinylSd,None,0,PConc,735,257,992,Ex,992,873,1865,1,0,2,3,1,Gd,235000
+80,RL,10192,Inside,NWAmes,1Fam,SLvl,7,6,1968,Gable,MetalSd,BrkFace,143,CBlock,0,570,570,Gd,1222,698,1920,0,0,3,4,1,Gd,170000
+20,RL,9477,Corner,NAmes,1Fam,1Story,5,5,1966,Gable,HdBoard,BrkFace,65,CBlock,340,524,864,TA,892,0,892,0,0,1,3,1,TA,110000
+20,RL,12537,CulDSac,NAmes,1Fam,1Story,5,6,1971,Gable,VinylSd,None,0,CBlock,734,344,1078,Ex,1078,0,1078,1,0,1,3,1,TA,149900
+160,FV,2117,Inside,Somerst,Twnhs,2Story,6,5,2000,Gable,MetalSd,BrkFace,216,PConc,378,378,756,Ex,769,804,1573,0,0,2,3,1,Gd,177500
+20,RL,16737,FR3,NridgHt,1Fam,1Story,9,5,2004,Hip,VinylSd,BrkFace,66,PConc,1447,533,1980,Ex,1980,0,1980,1,0,2,3,1,Ex,315000
+70,RL,9842,Inside,SWISU,1Fam,2Story,5,6,1921,Gable,MetalSd,None,0,BrkTil,0,612,612,Ex,990,1611,2601,0,0,3,4,1,TA,189000
+20,RL,16158,Inside,StoneBr,1Fam,1Story,7,5,2005,Hip,VinylSd,Stone,16,PConc,1274,256,1530,Ex,1530,0,1530,1,0,2,3,1,Gd,260000
+50,RL,12513,FR2,NAmes,1Fam,1.5Fin,4,4,1920,Gable,VinylSd,None,0,BrkTil,0,715,715,Gd,1281,457,1738,0,0,2,4,1,TA,104900
+60,RL,8499,Inside,Gilbert,1Fam,2Story,6,5,2006,Gable,VinylSd,None,0,PConc,0,616,616,Ex,616,796,1412,0,0,2,3,1,Gd,156932
+160,FV,3180,Inside,Somerst,TwnhsE,2Story,7,5,2005,Gable,MetalSd,None,0,PConc,0,600,600,Ex,520,600,1200,0,0,2,2,1,Gd,144152
+60,FV,7500,Inside,Somerst,1Fam,2Story,7,5,2000,Gable,VinylSd,None,0,PConc,533,281,814,Ex,814,860,1674,1,0,2,3,1,Gd,216000
+60,RL,9179,Inside,CollgCr,1Fam,2Story,7,5,1999,Gable,VinylSd,BrkFace,158,PConc,633,240,873,Ex,882,908,1790,1,0,2,3,1,Gd,193000
+160,RM,2665,Inside,MeadowV,TwnhsE,2Story,5,6,1977,Gable,CemntBd,None,0,PConc,548,36,757,Ex,925,550,1475,0,0,2,4,1,TA,127000
+120,RM,4435,Inside,CollgCr,TwnhsE,1Story,6,5,2003,Gable,VinylSd,BrkFace,170,PConc,685,163,848,Ex,848,0,848,1,0,1,1,1,Gd,144000
+20,RL,10635,FR2,CollgCr,1Fam,1Story,8,5,2003,Hip,VinylSd,BrkFace,171,PConc,370,315,1657,Ex,1668,0,1668,1,0,2,3,1,Gd,232000
+50,RL,5400,Corner,OldTown,1Fam,1.5Fin,4,6,1920,Gable,CBlock,None,0,PConc,315,420,840,Ex,840,534,1374,0,0,1,2,1,TA,105000
+80,RL,9600,Inside,NAmes,1Fam,SLvl,6,6,1955,Hip,AsbShng,None,0,CBlock,831,161,992,Gd,1661,0,1661,1,0,1,3,1,Gd,165500
+60,RL,9750,Corner,CollgCr,1Fam,2Story,7,6,1998,Gable,VinylSd,None,0,PConc,975,133,1108,Ex,1108,989,2097,1,0,2,3,1,Gd,274300
+20,RL,11400,Inside,NoRidge,1Fam,1Story,10,5,2001,Hip,VinylSd,BrkFace,705,PConc,1282,1351,2633,Ex,2633,0,2633,1,0,2,2,1,Ex,466500
+60,FV,10625,Inside,Somerst,1Fam,2Story,7,5,2005,Gable,CemntBd,None,0,PConc,0,1026,1026,Ex,1026,932,1958,0,0,2,3,1,Gd,250000
+20,RL,10991,Inside,Timber,1Fam,1Story,8,5,2007,Gable,VinylSd,BrkFace,80,PConc,0,1571,1571,Ex,1571,0,1571,0,0,2,3,1,Gd,239000
+30,RL,6292,Inside,SWISU,1Fam,1Story,6,5,1930,Gable,Wd Sdng,None,0,BrkTil,384,384,768,TA,790,0,790,0,0,1,2,1,TA,91000
+50,RL,10998,Inside,Edwards,1Fam,1.5Fin,5,5,1941,Gable,Wd Sdng,None,0,CBlock,408,156,984,Ex,984,620,1604,0,0,2,3,1,TA,117000
+160,RM,1953,Inside,BrDale,Twnhs,2Story,6,5,1973,Gable,HdBoard,BrkFace,408,CBlock,309,174,483,TA,483,504,987,0,0,1,2,1,TA,83000
+80,RL,9735,Inside,Timber,1Fam,SLvl,5,5,2006,Gable,VinylSd,None,0,PConc,0,384,384,Gd,754,640,1394,0,0,2,3,1,Gd,167500
+30,RL,8212,Inside,Edwards,1Fam,1Story,3,3,1914,Gable,Stucco,None,0,BrkTil,203,661,864,TA,864,0,864,1,0,1,2,1,TA,58500
+20,RL,12925,Corner,NAmes,1Fam,1Story,6,7,1970,Gable,BrkFace,None,0,CBlock,865,340,1205,Ex,2117,0,2117,0,0,2,4,1,TA,237500
+70,RM,7200,Corner,OldTown,1Fam,2Story,7,7,1920,Hip,Wd Sdng,None,0,BrkTil,0,596,596,Ex,998,764,1762,1,0,1,4,1,Gd,157000
+30,RL,25339,Inside,Sawyer,1Fam,1Story,5,7,1918,Gable,Wd Sdng,None,0,BrkTil,0,816,816,Ex,1416,0,1416,0,0,2,3,1,Gd,112000
+50,RL,9060,Inside,Edwards,1Fam,1.5Fin,6,5,1939,Gable,WdShing,None,0,BrkTil,204,356,560,TA,698,560,1258,0,0,1,2,1,TA,105000
+50,RM,5436,Inside,IDOTRR,1Fam,1.5Fin,4,8,1922,Gable,VinylSd,None,0,BrkTil,735,61,796,Gd,796,358,1154,1,0,1,3,1,Gd,125500
+60,RL,16692,Inside,NWAmes,1Fam,2Story,7,5,1978,Gable,Plywood,BrkFace,184,CBlock,790,133,1392,TA,1392,1392,2784,1,0,3,5,1,Gd,250000
+50,RM,8520,Inside,OldTown,1Fam,1.5Fin,6,7,1916,Gable,Stucco,None,0,BrkTil,168,0,714,TA,1664,862,2526,0,0,2,5,1,Gd,136000
+20,RL,14892,CulDSac,Gilbert,1Fam,1Story,9,5,2006,Gable,VinylSd,Stone,160,PConc,1320,426,1746,Ex,1746,0,1746,1,0,2,3,1,Ex,377500
+50,RM,6000,Inside,BrkSide,1Fam,1.5Fin,6,6,1941,Gable,Wd Sdng,None,0,BrkTil,375,360,735,Ex,869,349,1218,0,1,1,3,1,TA,131000
+20,RL,9100,Inside,CollgCr,1Fam,1Story,7,5,2000,Gable,VinylSd,BrkFace,244,PConc,1400,125,1525,Ex,1525,0,1525,1,0,2,3,1,Gd,235000
+90,RL,8944,Inside,NAmes,Duplex,1Story,5,5,1967,Gable,Plywood,None,0,CBlock,0,1584,1584,TA,1584,0,1584,0,0,2,4,2,TA,124000
+85,RL,7838,Inside,NAmes,1Fam,SFoyer,5,5,1967,Gable,HdBoard,None,0,CBlock,769,95,864,TA,900,0,900,1,0,1,3,1,TA,123000
+190,RM,10800,Inside,OldTown,2fmCon,1.5Fin,6,7,1905,Gable,Wd Sdng,None,0,BrkTil,0,482,482,Ex,1221,691,1912,0,0,2,3,2,TA,163000
+120,RL,4045,Inside,Blmngtn,TwnhsE,1Story,7,5,2006,Hip,VinylSd,BrkFace,45,PConc,1070,286,1356,Ex,1500,0,1500,1,0,2,2,1,Gd,246578
+60,RL,12665,Inside,Timber,1Fam,2Story,8,5,2005,Hip,VinylSd,BrkFace,245,PConc,0,1094,1094,Ex,1133,1349,2482,0,0,2,4,1,Gd,281213
+20,RL,57200,Inside,Timber,1Fam,1Story,5,5,1948,Gable,Wd Sdng,None,0,CBlock,353,60,747,TA,1687,0,1687,1,0,1,3,1,TA,160000
+70,RM,6120,Inside,BrkSide,1Fam,2Story,5,8,1920,Gable,MetalSd,None,0,BrkTil,0,939,939,Ex,939,574,1513,0,0,1,4,1,TA,137500
+50,RL,7200,Inside,NAmes,1Fam,1.5Fin,5,4,1950,Gable,VinylSd,None,0,CBlock,180,676,1208,Gd,1136,768,1904,1,0,1,3,1,TA,138000
+50,RL,6171,Inside,SWISU,1Fam,1.5Fin,6,6,1925,Gable,WdShing,None,0,BrkTil,264,712,976,Ex,1160,448,1608,0,0,2,3,1,Gd,137450
+50,RM,6000,Corner,BrkSide,1Fam,1.5Fin,6,7,1929,Gable,WdShing,None,0,BrkTil,0,862,862,TA,950,208,1158,0,0,1,3,1,TA,120000
+60,RL,7415,Inside,Gilbert,1Fam,2Story,6,5,2004,Gable,VinylSd,None,0,PConc,759,80,839,Ex,864,729,1593,1,0,2,3,1,TA,193000
+20,RL,6762,Inside,CollgCr,1Fam,1Story,7,5,2006,Gable,VinylSd,None,0,PConc,0,1286,1286,Ex,1294,0,1294,0,0,2,2,1,Gd,193879
+20,RL,15256,CulDSac,Somerst,1Fam,1Story,8,5,2007,Gable,VinylSd,Stone,84,PConc,929,556,1485,Ex,1464,0,1464,1,0,2,3,1,Gd,282922
+50,RL,10410,Corner,OldTown,1Fam,1.5Fin,3,4,1915,Gable,Wd Sdng,None,0,PConc,0,672,672,TA,694,520,1214,0,0,1,3,1,TA,105000
+120,RM,3842,Inside,Crawfor,TwnhsE,1Story,8,5,2004,Hip,CemntBd,Stone,174,PConc,1373,221,1594,Ex,1646,0,1646,1,1,2,2,1,Gd,275000
+85,RL,8445,Corner,CollgCr,1Fam,SFoyer,5,7,1972,Gable,HdBoard,None,0,CBlock,656,112,768,TA,768,0,768,1,0,1,2,1,TA,133000
+20,RL,8780,Corner,Mitchel,1Fam,1Story,5,5,1985,Gable,HdBoard,None,0,CBlock,625,208,833,Ex,833,0,833,1,0,1,3,1,TA,112000
+70,RM,7740,Inside,OldTown,1Fam,2Story,4,7,1910,Gable,VinylSd,None,0,CBlock,0,622,622,Gd,741,622,1363,0,0,1,3,1,TA,125500
+60,RL,20544,CulDSac,NWAmes,1Fam,2Story,7,6,1986,Gable,Plywood,BrkFace,123,CBlock,0,791,791,Gd,1236,857,2093,0,0,2,3,1,TA,215000
+60,RL,12420,Inside,CollgCr,1Fam,2Story,7,5,2001,Gable,VinylSd,None,0,PConc,666,278,944,Ex,944,896,1840,1,0,2,3,1,Gd,230000
+50,RL,9600,Inside,NAmes,1Fam,1.5Fin,6,8,1950,Gable,VinylSd,None,0,CBlock,120,736,856,Ex,1112,556,1668,0,0,1,3,1,TA,140000
+90,RL,7200,Inside,NAmes,Duplex,1Story,4,5,1949,Gable,BrkFace,None,0,Slab,0,0,0,Fa,1040,0,1040,0,0,2,2,2,TA,90000
+20,RL,10994,Corner,SawyerW,1Fam,1Story,8,5,2005,Gable,VinylSd,Stone,366,PConc,976,868,1844,Ex,1844,0,1844,1,0,2,2,1,Gd,257000
+50,RL,13053,Inside,BrkSide,1Fam,1.5Fin,6,7,1923,Gambrel,Wd Sdng,None,0,BrkTil,0,833,833,Gd,1053,795,1848,0,0,1,4,1,Gd,207000
+120,RL,3635,Inside,Blmngtn,TwnhsE,1Story,7,5,2007,Hip,VinylSd,BrkFace,130,PConc,988,398,1386,Ex,1569,0,1569,0,1,2,1,1,Gd,175900
+190,RM,11340,Inside,OldTown,2fmCon,2Story,4,6,1885,Gable,VinylSd,None,0,PConc,0,777,777,Gd,1246,1044,2290,0,0,2,4,2,TA,122500
+60,RL,16545,Inside,NoRidge,1Fam,2Story,8,5,1998,Gable,VinylSd,BrkFace,731,PConc,781,503,1284,Ex,1310,1140,2450,1,0,2,3,1,Gd,340000
+20,RL,9204,Inside,NAmes,1Fam,1Story,5,5,1963,Gable,HdBoard,None,0,CBlock,25,247,1144,TA,1144,0,1144,1,0,1,3,1,TA,124000
+20,RL,16381,Inside,Crawfor,1Fam,1Story,6,5,1969,Gable,Plywood,BrkFace,312,CBlock,1110,734,1844,Gd,1844,0,1844,1,0,2,3,1,Gd,223000
+60,RL,11700,Corner,NWAmes,1Fam,2Story,6,6,1968,Gable,HdBoard,BrkFace,420,CBlock,404,304,708,Gd,708,708,1416,0,0,2,3,1,TA,179900
+120,RL,4043,Inside,NPkVill,TwnhsE,1Story,6,5,1977,Gable,Plywood,None,0,CBlock,360,709,1069,TA,1069,0,1069,0,0,2,2,1,TA,127500
+120,RM,4435,Inside,CollgCr,TwnhsE,1Story,6,5,2003,Gable,VinylSd,BrkFace,170,PConc,686,162,848,Ex,848,0,848,1,0,1,1,1,Gd,136500
+80,RL,19690,CulDSac,Edwards,1Fam,SLvl,6,7,1966,Flat,Plywood,None,0,CBlock,0,697,697,TA,1575,626,2201,0,0,2,4,1,Gd,274970
+20,RL,9503,Inside,NAmes,1Fam,1Story,5,5,1958,Hip,HdBoard,None,0,CBlock,457,193,1024,TA,1344,0,1344,1,0,1,2,1,TA,144000
+20,RL,10721,Inside,NAmes,1Fam,1Story,6,6,1959,Hip,HdBoard,Stone,243,CBlock,0,1252,1252,Ex,1252,0,1252,0,0,1,3,1,Gd,142000
+60,RL,10944,Inside,NoRidge,1Fam,2Story,7,5,1994,Gable,VinylSd,BrkFace,448,PConc,1000,223,1223,Ex,1223,904,2127,1,0,2,3,1,Gd,271000
+50,RL,10930,Inside,NAmes,1Fam,1.5Fin,5,6,1945,Gable,MetalSd,None,0,CBlock,580,333,913,TA,1048,510,1558,1,0,1,3,1,TA,140000
+30,RM,7200,Corner,OldTown,1Fam,1Story,5,7,1940,Gable,MetalSd,Stone,294,CBlock,510,278,788,TA,804,0,804,1,0,1,2,1,Gd,119000
+20,RL,12546,Corner,NWAmes,1Fam,1Story,6,7,1981,Gable,MetalSd,BrkFace,310,CBlock,678,762,1440,Ex,1440,0,1440,0,0,2,3,1,Gd,182900
+60,RL,21930,Inside,Gilbert,1Fam,2Story,5,5,2005,Gable,VinylSd,None,0,PConc,0,732,732,Ex,734,1104,1838,0,0,2,4,1,TA,192140
+120,RL,4928,Inside,NPkVill,TwnhsE,1Story,6,6,1976,Gable,Plywood,None,0,CBlock,958,0,958,TA,958,0,958,0,0,2,2,1,TA,143750
+30,RL,10800,Inside,OldTown,1Fam,1Story,4,6,1927,Gable,Wd Sdng,None,0,BrkTil,0,656,656,TA,968,0,968,0,0,2,4,1,TA,64500
+60,RL,10261,Inside,Gilbert,1Fam,2Story,6,5,2000,Gable,VinylSd,BrkFace,318,PConc,0,936,936,Ex,962,830,1792,1,0,2,3,1,TA,186500
+20,RL,17400,Inside,Mitchel,1Fam,1Story,5,5,1977,Gable,BrkFace,None,0,CBlock,936,190,1126,Fa,1126,0,1126,1,0,2,3,1,TA,160000
+20,RL,8400,Inside,NAmes,1Fam,1Story,6,9,1962,Gable,Wd Sdng,BrkFace,237,CBlock,0,1319,1319,TA,1537,0,1537,1,0,1,3,1,Gd,174000
+20,RL,9000,FR2,NAmes,1Fam,1Story,4,6,1971,Gable,HdBoard,None,0,PConc,616,248,864,TA,864,0,864,0,0,1,3,1,TA,120500
+20,RL,12444,FR2,NridgHt,1Fam,1Story,8,5,2008,Hip,VinylSd,Stone,426,PConc,1336,596,1932,Ex,1932,0,1932,1,0,2,2,1,Ex,394617
+20,RM,7407,Inside,OldTown,1Fam,1Story,6,7,1957,Gable,MetalSd,None,0,CBlock,600,312,912,TA,1236,0,1236,1,0,1,2,1,TA,149700
+60,RL,11584,Inside,NWAmes,1Fam,SLvl,7,6,1979,Hip,HdBoard,BrkFace,96,CBlock,315,114,539,TA,1040,685,1725,0,0,2,3,1,TA,197000
+70,RL,11526,Inside,Crawfor,1Fam,2.5Fin,6,7,1922,Gable,MetalSd,None,0,BrkTil,0,588,588,Fa,1423,748,2555,0,0,2,3,1,TA,191000
+120,RM,4426,Inside,CollgCr,TwnhsE,1Story,6,5,2004,Gable,VinylSd,BrkFace,147,PConc,697,151,848,Ex,848,0,848,1,0,1,1,1,Gd,149300
+60,FV,11003,Inside,Somerst,1Fam,2Story,10,5,2008,Gable,VinylSd,Stone,160,PConc,765,252,1017,Ex,1026,981,2007,1,0,2,3,1,Ex,310000
+30,RL,8854,Inside,BrkSide,1Fam,1.5Unf,6,6,1916,Gable,Wd Sdng,None,0,BrkTil,0,952,952,Fa,952,0,952,0,0,1,2,1,Fa,121000
+20,RL,8500,FR2,CollgCr,1Fam,1Story,7,5,2004,Gable,VinylSd,BrkFace,106,PConc,0,1422,1422,Ex,1422,0,1422,0,0,2,3,1,Gd,179600
+85,RL,8400,Inside,Sawyer,1Fam,SFoyer,6,5,1966,Gable,VinylSd,None,0,CBlock,187,0,814,Gd,913,0,913,1,0,1,3,1,TA,129000
+20,RL,26142,CulDSac,Mitchel,1Fam,1Story,5,7,1962,Gable,HdBoard,BrkFace,189,CBlock,593,595,1188,TA,1188,0,1188,0,0,1,3,1,TA,157900
+60,RL,10000,Inside,CollgCr,1Fam,2Story,8,5,1995,Gable,VinylSd,BrkFace,438,PConc,1079,141,1220,Ex,1220,870,2090,1,0,2,3,1,Gd,240000
+50,RL,11767,Inside,Edwards,1Fam,2Story,4,7,1910,Gable,MetalSd,None,0,CBlock,0,560,560,Gd,796,550,1346,0,0,1,2,1,TA,112000
+180,RM,1533,Inside,MeadowV,Twnhs,SFoyer,5,7,1970,Gable,CemntBd,None,0,CBlock,553,77,630,Ex,630,0,630,1,0,1,1,1,Ex,92000
+90,RL,9000,FR2,NAmes,Duplex,2Story,5,5,1974,Gable,VinylSd,None,0,CBlock,0,896,896,TA,896,896,1792,0,0,2,4,2,TA,136000
+20,RL,9262,Inside,Somerst,1Fam,1Story,8,5,2008,Gable,CemntBd,Stone,194,PConc,0,1573,1573,Ex,1578,0,1578,0,0,2,3,1,Ex,287090
+180,RM,3675,Inside,Edwards,TwnhsE,SLvl,5,5,2005,Gable,VinylSd,BrkFace,80,PConc,547,0,547,Gd,1072,0,1072,1,0,1,2,1,TA,145000
+20,RL,17217,Inside,Mitchel,1Fam,1Story,5,5,2006,Gable,VinylSd,None,0,PConc,0,1140,1140,Ex,1140,0,1140,0,0,1,3,1,TA,84500
+20,FV,7500,Inside,Somerst,1Fam,1Story,7,5,2004,Gable,VinylSd,None,0,PConc,410,811,1221,Ex,1221,0,1221,1,0,2,2,1,Gd,185000
+60,RL,7917,Inside,Gilbert,1Fam,2Story,6,5,1999,Gable,VinylSd,None,0,PConc,0,953,953,Ex,953,694,1647,0,0,2,3,1,TA,175000
+20,RL,13175,Inside,NWAmes,1Fam,1Story,6,6,1978,Gable,Plywood,Stone,119,CBlock,790,589,1542,TA,2073,0,2073,1,0,2,3,1,TA,210000
+70,RL,9042,Inside,Crawfor,1Fam,2Story,7,9,1941,Gable,CemntBd,None,0,Stone,275,877,1152,Ex,1188,1152,2340,0,0,2,4,1,Gd,266500
+20,RL,9717,Inside,NAmes,1Fam,1Story,5,6,1950,Hip,MetalSd,None,0,CBlock,49,0,1078,Gd,1078,0,1078,1,0,1,2,1,Gd,142125
+20,RL,9937,Inside,Edwards,1Fam,1Story,5,6,1965,Gable,HdBoard,None,0,CBlock,830,136,1256,Gd,1256,0,1256,1,0,1,3,1,TA,147500
