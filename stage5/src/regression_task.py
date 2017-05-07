@@ -7,6 +7,7 @@ from sklearn import preprocessing
 from sklearn.svm import SVR
 from boxplot_script import *
 from sklearn.metrics import mean_absolute_error, mean_squared_error, median_absolute_error, r2_score
+from sklearn.neural_network import MLPRegressor
 
 #DEFINE_SET_ML = set([2, 7, 8, 9, 14, 15, 16, 18, 19, 20, 25, 29, 30, 31, 32, 33, 34, 35])
 DEFINE_SET_ML = set([2, 7, 8, 14, 15, 16, 18, 19, 20, 25, 29, 30, 31, 32, 35])
@@ -82,6 +83,11 @@ def get_accuracy_score(predictor, test_data, test_label):
 	r2_socre = r2_score(test_label, prediction, multioutput='uniform_average')
 	return MSE_socre, MAE_score, median_score, r2_socre
 
+def nnet_regressor(train_data, train_label):
+	nnet_regressor = MLPRegressor()
+	nnet_regressor.fit(train_data, train_label)
+	return nnet_regressor
+
 def plot_coefficients(classifier, feature_names, top_features=14):
 	coef = classifier.coef_.ravel()
 	top_positive_coefficients = np.argsort(coef)[-top_features:]
@@ -109,6 +115,7 @@ if __name__ == "__main__":
 																	  random_state=42)
 	ridge_model, lasso_model = ridge_regression(train_data, train_label)
 	SVR_model = SVR_regression(train_data, train_label)
-	MSE_socre, MAE_score, median_score, r2_socre = get_accuracy_score(ridge_model, train_data, train_label)
-	plot_coefficients(lasso_model, feature_names)
+	MLP_model = nnet_regressor(train_data, train_label)
+	MSE_socre, MAE_score, median_score, r2_socre = get_accuracy_score(MLP_model, train_data, train_label)
 	print(MSE_socre, MAE_score, median_score, r2_socre)
+	plot_coefficients(lasso_model, feature_names)
