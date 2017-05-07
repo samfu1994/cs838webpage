@@ -94,8 +94,14 @@ def extract_data_for_box_plot(feature_dict, data_table, col_idx=None):
 	return plot_dict
 
 def do_boxplot(plot_dict):
+	'''
+	draw boxplot based on each column
+
+	Input:
+	plot_dict: returned from extract_data_for_box_plot with different col_idx
+	'''
 	data = []
-	N = 500
+	extrem_margin = 20000
 	#extract data from the plot dict
 	for item in plot_dict.items():
 		data.append(np.array(item[1]))
@@ -103,7 +109,7 @@ def do_boxplot(plot_dict):
 	randomDists = plot_dict.keys()
 	numDists = len(randomDists)
 	#start doing the boxplot
-	fig, ax1 = plt.subplots(figsize=(10, 6))
+	fig, ax1 = plt.subplots(figsize=(12, 8))
 	fig.canvas.set_window_title('A Boxplot Example')
 	plt.subplots_adjust(left=0.075, right=0.95, top=0.9, bottom=0.25)
 
@@ -119,11 +125,11 @@ def do_boxplot(plot_dict):
 
 	# Hide these grid behind plot objects
 	ax1.set_axisbelow(True)
-	ax1.set_title('Comparison of IID Bootstrap Resampling Across Five Distributions')
-	ax1.set_xlabel('Distribution')
-	ax1.set_ylabel('Value')
+	ax1.set_title('Comparison of House SalePrice among type of House Styles')
+	ax1.set_xlabel('House Styles')
+	ax1.set_ylabel('SalePrice')
 
-	boxColors = ['darkkhaki', 'royalblue']
+	boxColors = ['darkkhaki', 'royalblue', 'aqua', 'azure', 'indigo', 'turquoise']
 	numBoxes = numDists
 	medians = list(range(numBoxes))
 	for i in range(numBoxes):
@@ -135,7 +141,7 @@ def do_boxplot(plot_dict):
 	        boxY.append(box.get_ydata()[j])
 	    boxCoords = list(zip(boxX, boxY))
 	    # Alternate between Dark Khaki and Royal Blue
-	    k = i % 2
+	    k = i % 6
 	    boxPolygon = Polygon(boxCoords, facecolor=boxColors[k])
 	    ax1.add_patch(boxPolygon)
 	    # Now draw the median lines back over what we just filled in
@@ -154,8 +160,8 @@ def do_boxplot(plot_dict):
 
 	# Set the axes ranges and axes labels
 	ax1.set_xlim(0.5, numBoxes + 0.5)
-	top = 450000
-	bottom = 50000
+	top = max([np.nanmax(a) for a in data]) + extrem_margin
+	bottom = min([np.nanmin(a) for a in data]) - extrem_margin
 	ax1.set_ylim(bottom, top)
 	#xtickNames = plt.setp(ax1, xticklabels=np.repeat(randomDists, 2))
 	xtickNames = plt.setp(ax1, xticklabels=np.array(randomDists))
@@ -175,7 +181,7 @@ def do_boxplot(plot_dict):
 	             color=boxColors[k])
 
 	# Finally, add a basic legend
-	
+	'''
 	plt.figtext(0.80, 0.08, str(N) + ' Random Numbers',
 	            backgroundcolor=boxColors[0], color='black', weight='roman',
 	            size='x-small')
@@ -186,11 +192,11 @@ def do_boxplot(plot_dict):
 	            weight='roman', size='medium')
 	plt.figtext(0.815, 0.013, ' Average Value', color='black', weight='roman',
 	            size='x-small')
-	
+	'''
 	plt.show()
 	
 if __name__ == "__main__":
 	data_table = load_csv_data(DATA_DIR)
 	feature_dict =  extract_feature_value(data_table)
-	plot_dict = extract_data_for_box_plot(feature_dict, data_table, col_idx=0)
+	plot_dict = extract_data_for_box_plot(feature_dict, data_table, col_idx=6)
 	do_boxplot(plot_dict)

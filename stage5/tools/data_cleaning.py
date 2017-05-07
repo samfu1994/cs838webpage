@@ -11,7 +11,8 @@ OUT_DIR = "../data_set/processed_data.csv"
 EXT_DIR = "../data_set/data_to_analyze.csv"
 #these data columns are what we interested in
 PRE_DEFINED_SET = set([1, 2, 3, 8, 10, 13, 14, 15, 16, 17, 19, 21, 23, 25, 26,
-28, 29, 30, 33, 34, 36, 37, 38, 39, 40, 41, 42, 43, 47, 48, 61])
+28, 29, 30, 33, 34, 36, 37, 38, 39, 40, 41, 42, 43, 47, 48, 50, 51, 52, 57, 
+58, 61])
 
 def load_data_set(data_dir):
 	data_element = []
